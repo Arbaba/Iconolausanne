@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Place St-Francois Baseline</name>
+	<open>1</open>
+	<PhotoOverlay>
+		<name>145293.jpg</name>
+		<Camera>
+			<longitude>6.632119482901516</longitude>
+			<latitude>46.51967936509633</latitude>
+			<altitude>2.64188694595644</altitude>
+			<heading>96.74143970683654</heading>
+			<tilt>102.5788679346429</tilt>
+			<roll>0.002625935003500097</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>images_per_street/Pl. Saint-Francois/cluster 5/145293.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-24.9971</leftFov>
+			<rightFov>24.9971</rightFov>
+			<bottomFov>-16.685</bottomFov>
+			<topFov>16.685</topFov>
+			<near>0.915414</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>6.632119482901516,46.51967936509633,2.64188694595644</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>134664.jpg</name>
+		<Camera>
+			<longitude>6.6318493467074</longitude>
+			<latitude>46.51964073910206</latitude>
+			<altitude>12.06995919584397</altitude>
+			<heading>101.9924575711184</heading>
+			<tilt>90.08649850168153</tilt>
+			<roll>0.00228880271493224</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>images_per_street/Pl. Saint-Francois/cluster 5/134664.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-25</leftFov>
+			<rightFov>25</rightFov>
+			<bottomFov>-17</bottomFov>
+			<topFov>17</topFov>
+			<near>1.30641</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>6.6318493467074,46.51964073910206,12.06995919584397</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>175041.jpg</name>
+		<Camera>
+			<longitude>6.632167278999995</longitude>
+			<latitude>46.51969659600006</latitude>
+			<altitude>4.629999993273783</altitude>
+			<heading>103.2765103575872</heading>
+			<tilt>94.6753708004951</tilt>
+			<roll>-3.272189642391162e-09</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>images_per_street/Pl. Saint-Francois/cluster 5/175041.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-27.36</leftFov>
+			<rightFov>27.36</rightFov>
+			<bottomFov>-18.645</bottomFov>
+			<topFov>18.645</topFov>
+			<near>1.6043</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>6.632167278999994,46.51969659600006,4.629999993273783</coordinates>
+		</Point>
+	</PhotoOverlay>
+</Folder>
+</kml>

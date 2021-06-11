@@ -1,0 +1,557 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/145355">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145355.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632311682624578</longitude>
+        <latitude>46.51962908317759</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>105.80977722106859</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145355.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.92269326683292</leftFov>
+        <rightFov>30.92269326683292</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/134662">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134662.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632167870390406</longitude>
+        <latitude>46.51970775300212</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>114.55818039447999</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134662.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.788177339901477</leftFov>
+        <rightFov>30.788177339901477</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/145305">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145305.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.63244609637219</longitude>
+        <latitude>46.51969897074778</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>101.31701696002632</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145305.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.19592875318066</leftFov>
+        <rightFov>31.19592875318066</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/141700">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/141700.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632290020455169</longitude>
+        <latitude>46.51970381851008</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>113.14286967663016</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/141700.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-26.666666666666664</leftFov>
+        <rightFov>26.666666666666664</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/134663">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134663.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632288870323828</longitude>
+        <latitude>46.519659716160426</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>110.05554515874205</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134663.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.19592875318066</leftFov>
+        <rightFov>31.19592875318066</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/137946">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/137946.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6322692785032835</longitude>
+        <latitude>46.51968633062052</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>107.87634261669518</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/137946.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-28.256880733944953</leftFov>
+        <rightFov>28.256880733944953</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/143020">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/143020.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6323315894925114</longitude>
+        <latitude>46.519719727062785</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>114.75705871580479</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/143020.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.17794486215539</leftFov>
+        <rightFov>31.17794486215539</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/143021">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/143021.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632280112648066</longitude>
+        <latitude>46.51970962723467</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>113.67476991546405</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/143021.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.269035532994923</leftFov>
+        <rightFov>31.269035532994923</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/143023">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/143023.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632360654224942</longitude>
+        <latitude>46.5197205875094</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>114.48224929307851</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/143023.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.043256997455472</leftFov>
+        <rightFov>31.043256997455472</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/107656">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/107656.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632249081337559</longitude>
+        <latitude>46.51965838536733</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>107.1009466360947</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/107656.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-28.187919463087248</leftFov>
+        <rightFov>28.187919463087248</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/143022">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/143022.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632275999036675</longitude>
+        <latitude>46.51969687282713</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>113.53618084637432</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/143022.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.072639225181597</leftFov>
+        <rightFov>30.072639225181597</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/175041">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/175041.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632257830698312</longitude>
+        <latitude>46.519701253116736</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>112.52499551333938</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/175041.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.669975186104217</leftFov>
+        <rightFov>30.669975186104217</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/107655">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/107655.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6323308087543955</longitude>
+        <latitude>46.5196711398384</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>103.78623545987277</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/107655.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-27.901785714285715</leftFov>
+        <rightFov>27.901785714285715</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/134654">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134654.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632396097184954</longitude>
+        <latitude>46.51964190937669</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>105.82971919384498</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134654.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.150000000000002</leftFov>
+        <rightFov>31.150000000000002</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/145293">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145293.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632135394688012</longitude>
+        <latitude>46.519684536298854</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>108.74097755558714</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145293.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.11111111111111</leftFov>
+        <rightFov>31.11111111111111</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/134656">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134656.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632369410704391</longitude>
+        <latitude>46.51963406519916</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>104.51587632439102</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134656.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.918114143920597</leftFov>
+        <rightFov>30.918114143920597</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/145304">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145304.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632496987082153</longitude>
+        <latitude>46.51976904387207</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>104.22979783243318</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145304.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.333333333333332</leftFov>
+        <rightFov>31.333333333333332</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/134655">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134655.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632398802607348</longitude>
+        <latitude>46.51958296753496</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>96.33759230253561</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134655.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.335012594458437</leftFov>
+        <rightFov>31.335012594458437</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/134664">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134664.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632341104367424</longitude>
+        <latitude>46.51957073717305</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>104.61911748821026</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134664.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.501193317422434</leftFov>
+        <rightFov>30.501193317422434</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/136535">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/136535.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632199853178384</longitude>
+        <latitude>46.51965623723901</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>105.27703153605509</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/136535.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-28.64988558352403</leftFov>
+        <rightFov>28.64988558352403</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/145352">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145352.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632503466345842</longitude>
+        <latitude>46.519720010009905</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>108.11100534129625</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145352.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.262626262626263</leftFov>
+        <rightFov>31.262626262626263</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/134651">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134651.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.63245850182082</longitude>
+        <latitude>46.519706074349514</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>101.19718269035828</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/134651.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.867007672634273</leftFov>
+        <rightFov>31.867007672634273</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" Saint-Francois/cluster 5/145049">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145049.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632351851197059</longitude>
+        <latitude>46.51963112941374</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>103.97943137699696</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. Saint-Francois/cluster 5/145049.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-13.035019455252918</leftFov>
+        <rightFov>13.035019455252918</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+  </Document>
+</kml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Place St-Francois Baseline 2</name>
+	<open>1</open>
+	<PhotoOverlay>
+		<name>107656.jpg</name>
+		<Camera>
+			<longitude>6.632249081337559</longitude>
+			<latitude>46.51965838536733</latitude>
+			<altitude>17.18941014135157</altitude>
+			<heading>107.1009466360947</heading>
+			<tilt>90.23979104821717</tilt>
+			<roll>0.03060356669562638</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>images_per_street/Pl. Saint-Francois/cluster 5/107656.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-55.0013</leftFov>
+			<rightFov>55.0013</rightFov>
+			<bottomFov>-45.38</bottomFov>
+			<topFov>45.38</topFov>
+			<near>1.09185</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>6.632249081337559,46.51965838536732,17.18941014135157</coordinates>
+		</Point>
+	</PhotoOverlay>
+	<PhotoOverlay>
+		<name>134654.jpg</name>
+		<Camera>
+			<longitude>6.632396097184954</longitude>
+			<latitude>46.51964190937669</latitude>
+			<altitude>5.68106344771295</altitude>
+			<heading>113.4983065792504</heading>
+			<tilt>90.59539905190175</tilt>
+			<roll>0.03060525419620934</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>:/camera_mode.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Icon>
+			<href>images_per_street/Pl. Saint-Francois/cluster 5/134654.jpg</href>
+		</Icon>
+		<ViewVolume>
+			<leftFov>-55.0007</leftFov>
+			<rightFov>55.0007</rightFov>
+			<bottomFov>-42.52</bottomFov>
+			<topFov>42.52</topFov>
+			<near>0.692482</near>
+		</ViewVolume>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<coordinates>6.632396097184953,46.51964190937669,5.68106344771295</coordinates>
+		</Point>
+	</PhotoOverlay>
+</Folder>
+</kml>

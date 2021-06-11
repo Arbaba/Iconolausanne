@@ -1,0 +1,677 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133790">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133790.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626638653544006</longitude>
+        <latitude>46.51986300976517</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>11.043065737773514</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133790.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.614250614250615</leftFov>
+        <rightFov>30.614250614250615</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133801">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133801.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626620337313387</longitude>
+        <latitude>46.51987414789343</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>14.203916253859216</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133801.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.814814814814817</leftFov>
+        <rightFov>30.814814814814817</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139713">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139713.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626579725733969</longitude>
+        <latitude>46.519903329150274</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>23.214817330032115</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139713.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.541871921182263</leftFov>
+        <rightFov>30.541871921182263</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139702">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139702.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626681623812102</longitude>
+        <latitude>46.51982968739985</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>6.7047922834819955</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139702.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.466830466830466</leftFov>
+        <rightFov>30.466830466830466</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133779">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133779.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626726339319046</longitude>
+        <latitude>46.519831022832285</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>3.531461229652118</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133779.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.217917675544793</leftFov>
+        <rightFov>30.217917675544793</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139721">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139721.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626484282204988</longitude>
+        <latitude>46.51964229292137</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>19.317395267531495</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139721.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.317848410757946</leftFov>
+        <rightFov>30.317848410757946</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139818">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139818.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626645919608962</longitude>
+        <latitude>46.52008466663144</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>21.852132403477064</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139818.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.918114143920597</leftFov>
+        <rightFov>30.918114143920597</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139697">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139697.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626690033820907</longitude>
+        <latitude>46.519838018761995</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>7.138560916204616</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139697.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.89108910891089</leftFov>
+        <rightFov>30.89108910891089</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133756">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133756.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626683545678439</longitude>
+        <latitude>46.51985602295572</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>7.090136142640297</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133756.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.792079207920793</leftFov>
+        <rightFov>30.792079207920793</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139714">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139714.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626574891828958</longitude>
+        <latitude>46.519883244000916</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>19.14477233764839</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139714.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.05</leftFov>
+        <rightFov>31.05</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/gsv_14">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/gsv_14.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626735099999999</longitude>
+        <latitude>46.5201791</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>0.0</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/gsv_14.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-20.0</leftFov>
+        <rightFov>20.0</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133218">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133218.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626687622023893</longitude>
+        <latitude>46.51987119630121</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>6.065012626468432</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133218.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-29.782082324455207</leftFov>
+        <rightFov>29.782082324455207</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139727">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139727.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6265746532678245</longitude>
+        <latitude>46.51988767832292</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>20.439042143497595</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139727.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.92269326683292</leftFov>
+        <rightFov>30.92269326683292</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139720">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139720.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626576433819107</longitude>
+        <latitude>46.519900514421245</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>24.643351592884166</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139720.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.24390243902439</leftFov>
+        <rightFov>30.24390243902439</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/149039">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/149039.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.62668164482209</longitude>
+        <latitude>46.52012702886257</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>19.28591685069337</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/149039.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-15.69767441860465</leftFov>
+        <rightFov>15.69767441860465</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133767">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133767.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6266855861299785</longitude>
+        <latitude>46.51988763900889</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>6.3409155546279425</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133767.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.765432098765434</leftFov>
+        <rightFov>30.765432098765434</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139889">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139889.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626641093345616</longitude>
+        <latitude>46.52007309517324</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>23.239479210428268</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139889.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-12.789373814041747</leftFov>
+        <rightFov>12.789373814041747</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133812">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133812.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6266703882848</longitude>
+        <latitude>46.520005985992235</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>14.122623796037416</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133812.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.30653266331658</leftFov>
+        <rightFov>31.30653266331658</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139726">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139726.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626589878692675</longitude>
+        <latitude>46.519923753570865</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>20.35601182273348</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139726.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.967741935483872</leftFov>
+        <rightFov>30.967741935483872</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133734">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133734.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626571823138274</longitude>
+        <latitude>46.519889586724545</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>20.488751952230317</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133734.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.653944020356235</leftFov>
+        <rightFov>31.653944020356235</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139888">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139888.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626534061005289</longitude>
+        <latitude>46.51993417689393</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>27.781728359034815</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139888.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-12.838095238095237</leftFov>
+        <rightFov>12.838095238095237</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139724">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139724.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626574673931437</longitude>
+        <latitude>46.51988687660172</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>19.203950034567754</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139724.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.284634760705288</leftFov>
+        <rightFov>31.284634760705288</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133745">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133745.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626576305180552</longitude>
+        <latitude>46.51988564593021</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>20.95029576973098</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133745.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.792079207920793</leftFov>
+        <rightFov>30.792079207920793</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139712">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139712.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626592953073081</longitude>
+        <latitude>46.51998072125176</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>23.34719858559538</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139712.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.693069306930695</leftFov>
+        <rightFov>30.693069306930695</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139722">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139722.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626639910444756</longitude>
+        <latitude>46.5198675892887</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>12.724762182527607</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139722.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.493670886075947</leftFov>
+        <rightFov>31.493670886075947</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139887">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139887.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626576079243824</longitude>
+        <latitude>46.51989840859761</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>20.798994690841507</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139887.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-12.775665399239545</leftFov>
+        <rightFov>12.775665399239545</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/139728">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139728.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626570168019795</longitude>
+        <latitude>46.519888194287084</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>20.422359446433404</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139728.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.845771144278608</leftFov>
+        <rightFov>30.845771144278608</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de Montbenon/tribunal_final/133336">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133336.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.626592181844541</longitude>
+        <latitude>46.51998279025812</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>22.145485327069427</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/133336.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-28.981481481481485</leftFov>
+        <rightFov>28.981481481481485</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+  </Document>
+</kml>

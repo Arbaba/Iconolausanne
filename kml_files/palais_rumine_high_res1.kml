@@ -1,0 +1,965 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/141702">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/141702.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632644547552791</longitude>
+        <latitude>46.52313987144521</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>59.667759521476306</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/141702.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.878172588832484</leftFov>
+        <rightFov>31.878172588832484</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144898">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144898.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632688339764115</longitude>
+        <latitude>46.52299412153447</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>39.27498242694328</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144898.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.752577319587626</leftFov>
+        <rightFov>31.752577319587626</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144924">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144924.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632715938149608</longitude>
+        <latitude>46.523051779708624</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>55.287097214109515</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144924.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.161616161616163</leftFov>
+        <rightFov>31.161616161616163</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144839">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144839.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632630909147055</longitude>
+        <latitude>46.52300594299876</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>54.51979828445724</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144839.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.228070175438596</leftFov>
+        <rightFov>31.228070175438596</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134547">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134547.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632223831484951</longitude>
+        <latitude>46.52307627900979</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>65.04349474415947</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134547.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.059431524547804</leftFov>
+        <rightFov>31.059431524547804</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144928">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144928.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632665948590362</longitude>
+        <latitude>46.52302213284007</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>53.627993270994736</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144928.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.246819338422394</leftFov>
+        <rightFov>31.246819338422394</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144927">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144927.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6323471393821025</longitude>
+        <latitude>46.523065450104795</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>62.67054163670392</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144927.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.450381679389313</leftFov>
+        <rightFov>31.450381679389313</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/104224">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104224.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632730505318812</longitude>
+        <latitude>46.52298221787583</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>52.57852125292113</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104224.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-26.51452282157676</leftFov>
+        <rightFov>26.51452282157676</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/104178">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104178.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632521147756815</longitude>
+        <latitude>46.523072825288175</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>61.84086970791997</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104178.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-26.470588235294116</leftFov>
+        <rightFov>26.470588235294116</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144844">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144844.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632507959613365</longitude>
+        <latitude>46.523117363403315</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>81.34185218137898</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144844.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.155778894472363</leftFov>
+        <rightFov>31.155778894472363</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134600">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134600.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632447712082367</longitude>
+        <latitude>46.52309102751061</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>64.27032993923909</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134600.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.065989847715734</leftFov>
+        <rightFov>31.065989847715734</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/104180">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104180.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632666079375635</longitude>
+        <latitude>46.52301707169682</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>52.30789406521133</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104180.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-27.884187082405347</leftFov>
+        <rightFov>27.884187082405347</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/136529">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/136529.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632819555457941</longitude>
+        <latitude>46.52316930635197</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>68.47551589911339</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/136529.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-29.433962264150942</leftFov>
+        <rightFov>29.433962264150942</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144925">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144925.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632702662862116</longitude>
+        <latitude>46.523046215996615</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>55.07656824779125</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144925.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.538461538461537</leftFov>
+        <rightFov>31.538461538461537</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144917">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144917.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632654094552312</longitude>
+        <latitude>46.52301506508252</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>53.52162224510889</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144917.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.77377892030848</leftFov>
+        <rightFov>31.77377892030848</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/148992">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/148992.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632682180661175</longitude>
+        <latitude>46.523021468037356</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>57.63702020201104</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/148992.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-27.806004618937642</leftFov>
+        <rightFov>27.806004618937642</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144895">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144895.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632746016210346</longitude>
+        <latitude>46.52308142314217</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>56.57987723620275</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144895.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.083123425692698</leftFov>
+        <rightFov>31.083123425692698</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134612">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134612.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632657651652533</longitude>
+        <latitude>46.52301097907302</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>52.43258931502189</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134612.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.76923076923077</leftFov>
+        <rightFov>30.76923076923077</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134591">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134591.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632381119078872</longitude>
+        <latitude>46.52306973408523</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>62.19345045250356</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134591.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.144278606965173</leftFov>
+        <rightFov>31.144278606965173</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144849">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144849.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632658668525075</longitude>
+        <latitude>46.52300869769958</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>50.28049484060469</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144849.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.773067331670823</leftFov>
+        <rightFov>30.773067331670823</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134598">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134598.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6326583437013555</longitude>
+        <latitude>46.523014504034215</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>52.96170960499511</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134598.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.61124694376528</leftFov>
+        <rightFov>30.61124694376528</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/136530">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/136530.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6326498027498735</longitude>
+        <latitude>46.5230033587282</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>50.07430251904324</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/136530.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.964467005076145</leftFov>
+        <rightFov>30.964467005076145</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144838">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144838.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632652284020738</longitude>
+        <latitude>46.52301081094738</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>54.577855949994934</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144838.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.950000000000003</leftFov>
+        <rightFov>30.950000000000003</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144918">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144918.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632556443537049</longitude>
+        <latitude>46.52307868422021</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>62.08694370719382</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144918.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.85</leftFov>
+        <rightFov>30.85</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144909">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144909.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632652284020735</longitude>
+        <latitude>46.523010810947376</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>53.03360944756071</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144909.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.346534653465348</leftFov>
+        <rightFov>30.346534653465348</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134611">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134611.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632645795632623</longitude>
+        <latitude>46.52300136880414</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>50.066069425480876</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134611.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.91358024691358</leftFov>
+        <rightFov>30.91358024691358</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/107632">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/107632.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632614523135062</longitude>
+        <latitude>46.52323297935705</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>72.66253177967613</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/107632.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-28.404494382022474</leftFov>
+        <rightFov>28.404494382022474</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134614">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134614.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.63272900871461</longitude>
+        <latitude>46.52304627236406</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>53.83811087928832</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134614.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.8955223880597</leftFov>
+        <rightFov>30.8955223880597</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/104181">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104181.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632708524840565</longitude>
+        <latitude>46.52304252027475</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>57.62232370686327</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104181.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-26.711111111111112</leftFov>
+        <rightFov>26.711111111111112</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144835">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144835.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632403528027909</longitude>
+        <latitude>46.52308563574187</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>64.51006755787287</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144835.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.9</leftFov>
+        <rightFov>30.9</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134609">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134609.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632665909244033</longitude>
+        <latitude>46.52302093536178</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>54.50171660092013</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134609.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.08860759493671</leftFov>
+        <rightFov>31.08860759493671</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134599">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134599.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632561476185153</longitude>
+        <latitude>46.523079155384494</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>62.43844459714063</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134599.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.06060606060606</leftFov>
+        <rightFov>31.06060606060606</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144845">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144845.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6327289701157826</longitude>
+        <latitude>46.52304623058737</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>53.838693518076774</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144845.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.25</leftFov>
+        <rightFov>31.25</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/104175">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104175.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632616107877768</longitude>
+        <latitude>46.52301741637706</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>60.25811044403728</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104175.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-30.098522167487687</leftFov>
+        <rightFov>30.098522167487687</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/104179">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104179.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632677492712475</longitude>
+        <latitude>46.52303578923524</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>57.267625651879115</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104179.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-28.85321100917431</leftFov>
+        <rightFov>28.85321100917431</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134502">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134502.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632762913513786</longitude>
+        <latitude>46.523124960520434</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>59.62216901399272</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134502.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.349999999999998</leftFov>
+        <rightFov>31.349999999999998</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/134601">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134601.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632663247851727</longitude>
+        <latitude>46.52301656368309</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>54.17673507907476</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/134601.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.740259740259738</leftFov>
+        <rightFov>31.740259740259738</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/104176">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104176.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632534425123095</longitude>
+        <latitude>46.52307920767094</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>59.30453187228062</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104176.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-25.702306079664574</leftFov>
+        <rightFov>25.702306079664574</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/104223">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104223.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.6324442993594985</longitude>
+        <latitude>46.52308030173806</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>60.389929983786196</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/104223.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-27.216035634743875</leftFov>
+        <rightFov>27.216035634743875</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+    <PhotoOverlay id=" de la Riponne/Palais de Rumine final high res/144848">
+      <name>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144848.jpg</name>
+      <description/>
+      <Camera>
+        <longitude>6.632667915314757</longitude>
+        <latitude>46.52301828069745</latitude>
+        <altitude>5</altitude>
+        <tilt>90</tilt>
+        <heading>53.80032266070317</heading>
+      </Camera>
+      <Icon>
+        <href>C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Pl. de la Riponne/Palais de Rumine final high res/144848.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-31.291139240506325</leftFov>
+        <rightFov>31.291139240506325</rightFov>
+        <bottomFov>-20</bottomFov>
+        <topFov>20</topFov>
+        <near>5</near>
+      </ViewVolume>
+      <point>
+        <coordinates/>
+      </point>
+    </PhotoOverlay>
+  </Document>
+</kml>
