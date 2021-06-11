@@ -17,17 +17,6 @@ The Lausanne historical museum has collected 38’680 historical images from the
 
 This project consists in the development of semi-automatic methods to infer the position and orientation in which photographs have been taken.
 
-  
-
-## Research summary
-Our approach to infer images is composed of three main parts:
-
- 1. Cluster identification using Pixplot
-
- 2. Photogrammetry using Meshroom
-
- 3. Alignment using reference images with known GPS location
-	  
 ## Installation & usage
 ### Python
 All the code written in the Jupyter Notebook `Iconolausanne.ipynb`.
@@ -45,5 +34,32 @@ Please follow these [guidelines](https://github.com/alicevision/meshroom) in ord
 
 ### Google Earth
 Please install the desktop version of [Google Earth](https://www.google.com/earth/download/gep/agree.html?hl=en-GB).
+
+  
+
+## Research summary
+Our approach to infer the position and orientation images is composed of three main parts:
+
+ 1. Identification of image clusters using Pixplot.
+
+ 2. Application of photogrammetry on similar images using Meshroom.
+
+ 3. Annotation of the true position and orientation of at least two recovered images in order to align the other cameras accordingly.
+ 
+ 4. Evaluation of the alignments distances with respect to their annotation.
+ 
+ 5. Visualization of the results in Google Earth
+	  
+## Results
+
+Results obtain by applying the pipeline on images from the Tribunal de Montbenon.
+
+
+![Tribunal de Montbenon](docs/3D_montbenon.JPG)
+
+Images used in this project are coming from the [Musée Historique de Lausanne](https://www.lausanne.ch/vie-pratique/culture/musees/mhl.html).
+
+
+
 
 
