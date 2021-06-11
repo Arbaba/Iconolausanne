@@ -1,0 +1,2718 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\6594e1d5ac7f21c1d7101e702031dddbe1206749"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\957b86589582ba1934ba242958e20b19fbb90aa3"
+    ],
+    "views": [
+        {
+            "viewId": "18696273",
+            "poseId": "18696273",
+            "intrinsicId": "1902712765",
+            "resectionId": "2",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134614.jpg",
+            "width": "621",
+            "height": "402",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "135482447",
+            "poseId": "135482447",
+            "intrinsicId": "439871938",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134547.jpg",
+            "width": "601",
+            "height": "387",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "185874352",
+            "poseId": "185874352",
+            "intrinsicId": "3880373395",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/145479.jpg",
+            "width": "616",
+            "height": "402",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "231774243",
+            "poseId": "231774243",
+            "intrinsicId": "3408839111",
+            "resectionId": "17",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144895.jpg",
+            "width": "617",
+            "height": "397",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "272141770",
+            "poseId": "272141770",
+            "intrinsicId": "1282203419",
+            "resectionId": "4",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144909.jpg",
+            "width": "613",
+            "height": "404",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "298562987",
+            "poseId": "298562987",
+            "intrinsicId": "2721636842",
+            "resectionId": "3",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144845.jpg",
+            "width": "625",
+            "height": "400",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "302850681",
+            "poseId": "302850681",
+            "intrinsicId": "2210555651",
+            "resectionId": "24",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144839.jpg",
+            "width": "623",
+            "height": "399",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "403470083",
+            "poseId": "403470083",
+            "intrinsicId": "1213352332",
+            "resectionId": "27",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/107632.jpg",
+            "width": "632",
+            "height": "445",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "409009722",
+            "poseId": "409009722",
+            "intrinsicId": "2234124788",
+            "resectionId": "25",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104175.jpg",
+            "width": "611",
+            "height": "406",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "445110232",
+            "poseId": "445110232",
+            "intrinsicId": "3457941314",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104223.jpg",
+            "width": "611",
+            "height": "449",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "645059296",
+            "poseId": "645059296",
+            "intrinsicId": "3864404584",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134340.jpg",
+            "width": "619",
+            "height": "430",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "664703518",
+            "poseId": "664703518",
+            "intrinsicId": "3529119742",
+            "resectionId": "22",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144925.jpg",
+            "width": "615",
+            "height": "390",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "671430468",
+            "poseId": "671430468",
+            "intrinsicId": "911559840",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144848.jpg",
+            "width": "618",
+            "height": "395",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "700043576",
+            "poseId": "700043576",
+            "intrinsicId": "1210310432",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144836.jpg",
+            "width": "619",
+            "height": "394",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "756921742",
+            "poseId": "756921742",
+            "intrinsicId": "1227315874",
+            "resectionId": "13",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144849.jpg",
+            "width": "617",
+            "height": "401",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "760844473",
+            "poseId": "760844473",
+            "intrinsicId": "3360024327",
+            "resectionId": "5",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144838.jpg",
+            "width": "619",
+            "height": "400",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "822033128",
+            "poseId": "822033128",
+            "intrinsicId": "1646229295",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104176.jpg",
+            "width": "613",
+            "height": "477",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "824125264",
+            "poseId": "824125264",
+            "intrinsicId": "3259540570",
+            "resectionId": "29",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134599.jpg",
+            "width": "615",
+            "height": "396",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "829161703",
+            "poseId": "829161703",
+            "intrinsicId": "2625002338",
+            "resectionId": "6",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144917.jpg",
+            "width": "618",
+            "height": "389",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "838740089",
+            "poseId": "838740089",
+            "intrinsicId": "3365768336",
+            "resectionId": "16",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/136529.jpg",
+            "width": "624",
+            "height": "424",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "869321911",
+            "poseId": "869321911",
+            "intrinsicId": "326872621",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144844.jpg",
+            "width": "620",
+            "height": "398",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "871683597",
+            "poseId": "871683597",
+            "intrinsicId": "2160727688",
+            "resectionId": "9",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104179.jpg",
+            "width": "629",
+            "height": "436",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "891404397",
+            "poseId": "891404397",
+            "intrinsicId": "1655279136",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134615.jpg",
+            "width": "618",
+            "height": "429",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1010162848",
+            "poseId": "1010162848",
+            "intrinsicId": "166151485",
+            "resectionId": "10",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134611.jpg",
+            "width": "626",
+            "height": "405",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1131059514",
+            "poseId": "1131059514",
+            "intrinsicId": "1818991454",
+            "resectionId": "28",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144918.jpg",
+            "width": "617",
+            "height": "400",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1187123718",
+            "poseId": "1187123718",
+            "intrinsicId": "9593809",
+            "resectionId": "11",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134609.jpg",
+            "width": "614",
+            "height": "395",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1193272305",
+            "poseId": "1193272305",
+            "intrinsicId": "2042536497",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104224.jpg",
+            "width": "639",
+            "height": "482",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1208498294",
+            "poseId": "1208498294",
+            "intrinsicId": "1235945540",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144898.jpg",
+            "width": "616",
+            "height": "388",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1253924105",
+            "poseId": "1253924105",
+            "intrinsicId": "2612508843",
+            "resectionId": "30",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144835.jpg",
+            "width": "618",
+            "height": "400",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1275422007",
+            "poseId": "1275422007",
+            "intrinsicId": "2562056097",
+            "resectionId": "8",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/136530.jpg",
+            "width": "610",
+            "height": "394",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1324570841",
+            "poseId": "1324570841",
+            "intrinsicId": "638819586",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104183.jpg",
+            "width": "485",
+            "height": "540",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1370782010",
+            "poseId": "1370782010",
+            "intrinsicId": "52724477",
+            "resectionId": "26",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134600.jpg",
+            "width": "612",
+            "height": "394",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1423732400",
+            "poseId": "1423732400",
+            "intrinsicId": "634203116",
+            "resectionId": "12",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104180.jpg",
+            "width": "626",
+            "height": "449",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1425432495",
+            "poseId": "1425432495",
+            "intrinsicId": "115655674",
+            "resectionId": "0",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134612.jpg",
+            "width": "620",
+            "height": "403",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1500008428",
+            "poseId": "1500008428",
+            "intrinsicId": "327673433",
+            "resectionId": "14",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134598.jpg",
+            "width": "626",
+            "height": "409",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1542883954",
+            "poseId": "1542883954",
+            "intrinsicId": "2155855298",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134502.jpg",
+            "width": "627",
+            "height": "400",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1547646719",
+            "poseId": "1547646719",
+            "intrinsicId": "1516365480",
+            "resectionId": "18",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104178.jpg",
+            "width": "630",
+            "height": "476",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1652400699",
+            "poseId": "1652400699",
+            "intrinsicId": "1704244",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134535.jpg",
+            "width": "614",
+            "height": "394",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1723024956",
+            "poseId": "1723024956",
+            "intrinsicId": "3077437275",
+            "resectionId": "7",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/104181.jpg",
+            "width": "601",
+            "height": "450",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1750306649",
+            "poseId": "1750306649",
+            "intrinsicId": "1858197947",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144885.jpg",
+            "width": "619",
+            "height": "395",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1758648729",
+            "poseId": "1758648729",
+            "intrinsicId": "3564296426",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/141702.jpg",
+            "width": "628",
+            "height": "394",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1768564083",
+            "poseId": "1768564083",
+            "intrinsicId": "1209464999",
+            "resectionId": "19",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134591.jpg",
+            "width": "626",
+            "height": "402",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1801101931",
+            "poseId": "1801101931",
+            "intrinsicId": "180758829",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134606.jpg",
+            "width": "602",
+            "height": "394",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1892023578",
+            "poseId": "1892023578",
+            "intrinsicId": "3660029120",
+            "resectionId": "20",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144927.jpg",
+            "width": "618",
+            "height": "393",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1930921296",
+            "poseId": "1930921296",
+            "intrinsicId": "2026751243",
+            "resectionId": "15",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/134601.jpg",
+            "width": "611",
+            "height": "385",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2030648168",
+            "poseId": "2030648168",
+            "intrinsicId": "1776793949",
+            "resectionId": "21",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144924.jpg",
+            "width": "617",
+            "height": "396",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2049297585",
+            "poseId": "2049297585",
+            "intrinsicId": "1249419928",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/136614.jpg",
+            "width": "393",
+            "height": "615",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2056586583",
+            "poseId": "2056586583",
+            "intrinsicId": "2161897382",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/137935.jpg",
+            "width": "333",
+            "height": "514",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2109312649",
+            "poseId": "2109312649",
+            "intrinsicId": "538482476",
+            "resectionId": "23",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/148992.jpg",
+            "width": "602",
+            "height": "433",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2112596475",
+            "poseId": "2112596475",
+            "intrinsicId": "471205317",
+            "resectionId": "1",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final\/144928.jpg",
+            "width": "614",
+            "height": "393",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "1704244",
+            "width": "614",
+            "height": "394",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64169381107491863",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "741.16356364854016",
+            "principalPoint": [
+                "307",
+                "197"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "9593809",
+            "width": "614",
+            "height": "395",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64332247557003253",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "907.70936085988262",
+            "principalPoint": [
+                "307",
+                "197.5"
+            ],
+            "distortionParams": [
+                "-0.73621756200063759",
+                "26.288842850795263",
+                "-225.41071152463809"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "52724477",
+            "width": "612",
+            "height": "394",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64379084967320266",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "856.67345860667535",
+            "principalPoint": [
+                "306",
+                "197"
+            ],
+            "distortionParams": [
+                "3.5211158390779342",
+                "-119.30598302729692",
+                "1183.8037918274683"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "115655674",
+            "width": "620",
+            "height": "403",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64999999999999991",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "937.28233189346429",
+            "principalPoint": [
+                "310",
+                "201.5"
+            ],
+            "distortionParams": [
+                "-0.40563484677857747",
+                "4.524443682691266",
+                "-12.616595838990751"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "166151485",
+            "width": "626",
+            "height": "405",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64696485623003197",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "949.60408630630718",
+            "principalPoint": [
+                "313",
+                "202.5"
+            ],
+            "distortionParams": [
+                "0.66128022058371816",
+                "-18.588410485430973",
+                "125.41066715133238"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "180758829",
+            "width": "602",
+            "height": "394",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.654485049833887",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "726.67828227430152",
+            "principalPoint": [
+                "301",
+                "197"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "326872621",
+            "width": "620",
+            "height": "398",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64193548387096766",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "748.40620433565948",
+            "principalPoint": [
+                "310",
+                "199"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "327673433",
+            "width": "626",
+            "height": "409",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65335463258785942",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "725.88612980057621",
+            "principalPoint": [
+                "313",
+                "204.5"
+            ],
+            "distortionParams": [
+                "0.093662658048759589",
+                "3.7539377286276188",
+                "-73.733838724626878"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "439871938",
+            "width": "601",
+            "height": "387",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64392678868552411",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "725.47117549311497",
+            "principalPoint": [
+                "300.5",
+                "193.5"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "471205317",
+            "width": "614",
+            "height": "393",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64006514657980451",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "937.18000973164033",
+            "principalPoint": [
+                "307",
+                "196.5"
+            ],
+            "distortionParams": [
+                "0.0014680466626054278",
+                "-5.5270632781102549",
+                "67.375204041487549"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "538482476",
+            "width": "602",
+            "height": "433",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71926910299003322",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "657.85640875048864",
+            "principalPoint": [
+                "301",
+                "216.5"
+            ],
+            "distortionParams": [
+                "0.2912645814270956",
+                "-7.2509752437292869",
+                "35.101430465910582"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "634203116",
+            "width": "626",
+            "height": "449",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71725239616613412",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "819.79264402904971",
+            "principalPoint": [
+                "313",
+                "224.5"
+            ],
+            "distortionParams": [
+                "-0.6382564841104349",
+                "14.420082258354341",
+                "-84.273633741513819"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "638819586",
+            "width": "485",
+            "height": "540",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.89814814814814814",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "651.83766184073568",
+            "principalPoint": [
+                "242.5",
+                "270"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "911559840",
+            "width": "618",
+            "height": "395",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63915857605177995",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "888.40481355501265",
+            "principalPoint": [
+                "309",
+                "197.5"
+            ],
+            "distortionParams": [
+                "0.033732346088806715",
+                "3.644332247328701",
+                "-45.171797345512502"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1209464999",
+            "width": "626",
+            "height": "402",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64217252396166136",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "964.70697868649438",
+            "principalPoint": [
+                "313",
+                "201"
+            ],
+            "distortionParams": [
+                "-1.2075119298942938",
+                "35.288938724462533",
+                "-326.43948100474955"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1210310432",
+            "width": "619",
+            "height": "394",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6365105008077544",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "747.19909755447293",
+            "principalPoint": [
+                "309.5",
+                "197"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1213352332",
+            "width": "632",
+            "height": "445",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.70411392405063289",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "767.54564278397834",
+            "principalPoint": [
+                "316",
+                "222.5"
+            ],
+            "distortionParams": [
+                "-0.76356702799105447",
+                "25.607125476972641",
+                "-198.69820154370646"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1227315874",
+            "width": "617",
+            "height": "401",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64991896272285254",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "952.93973200224286",
+            "principalPoint": [
+                "308.5",
+                "200.5"
+            ],
+            "distortionParams": [
+                "0.37594573596897568",
+                "-9.5361038451981504",
+                "61.155093383563134"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1235945540",
+            "width": "616",
+            "height": "388",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.62987012987012991",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "639.98722705927491",
+            "principalPoint": [
+                "308",
+                "194"
+            ],
+            "distortionParams": [
+                "1.0463548209039848",
+                "-6.9457841769080968",
+                "18.737792993842969"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1249419928",
+            "width": "393",
+            "height": "615",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63902439024390245",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "742.37067042972672",
+            "principalPoint": [
+                "196.5",
+                "307.5"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1282203419",
+            "width": "613",
+            "height": "404",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65905383360522019",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "882.34653217268692",
+            "principalPoint": [
+                "306.5",
+                "202"
+            ],
+            "distortionParams": [
+                "-0.0070567495275914889",
+                "-2.9380963906321771",
+                "38.368156894604638"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1516365480",
+            "width": "630",
+            "height": "476",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75555555555555554",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "896.03554053873165",
+            "principalPoint": [
+                "315",
+                "238"
+            ],
+            "distortionParams": [
+                "-0.51159716364655905",
+                "33.38159678541836",
+                "-329.54199952164407"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1646229295",
+            "width": "613",
+            "height": "477",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.77814029363784665",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "739.95645686735361",
+            "principalPoint": [
+                "306.5",
+                "238.5"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1655279136",
+            "width": "618",
+            "height": "429",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69417475728155331",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "745.99199077328637",
+            "principalPoint": [
+                "309",
+                "214.5"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1776793949",
+            "width": "617",
+            "height": "396",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64181523500810367",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "790.39912215688105",
+            "principalPoint": [
+                "308.5",
+                "198"
+            ],
+            "distortionParams": [
+                "0.14482253606881884",
+                "-4.3048468958355892",
+                "21.570578823302196"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1818991454",
+            "width": "617",
+            "height": "400",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64829821717990277",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "803.56842356639504",
+            "principalPoint": [
+                "308.5",
+                "200"
+            ],
+            "distortionParams": [
+                "-3.2924913056252882",
+                "119.44038171235294",
+                "-1193.3993073113188"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1858197947",
+            "width": "619",
+            "height": "395",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63812600969305333",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "747.19909755447293",
+            "principalPoint": [
+                "309.5",
+                "197.5"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1902712765",
+            "width": "621",
+            "height": "402",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64734299516908211",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "913.78046644455264",
+            "principalPoint": [
+                "310.5",
+                "201"
+            ],
+            "distortionParams": [
+                "0.67062755035071631",
+                "-10.313051547208334",
+                "46.871754169932053"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2026751243",
+            "width": "611",
+            "height": "385",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63011456628477902",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "723.63037405196667",
+            "principalPoint": [
+                "305.5",
+                "192.5"
+            ],
+            "distortionParams": [
+                "-0.62254237059278783",
+                "14.204496693529677",
+                "-107.59449445610052"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2042536497",
+            "width": "639",
+            "height": "482",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75430359937402192",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "771.34123317820388",
+            "principalPoint": [
+                "319.5",
+                "241"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2155855298",
+            "width": "627",
+            "height": "400",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63795853269537484",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "756.85595180396524",
+            "principalPoint": [
+                "313.5",
+                "200"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2160727688",
+            "width": "629",
+            "height": "436",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69316375198728142",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "804.84322735006413",
+            "principalPoint": [
+                "314.5",
+                "218"
+            ],
+            "distortionParams": [
+                "0.55974454225267101",
+                "-14.029848640921026",
+                "82.560948853246288"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2161897382",
+            "width": "333",
+            "height": "514",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64785992217898836",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "620.45288552988541",
+            "principalPoint": [
+                "166.5",
+                "257"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2210555651",
+            "width": "623",
+            "height": "399",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6404494382022472",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "605.723085812671",
+            "principalPoint": [
+                "311.5",
+                "199.5"
+            ],
+            "distortionParams": [
+                "-0.29037686727560819",
+                "2.6448067705291023",
+                "5.6582721051023261"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2234124788",
+            "width": "611",
+            "height": "406",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.66448445171849424",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "502.13506792508127",
+            "principalPoint": [
+                "305.5",
+                "203"
+            ],
+            "distortionParams": [
+                "0.24183711347437084",
+                "-5.0238152411088333",
+                "19.492047064858728"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2562056097",
+            "width": "610",
+            "height": "394",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64590163934426226",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1145.7837871581",
+            "principalPoint": [
+                "305",
+                "197"
+            ],
+            "distortionParams": [
+                "0.032062059808242845",
+                "5.5499385085414179",
+                "-88.733952607858242"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2612508843",
+            "width": "618",
+            "height": "400",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64724919093851141",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "922.03474033235443",
+            "principalPoint": [
+                "309",
+                "200"
+            ],
+            "distortionParams": [
+                "2.9515182925100762",
+                "-167.40128323387134",
+                "2438.169842325653"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2625002338",
+            "width": "618",
+            "height": "389",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.62944983818770228",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "917.72528858877843",
+            "principalPoint": [
+                "309",
+                "194.5"
+            ],
+            "distortionParams": [
+                "-0.79631469714292136",
+                "10.718647407212263",
+                "-39.468466166800084"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2721636842",
+            "width": "625",
+            "height": "400",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64000000000000001",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "917.19722087448463",
+            "principalPoint": [
+                "312.5",
+                "200"
+            ],
+            "distortionParams": [
+                "0.46381969588418909",
+                "-6.599658525913946",
+                "28.629321866995074"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3077437275",
+            "width": "601",
+            "height": "450",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.74875207986688852",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "798.86132054549853",
+            "principalPoint": [
+                "300.5",
+                "225"
+            ],
+            "distortionParams": [
+                "0.26745654667485225",
+                "-2.2713807211889434",
+                "4.6119872849793726"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3259540570",
+            "width": "615",
+            "height": "396",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64390243902439026",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "750.34538056697943",
+            "principalPoint": [
+                "307.5",
+                "198"
+            ],
+            "distortionParams": [
+                "2.3011156498228558",
+                "-75.724372490689802",
+                "756.5273452084341"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3360024327",
+            "width": "619",
+            "height": "400",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64620355411954766",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "889.26229419427489",
+            "principalPoint": [
+                "309.5",
+                "200"
+            ],
+            "distortionParams": [
+                "-0.92407016796870844",
+                "19.880425553498156",
+                "-135.44212699169555"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3365768336",
+            "width": "624",
+            "height": "424",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.67948717948717952",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "546.95014692160862",
+            "principalPoint": [
+                "312",
+                "212"
+            ],
+            "distortionParams": [
+                "0.68984076270049044",
+                "-4.7117925196186583",
+                "7.6227394475418828"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3408839111",
+            "width": "617",
+            "height": "397",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64343598055105344",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "896.7549363501189",
+            "principalPoint": [
+                "308.5",
+                "198.5"
+            ],
+            "distortionParams": [
+                "0.63460544227409443",
+                "-14.447489332515136",
+                "90.01027179135437"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3457941314",
+            "width": "611",
+            "height": "449",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.73486088379705394",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "737.5422433049805",
+            "principalPoint": [
+                "305.5",
+                "224.5"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3529119742",
+            "width": "615",
+            "height": "390",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63414634146341464",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "941.71605440332348",
+            "principalPoint": [
+                "307.5",
+                "195"
+            ],
+            "distortionParams": [
+                "-0.37229115989568495",
+                "13.341370434537044",
+                "-112.10360290279688"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3564296426",
+            "width": "628",
+            "height": "394",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.62738853503184722",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "758.06305858515179",
+            "principalPoint": [
+                "314",
+                "197"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3660029120",
+            "width": "618",
+            "height": "393",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63592233009708743",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "937.82889847937508",
+            "principalPoint": [
+                "309",
+                "196.5"
+            ],
+            "distortionParams": [
+                "-1.6306076476242333",
+                "71.606860871759864",
+                "-920.8984866243668"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3864404584",
+            "width": "619",
+            "height": "430",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69466882067851365",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "747.19909755447293",
+            "principalPoint": [
+                "309.5",
+                "215"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3880373395",
+            "width": "616",
+            "height": "402",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65259740259740262",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. de la Riponne\/Palais de Rumine final",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "743.57777721091327",
+            "principalPoint": [
+                "308",
+                "201"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "18696273",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99907161184237259",
+                        "0.041318006950173021",
+                        "0.012195766164898272",
+                        "-0.041064727278853831",
+                        "0.99894953669969067",
+                        "-0.02033497728021192",
+                        "-0.013023155692718339",
+                        "0.019815282716601101",
+                        "0.99971883646686599"
+                    ],
+                    "center": [
+                        "-0.048283283585458997",
+                        "0.039252422692354322",
+                        "0.2001195576842911"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "231774243",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99904869826186316",
+                        "0.012180036439872251",
+                        "0.041872965187577806",
+                        "-0.010920579106310283",
+                        "0.99948493228138013",
+                        "-0.030176333350290418",
+                        "-0.042218946614755067",
+                        "0.029690349523176961",
+                        "0.99866713357951853"
+                    ],
+                    "center": [
+                        "-0.15344389696186855",
+                        "0.042388459576210999",
+                        "0.50892608686514462"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "272141770",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99932526452858628",
+                        "0.036616072748142228",
+                        "-0.0028773062704232875",
+                        "-0.036684787043445827",
+                        "0.99889669551629112",
+                        "-0.029319244298085523",
+                        "0.0018005761433748249",
+                        "0.029405014931751815",
+                        "0.99956595731468134"
+                    ],
+                    "center": [
+                        "-0.028811209867923109",
+                        "0.0049360160953649153",
+                        "-0.25573552641125435"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "298562987",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99975828453509186",
+                        "0.020102195405355058",
+                        "0.0089036084446294812",
+                        "-0.019874170120066835",
+                        "0.99948992002935744",
+                        "-0.024998342379993699",
+                        "-0.0094015884556280186",
+                        "0.024815348065132362",
+                        "0.99964784230993931"
+                    ],
+                    "center": [
+                        "-0.045927342098424216",
+                        "0.032794226730047046",
+                        "0.19611606458044503"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "302850681",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99956794191907228",
+                        "0.022006876660692544",
+                        "0.019484015687514317",
+                        "-0.021123469934000952",
+                        "0.99878869408032989",
+                        "-0.044440337479101505",
+                        "-0.020438407609635251",
+                        "0.044009566652605678",
+                        "0.99882202095139661"
+                    ],
+                    "center": [
+                        "-0.028477401630674703",
+                        "0.0034773463420785049",
+                        "-0.29534529560015321"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "403470083",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.96160884907466793",
+                        "0.07378693303549036",
+                        "0.26431781985804242",
+                        "-0.062899867826725187",
+                        "0.99679497767718872",
+                        "-0.049430548296709294",
+                        "-0.26711800390215751",
+                        "0.030907296723409354",
+                        "0.96316805958284246"
+                    ],
+                    "center": [
+                        "-1.1454339954168096",
+                        "0.10408831470067799",
+                        "-0.29056987766334458"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "409009722",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99017195545051051",
+                        "0.032442230686124729",
+                        "0.13604043629531865",
+                        "-0.020948470771527648",
+                        "0.99615354567051917",
+                        "-0.085083929272145545",
+                        "-0.13827747543127489",
+                        "0.081397881521334939",
+                        "0.98704291936682875"
+                    ],
+                    "center": [
+                        "-0.10799971531123949",
+                        "0.020348397805196764",
+                        "-0.17028671033166348"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "664703518",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99950162227069261",
+                        "0.014464563984327234",
+                        "0.028058572076942814",
+                        "-0.013489474825199563",
+                        "0.99930897676649411",
+                        "-0.034635285805704845",
+                        "-0.028540167259390733",
+                        "0.034239528948948113",
+                        "0.99900606279950077"
+                    ],
+                    "center": [
+                        "-0.098125149722055702",
+                        "0.028740685923515683",
+                        "0.13339002560624844"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "671430468",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99997258973328218",
+                        "0.0053766149050720018",
+                        "0.0050903628825058576",
+                        "-0.0053412623470863278",
+                        "0.99996169936944157",
+                        "-0.0069333044587844986",
+                        "-0.0051274456264921615",
+                        "0.0069059254514627329",
+                        "0.99996300806330141"
+                    ],
+                    "center": [
+                        "-0.021179676528096502",
+                        "0.009548505626403905",
+                        "-0.10367890205922915"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "756921742",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99801698897377211",
+                        "0.019537087867632075",
+                        "-0.059836376205266474",
+                        "-0.023021907323598888",
+                        "0.99804442461904397",
+                        "-0.058114699259525199",
+                        "0.058583969675239496",
+                        "0.059377004677685266",
+                        "0.99651507254662075"
+                    ],
+                    "center": [
+                        "-0.0037478556684645368",
+                        "0.0059836002620633341",
+                        "-0.17133990435038335"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "760844473",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99859441348348033",
+                        "0.044827861280245684",
+                        "0.028278263960558471",
+                        "-0.044309123802852263",
+                        "0.99884261689401344",
+                        "-0.018711713554420192",
+                        "-0.029084341275117123",
+                        "0.01743242752338901",
+                        "0.99942494043486541"
+                    ],
+                    "center": [
+                        "-0.022933473304856896",
+                        "0.010534936102908133",
+                        "-0.19295342946560476"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "824125264",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98817628958483272",
+                        "0.052328435711971912",
+                        "0.14411577123372316",
+                        "-0.050063839688543173",
+                        "0.9985595602338615",
+                        "-0.019298098901109638",
+                        "-0.14491802047362035",
+                        "0.011854934900503782",
+                        "0.98937264357799592"
+                    ],
+                    "center": [
+                        "-0.49592095864858621",
+                        "0.0098717072439161654",
+                        "-0.51310969460080746"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "829161703",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99968837494603302",
+                        "0.024883410281447593",
+                        "-0.0019922074502358622",
+                        "-0.02496076682533396",
+                        "0.99748454755792382",
+                        "-0.066344084157183403",
+                        "0.00033632908130998165",
+                        "0.066373136704010571",
+                        "0.9977948153838142"
+                    ],
+                    "center": [
+                        "-0.023392473368885995",
+                        "0.0099674168672882219",
+                        "-0.14287406413176881"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "838740089",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97255182392169681",
+                        "0.058332663615031567",
+                        "0.22525596583033325",
+                        "-0.035664235683861754",
+                        "0.99399760004909032",
+                        "-0.10342549680680642",
+                        "-0.22993697414654007",
+                        "0.092553073704898278",
+                        "0.968794568764766"
+                    ],
+                    "center": [
+                        "-0.46120381105226199",
+                        "0.13425957309935588",
+                        "0.83042991543984734"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "871683597",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99710153157804149",
+                        "0.029026625079309757",
+                        "0.070327738206408766",
+                        "-0.02596806719994971",
+                        "0.99869305649223838",
+                        "-0.044020885953028492",
+                        "-0.071513601577761945",
+                        "0.042067017373422506",
+                        "0.99655214155541372"
+                    ],
+                    "center": [
+                        "-0.086630696632826298",
+                        "0.017885844021113827",
+                        "-0.026890123407562611"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1010162848",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99761376640075639",
+                        "0.034333132694786626",
+                        "-0.059899992379458977",
+                        "-0.036818718348211647",
+                        "0.99848474634554663",
+                        "-0.04089735070226954",
+                        "0.058405094528578005",
+                        "0.043005201018383087",
+                        "0.99736623043818573"
+                    ],
+                    "center": [
+                        "-0.0023074722129951958",
+                        "0.0060048702686773666",
+                        "-0.17703642381366508"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1131059514",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98955219750438528",
+                        "0.047380335534662261",
+                        "0.13616736840691679",
+                        "-0.048909610572543276",
+                        "0.99877192287100258",
+                        "0.0079054461102541218",
+                        "-0.13562558168680544",
+                        "-0.014482744532124767",
+                        "0.99065430484247785"
+                    ],
+                    "center": [
+                        "-0.4923788502803621",
+                        "0.0021184138290292025",
+                        "-0.52109197087143133"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1187123718",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99974696542376673",
+                        "0.0099261677135462772",
+                        "0.020186042715011138",
+                        "-0.0096127308456557085",
+                        "0.99983263966321301",
+                        "-0.015565605345783879",
+                        "-0.020337171181329081",
+                        "0.015367623713973081",
+                        "0.99967506501349079"
+                    ],
+                    "center": [
+                        "-0.043621360403979521",
+                        "0.0090826458081484356",
+                        "-0.086254857119756459"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1208498294",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.96314500360954514",
+                        "-0.013906155275839792",
+                        "-0.26862300881982071",
+                        "0.013626295948004345",
+                        "0.99990293394693208",
+                        "-0.002906328105095805",
+                        "0.26863735049450332",
+                        "-0.00086112122334924108",
+                        "0.96324100431280024"
+                    ],
+                    "center": [
+                        "0.1117572529080883",
+                        "-0.0026883246937010521",
+                        "-0.0065923466724670428"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1275422007",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99799733323937312",
+                        "0.0048025512607653168",
+                        "-0.063073436155701795",
+                        "-0.0068088688567454455",
+                        "0.99947636197135337",
+                        "-0.031632912692319534",
+                        "0.062888489821201071",
+                        "0.031999021264657299",
+                        "0.9975074438249133"
+                    ],
+                    "center": [
+                        "-0.0023245723745359357",
+                        "0.0056786278939225136",
+                        "-0.17399883183738715"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1370782010",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98461170648697405",
+                        "0.039666375622102776",
+                        "0.17019508246073112",
+                        "-0.047495849342867991",
+                        "0.99798048851279286",
+                        "0.042179246590792197",
+                        "-0.16817827369790783",
+                        "-0.049613739959546682",
+                        "0.98450726003581002"
+                    ],
+                    "center": [
+                        "-0.72577116808036946",
+                        "0.035920252983561385",
+                        "-0.90454966366819112"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1423732400",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99963867091516878",
+                        "0.013112496219607243",
+                        "-0.023464655417150659",
+                        "-0.013559349543450415",
+                        "0.99972778189796041",
+                        "-0.018986999271679843",
+                        "0.023209300957016416",
+                        "0.01929830418132706",
+                        "0.99954434809307569"
+                    ],
+                    "center": [
+                        "-0.018677601186178866",
+                        "0.0045086085707074517",
+                        "-0.16406557914620848"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1425432495",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99981317710653195",
+                        "0.0096166645460562857",
+                        "-0.016766951039205665",
+                        "-0.010577963481602037",
+                        "0.99824772746509527",
+                        "-0.058220110781024556",
+                        "0.016177687496190227",
+                        "0.058386594127260938",
+                        "0.99816295666263544"
+                    ],
+                    "center": [
+                        "-0.021024073571074116",
+                        "0.0096388987098074159",
+                        "-0.18230154209876964"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1500008428",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99974784905916569",
+                        "0.020355345779235496",
+                        "-0.009481466119718323",
+                        "-0.020795748666161806",
+                        "0.99858558187466928",
+                        "-0.048932325812719592",
+                        "0.0084720209504837891",
+                        "0.049117161667141092",
+                        "0.99875709223553377"
+                    ],
+                    "center": [
+                        "-0.022266919129608799",
+                        "0.014424415547331225",
+                        "-0.12404487632070964"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1547646719",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99072338225321221",
+                        "0.050635228652901224",
+                        "0.12610810234090461",
+                        "-0.043875299928076178",
+                        "0.99747644365123522",
+                        "-0.055818477380751831",
+                        "-0.12861624280384268",
+                        "0.049767639889315186",
+                        "0.99044487181613017"
+                    ],
+                    "center": [
+                        "-0.51422358901098864",
+                        "0.006241419847664964",
+                        "-0.60646313432699084"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1723024956",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99603410329752884",
+                        "0.03657251609463643",
+                        "0.081108052219216159",
+                        "-0.033613180463309751",
+                        "0.99872901276177184",
+                        "-0.037556799211827092",
+                        "-0.082378511563565571",
+                        "0.034681553229405464",
+                        "0.99599747524688398"
+                    ],
+                    "center": [
+                        "-0.071276306044110657",
+                        "0.017240409614657105",
+                        "0.058553876589424"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1768564083",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99118614915264081",
+                        "0.047104337361379416",
+                        "0.12381921954892196",
+                        "-0.052722761351336682",
+                        "0.99770455283519832",
+                        "0.04249630204390592",
+                        "-0.12153323892437319",
+                        "-0.048649837139113208",
+                        "0.99139440445409466"
+                    ],
+                    "center": [
+                        "-0.67459651355826966",
+                        "-0.017330502633505888",
+                        "-0.98191966787871876"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1892023578",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99103330527178657",
+                        "0.036273928094697788",
+                        "0.12859700611856692",
+                        "-0.040126192872368197",
+                        "0.99881633604456366",
+                        "0.027492098793704588",
+                        "-0.12744754406283218",
+                        "-0.032405693806706257",
+                        "0.99131578950466559"
+                    ],
+                    "center": [
+                        "-0.67132019314249713",
+                        "-0.027452130907243778",
+                        "-0.95079186856833298"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1930921296",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99989973911858021",
+                        "0.006876176707387458",
+                        "0.012378606726288233",
+                        "-0.0065984875667907889",
+                        "0.99972875017730523",
+                        "-0.022335756775946403",
+                        "-0.012528833641893148",
+                        "0.022251837290707267",
+                        "0.99967388885814246"
+                    ],
+                    "center": [
+                        "-0.022088490072301042",
+                        "0.0099313276278298682",
+                        "-0.13629108567507733"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "2030648168",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99921043297722945",
+                        "0.021553567710571087",
+                        "0.033375954644078651",
+                        "-0.020098669019630765",
+                        "0.9988586421942699",
+                        "-0.043329625170994771",
+                        "-0.034271768747718617",
+                        "0.04262460126224521",
+                        "0.99850317437359082"
+                    ],
+                    "center": [
+                        "-0.10832880651492635",
+                        "0.035790631327114242",
+                        "0.10866693873391116"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "2109312649",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99620139731056001",
+                        "0.0128650089626194",
+                        "0.086123559731814958",
+                        "-0.012821041970566821",
+                        "0.99991724135332083",
+                        "-0.0010636386386882486",
+                        "-0.086130115983184069",
+                        "-4.459547588146946e-05",
+                        "0.99628389585096022"
+                    ],
+                    "center": [
+                        "-0.01827363341745469",
+                        "0.0054595992281891706",
+                        "-0.051579414766850004"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "2112596475",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99943485587692404",
+                        "0.033274209951739298",
+                        "0.0047744958225583653",
+                        "-0.033215742723893479",
+                        "0.99937803735922948",
+                        "-0.011842840846468436",
+                        "-0.0051655874372786292",
+                        "0.011677559509685133",
+                        "0.99991847233178244"
+                    ],
+                    "center": [
+                        "-0.04695750342876364",
+                        "0.01097897380514299",
+                        "-0.087695537295619921"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}

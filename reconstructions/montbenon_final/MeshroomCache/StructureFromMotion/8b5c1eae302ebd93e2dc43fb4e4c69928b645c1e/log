@@ -1,0 +1,1462 @@
+Program called with the following parameters:
+ * describerTypes = "sift"
+ * extraInfoFolder = "C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/StructureFromMotion/8b5c1eae302ebd93e2dc43fb4e4c69928b645c1e"
+ * featuresFolders =  = [C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/FeatureExtraction/554becf0ccb3e6fb3c668bf9177c9d0692d1a49f]
+ * filterTrackForks = 0
+ * initialPairA = ""
+ * initialPairB = ""
+ * input = "C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/CameraInit/07d797367d3f22df9b34e648db0915f81ab28704/cameraInit.sfm"
+ * interFileExtension = ".abc"
+ * localBAGraphDistance = 1
+ * localizerEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * localizerEstimatorError = 0
+ * localizerEstimatorMaxIterations = 4096
+ * lockAllIntrinsics = 0
+ * lockScenePreviouslyReconstructed = 0
+ * matchesFolders =  = [C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/FeatureMatching/6eca105068dad3736e29d1701e1716b335334f76]
+ * maxAngleInitialPair = 40
+ * maxNumberOfMatches = 0
+ * maxReprojectionError = 4
+ * minAngleForLandmark = 2
+ * minAngleForTriangulation = 3
+ * minAngleInitialPair = 5
+ * minInputTrackLength = 2
+ * minNumberOfMatches = 0
+ * minNumberOfObservationsForTriangulation = 2
+ * observationConstraint =  Unknown Type "enum aliceVision::sfm::EFeatureConstraint"
+ * output = "C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/StructureFromMotion/8b5c1eae302ebd93e2dc43fb4e4c69928b645c1e/sfm.abc"
+ * outputViewsAndPoses = "C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/StructureFromMotion/8b5c1eae302ebd93e2dc43fb4e4c69928b645c1e/cameras.sfm"
+ * randomSeed = 5489 (default)
+ * useLocalBA = 1
+ * useOnlyMatchesFromInputFolder = 0
+ * useRigConstraint = 1
+ * verboseLevel = "info"
+
+Loading features
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[10:01:58.089405][info] Supported CUDA-Enabled GPU detected.
+***************************************************
+[10:01:59.852915][info] Fuse matches into tracks: 
+	- # tracks: 6763
+	- # images in tracks: 46
+[10:01:59.852915][info] TrackLength, Occurrence
+[10:01:59.853913][info] 	2	4391
+[10:01:59.853913][info] 	3	983
+[10:01:59.853913][info] 	4	420
+[10:01:59.853913][info] 	5	244
+[10:01:59.853913][info] 	6	142
+[10:01:59.853913][info] 	7	107
+[10:01:59.853913][info] 	8	86
+[10:01:59.853913][info] 	9	45
+[10:01:59.853913][info] 	10	46
+[10:01:59.853913][info] 	11	53
+[10:01:59.853913][info] 	12	33
+[10:01:59.853913][info] 	13	34
+[10:01:59.853913][info] 	14	34
+[10:01:59.853913][info] 	15	24
+[10:01:59.853913][info] 	16	17
+[10:01:59.853913][info] 	17	18
+[10:01:59.853913][info] 	18	17
+[10:01:59.853913][info] 	19	17
+[10:01:59.853913][info] 	20	16
+[10:01:59.853913][info] 	21	5
+[10:01:59.853913][info] 	22	13
+[10:01:59.853913][info] 	23	8
+[10:01:59.853913][info] 	24	5
+[10:01:59.853913][info] 	25	3
+[10:01:59.854909][info] 	26	1
+[10:01:59.854909][info] 	27	1
+Automatic selection of an initial pair:
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+******[10:02:00.253018][info] robustRelativePose: no sufficient coverage (the model does not support enough samples): 31
+*********************************************
+[10:02:04.879094][info] Initial pair is:
+	- [A] view id: 475403216, filepath: C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139697.jpg
+	- [B] view id: 2080039526, filepath: C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final/139728.jpg
+[10:02:04.880091][info] 323 matches in the image pair for the initial pose estimation.
+[10:02:05.529654][info] Bundle adjustment start.
+[10:02:05.529654][info] Start bundle adjustment iteration: 0
+[10:02:05.549601][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0129357 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  562
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 2
+	    - # ignored:  33
+	- # residual blocks: 1124
+	- # successful iterations: 5
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.461786
+	- final   RMSE: 0.422657
+[10:02:05.550603][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[10:02:05.550603][info] Bundle adjustment iteration: 0 took 20 msec.
+[10:02:05.550603][info] Bundle adjustment with 1 iterations took 20 msec.
+[10:02:05.551597][info] Initial pair is: 475403216, 2080039526
+[10:02:05.551597][info] Begin Incremental Reconstruction:
+	- mode: SfM augmentation
+	- # images in input: 46
+	- # images in resection: 44
+	- # landmarks in input: 281
+	- # cameras already calibrated: 2
+[10:02:05.551597][info] Incremental Reconstruction start iteration 0:
+	- # number of resection groups: 0
+	- # number of poses: 2
+	- # number of landmarks: 281
+	- # remaining images: 44
+[10:02:05.555589][info] Update Reconstruction:
+	- resection id: 0
+	- # images in the resection group: 1
+	- # images remaining: 44
+[10:02:05.558584][info] [3/46] Robust Resection of view: 1908134289
+[10:02:05.660306][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 2.09595
+	- # points used for resection: 166
+	- # points validated by robust resection: 71
+[10:02:05.673270][info] Bundle adjustment start.
+[10:02:05.674806][info] Start bundle adjustment iteration: 0
+[10:02:05.897188][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.214725 s
+	- poses:
+	    - # refined:  3
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  1147
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  3
+	    - # constant: 0
+	    - # ignored:  32
+	- # residual blocks: 2294
+	- # successful iterations: 33
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.622835
+	- final   RMSE: 0.339101
+[10:02:05.902180][info] Remove outliers: 
+	- # outliers residual error: 2
+	- # outliers angular error: 3
+[10:02:05.902180][info] Bundle adjustment iteration: 0 took 227 msec.
+[10:02:05.902180][info] Bundle adjustment with 1 iterations took 229 msec.
+[10:02:06.033826][info] Update Reconstruction:
+	- resection id: 1
+	- # images in the resection group: 1
+	- # images remaining: 43
+[10:02:06.034820][info] [4/46] Robust Resection of view: 1521348666
+[10:02:06.197386][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 7.40315
+	- # points used for resection: 194
+	- # points validated by robust resection: 103
+[10:02:06.257226][info] Bundle adjustment start.
+[10:02:06.264206][info] Start bundle adjustment iteration: 0
+[10:02:07.059057][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.780568 s
+	- poses:
+	    - # refined:  4
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  1445
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  4
+	    - # constant: 0
+	    - # ignored:  31
+	- # residual blocks: 2890
+	- # successful iterations: 51
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.650047
+	- final   RMSE: 0.428351
+[10:02:07.065115][info] Remove outliers: 
+	- # outliers residual error: 2
+	- # outliers angular error: 6
+[10:02:07.066088][info] Bundle adjustment iteration: 0 took 801 msec.
+[10:02:07.066088][info] Bundle adjustment with 1 iterations took 808 msec.
+[10:02:07.080050][info] Update Reconstruction:
+	- resection id: 2
+	- # images in the resection group: 1
+	- # images remaining: 42
+[10:02:07.081047][info] [5/46] Robust Resection of view: 1833820256
+[10:02:07.390092][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 3.65353
+	- # points used for resection: 292
+	- # points validated by robust resection: 129
+[10:02:07.459173][info] Bundle adjustment start.
+[10:02:07.460171][info] Start bundle adjustment iteration: 0
+[10:02:08.165112][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.668109 s
+	- poses:
+	    - # refined:  5
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  1956
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  5
+	    - # constant: 0
+	    - # ignored:  30
+	- # residual blocks: 3912
+	- # successful iterations: 37
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.741812
+	- final   RMSE: 0.492279
+[10:02:08.169640][info] Remove outliers: 
+	- # outliers residual error: 14
+	- # outliers angular error: 8
+[10:02:08.173631][info] Bundle adjustment iteration: 0 took 713 msec.
+[10:02:08.173631][info] Bundle adjustment with 1 iterations took 714 msec.
+[10:02:08.189575][info] Update Reconstruction:
+	- resection id: 3
+	- # images in the resection group: 1
+	- # images remaining: 41
+[10:02:08.190572][info] [6/46] Robust Resection of view: 982767212
+[10:02:08.430598][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 7.40614
+	- # points used for resection: 276
+	- # points validated by robust resection: 191
+[10:02:08.503400][info] Bundle adjustment start.
+[10:02:08.504387][info] Start bundle adjustment iteration: 0
+[10:02:09.363090][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.826138 s
+	- poses:
+	    - # refined:  6
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  2378
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  6
+	    - # constant: 0
+	    - # ignored:  29
+	- # residual blocks: 4756
+	- # successful iterations: 40
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.710093
+	- final   RMSE: 0.51945
+[10:02:09.371069][info] Remove outliers: 
+	- # outliers residual error: 12
+	- # outliers angular error: 5
+[10:02:09.371069][info] Bundle adjustment iteration: 0 took 867 msec.
+[10:02:09.372067][info] Bundle adjustment with 1 iterations took 868 msec.
+[10:02:09.507702][info] Update Reconstruction:
+	- resection id: 4
+	- # images in the resection group: 1
+	- # images remaining: 40
+[10:02:09.508701][info] [7/46] Robust Resection of view: 1709982786
+[10:02:09.703185][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 9.30623
+	- # points used for resection: 254
+	- # points validated by robust resection: 173
+[10:02:09.791943][info] Bundle adjustment start.
+[10:02:09.791943][info] Start bundle adjustment iteration: 0
+[10:02:10.702031][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.887468 s
+	- poses:
+	    - # refined:  7
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  2537
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  7
+	    - # constant: 0
+	    - # ignored:  28
+	- # residual blocks: 5074
+	- # successful iterations: 51
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.703887
+	- final   RMSE: 0.532231
+[10:02:10.710009][info] Remove outliers: 
+	- # outliers residual error: 14
+	- # outliers angular error: 7
+[10:02:10.710009][info] Bundle adjustment iteration: 0 took 918 msec.
+[10:02:10.711006][info] Bundle adjustment with 1 iterations took 918 msec.
+[10:02:10.719985][info] Update Reconstruction:
+	- resection id: 5
+	- # images in the resection group: 1
+	- # images remaining: 39
+[10:02:10.721989][info] [8/46] Robust Resection of view: 354824707
+[10:02:10.950370][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 4.89782
+	- # points used for resection: 337
+	- # points validated by robust resection: 210
+[10:02:11.062068][info] Bundle adjustment start.
+[10:02:11.063065][info] Start bundle adjustment iteration: 0
+[10:02:11.637037][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.54954 s
+	- poses:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  3077
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  27
+	- # residual blocks: 6154
+	- # successful iterations: 28
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.750761
+	- final   RMSE: 0.551089
+[10:02:11.644011][info] Remove outliers: 
+	- # outliers residual error: 13
+	- # outliers angular error: 10
+[10:02:11.645008][info] Bundle adjustment iteration: 0 took 581 msec.
+[10:02:11.645008][info] Bundle adjustment with 1 iterations took 582 msec.
+[10:02:11.648005][info] Update Reconstruction:
+	- resection id: 6
+	- # images in the resection group: 1
+	- # images remaining: 38
+[10:02:11.649997][info] [9/46] Robust Resection of view: 1862169678
+[10:02:11.896892][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 7.59129
+	- # points used for resection: 354
+	- # points validated by robust resection: 215
+[10:02:12.111978][info] Bundle adjustment start.
+[10:02:12.112975][info] Start bundle adjustment iteration: 0
+[10:02:12.620624][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.478582 s
+	- poses:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  3806
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  26
+	- # residual blocks: 7612
+	- # successful iterations: 20
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.777696
+	- final   RMSE: 0.599258
+[10:02:12.627604][info] Remove outliers: 
+	- # outliers residual error: 30
+	- # outliers angular error: 25
+[10:02:12.628603][info] Bundle adjustment iteration: 0 took 515 msec.
+[10:02:12.628603][info] Start bundle adjustment iteration: 1
+[10:02:13.943626][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.28597 s
+	- poses:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  3717
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  26
+	- # residual blocks: 7434
+	- # successful iterations: 51
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.561822
+	- final   RMSE: 0.541608
+[10:02:13.952604][info] Remove outliers: 
+	- # outliers residual error: 4
+	- # outliers angular error: 0
+[10:02:13.954135][info] Bundle adjustment iteration: 1 took 1325 msec.
+[10:02:13.954641][info] Bundle adjustment with 2 iterations took 1841 msec.
+[10:02:14.069572][info] Update Reconstruction:
+	- resection id: 7
+	- # images in the resection group: 1
+	- # images remaining: 37
+[10:02:14.070568][info] [10/46] Robust Resection of view: 696600671
+[10:02:14.279605][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 8.09714
+	- # points used for resection: 337
+	- # points validated by robust resection: 231
+[10:02:14.410317][info] Bundle adjustment start.
+[10:02:14.411315][info] Start bundle adjustment iteration: 0
+[10:02:15.675234][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.23277 s
+	- poses:
+	    - # refined:  10
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  4811
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  26
+	- # residual blocks: 9622
+	- # successful iterations: 51
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.797332
+	- final   RMSE: 0.602125
+[10:02:15.680215][info] Remove outliers: 
+	- # outliers residual error: 40
+	- # outliers angular error: 3
+[10:02:15.681214][info] Bundle adjustment iteration: 0 took 1269 msec.
+[10:02:15.681214][info] Bundle adjustment with 1 iterations took 1270 msec.
+[10:02:15.686199][info] Update Reconstruction:
+	- resection id: 8
+	- # images in the resection group: 1
+	- # images remaining: 36
+[10:02:15.687197][info] [11/46] Robust Resection of view: 1693166240
+[10:02:15.810380][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 9.08662
+	- # points used for resection: 194
+	- # points validated by robust resection: 144
+[10:02:15.895154][info] Bundle adjustment start.
+[10:02:15.897151][info] Start bundle adjustment iteration: 0
+[10:02:17.145809][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.21526 s
+	- poses:
+	    - # refined:  11
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  5129
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  10
+	    - # constant: 0
+	    - # ignored:  25
+	- # residual blocks: 10258
+	- # successful iterations: 43
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.708511
+	- final   RMSE: 0.602549
+[10:02:17.153790][info] Remove outliers: 
+	- # outliers residual error: 33
+	- # outliers angular error: 40
+[10:02:17.155784][info] Bundle adjustment iteration: 0 took 1258 msec.
+[10:02:17.155784][info] Start bundle adjustment iteration: 1
+[10:02:17.457974][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.262297 s
+	- poses:
+	    - # refined:  11
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  5002
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  10
+	    - # constant: 0
+	    - # ignored:  25
+	- # residual blocks: 10004
+	- # successful iterations: 9
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.573666
+	- final   RMSE: 0.565645
+[10:02:17.466952][info] Remove outliers: 
+	- # outliers residual error: 2
+	- # outliers angular error: 5
+[10:02:17.467947][info] Bundle adjustment iteration: 1 took 311 msec.
+[10:02:17.467947][info] Bundle adjustment with 2 iterations took 1572 msec.
+[10:02:17.472937][info] Update Reconstruction:
+	- resection id: 9
+	- # images in the resection group: 1
+	- # images remaining: 35
+[10:02:17.473932][info] [12/46] Robust Resection of view: 1983004279
+[10:02:17.608571][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 6.76287
+	- # points used for resection: 226
+	- # points validated by robust resection: 153
+[10:02:17.751190][info] Bundle adjustment start.
+[10:02:17.752188][info] Start bundle adjustment iteration: 0
+[10:02:18.527969][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.742554 s
+	- poses:
+	    - # refined:  12
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  5507
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  11
+	    - # constant: 0
+	    - # ignored:  24
+	- # residual blocks: 11014
+	- # successful iterations: 27
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.730369
+	- final   RMSE: 0.604307
+[10:02:18.534951][info] Remove outliers: 
+	- # outliers residual error: 31
+	- # outliers angular error: 22
+[10:02:18.535949][info] Bundle adjustment iteration: 0 took 783 msec.
+[10:02:18.535949][info] Start bundle adjustment iteration: 1
+[10:02:18.836149][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.251852 s
+	- poses:
+	    - # refined:  12
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  5420
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  11
+	    - # constant: 0
+	    - # ignored:  24
+	- # residual blocks: 10840
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.58003
+	- final   RMSE: 0.573626
+[10:02:18.842129][info] Remove outliers: 
+	- # outliers residual error: 2
+	- # outliers angular error: 2
+[10:02:18.842129][info] Bundle adjustment iteration: 1 took 306 msec.
+[10:02:18.843126][info] Bundle adjustment with 2 iterations took 1091 msec.
+[10:02:18.949846][info] Update Reconstruction:
+	- resection id: 10
+	- # images in the resection group: 1
+	- # images remaining: 34
+[10:02:18.951836][info] [13/46] Robust Resection of view: 194239484
+[10:02:19.193864][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 5.95848
+	- # points used for resection: 418
+	- # points validated by robust resection: 274
+[10:02:19.349115][info] Bundle adjustment start.
+[10:02:19.350108][info] Start bundle adjustment iteration: 0
+[10:02:20.218367][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.828932 s
+	- poses:
+	    - # refined:  13
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  6613
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  12
+	    - # constant: 0
+	    - # ignored:  23
+	- # residual blocks: 13226
+	- # successful iterations: 23
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.797114
+	- final   RMSE: 0.628921
+[10:02:20.228340][info] Remove outliers: 
+	- # outliers residual error: 52
+	- # outliers angular error: 19
+[10:02:20.228340][info] Bundle adjustment iteration: 0 took 878 msec.
+[10:02:20.228340][info] Start bundle adjustment iteration: 1
+[10:02:20.940435][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.662846 s
+	- poses:
+	    - # refined:  13
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  6510
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  12
+	    - # constant: 0
+	    - # ignored:  23
+	- # residual blocks: 13020
+	- # successful iterations: 16
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.591548
+	- final   RMSE: 0.579943
+[10:02:20.950409][info] Remove outliers: 
+	- # outliers residual error: 6
+	- # outliers angular error: 3
+[10:02:20.951406][info] Bundle adjustment iteration: 1 took 722 msec.
+[10:02:20.951406][info] Bundle adjustment with 2 iterations took 1602 msec.
+[10:02:20.959384][info] Update Reconstruction:
+	- resection id: 11
+	- # images in the resection group: 1
+	- # images remaining: 33
+[10:02:20.961379][info] [14/46] Robust Resection of view: 65879446
+[10:02:21.156864][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 5.56506
+	- # points used for resection: 325
+	- # points validated by robust resection: 173
+[10:02:21.348138][info] Bundle adjustment start.
+[10:02:21.350135][info] Start bundle adjustment iteration: 0
+[10:02:22.073338][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.685897 s
+	- poses:
+	    - # refined:  14
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  7151
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  13
+	    - # constant: 0
+	    - # ignored:  22
+	- # residual blocks: 14302
+	- # successful iterations: 19
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.733057
+	- final   RMSE: 0.62394
+[10:02:22.082313][info] Remove outliers: 
+	- # outliers residual error: 58
+	- # outliers angular error: 14
+[10:02:22.083311][info] Bundle adjustment iteration: 0 took 733 msec.
+[10:02:22.083311][info] Start bundle adjustment iteration: 1
+[10:02:22.543599][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.409045 s
+	- poses:
+	    - # refined:  14
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  7051
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  13
+	    - # constant: 0
+	    - # ignored:  22
+	- # residual blocks: 14102
+	- # successful iterations: 10
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.585672
+	- final   RMSE: 0.575206
+[10:02:22.554572][info] Remove outliers: 
+	- # outliers residual error: 6
+	- # outliers angular error: 3
+[10:02:22.556567][info] Bundle adjustment iteration: 1 took 472 msec.
+[10:02:22.556567][info] Bundle adjustment with 2 iterations took 1208 msec.
+[10:02:22.569534][info] Update Reconstruction:
+	- resection id: 12
+	- # images in the resection group: 1
+	- # images remaining: 32
+[10:02:22.571525][info] [15/46] Robust Resection of view: 258217540
+[10:02:22.734092][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 5.66555
+	- # points used for resection: 226
+	- # points validated by robust resection: 134
+[10:02:22.901643][info] Bundle adjustment start.
+[10:02:22.903639][info] Start bundle adjustment iteration: 0
+[10:02:23.616732][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.658432 s
+	- poses:
+	    - # refined:  15
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  7519
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  14
+	    - # constant: 0
+	    - # ignored:  21
+	- # residual blocks: 15038
+	- # successful iterations: 14
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.673933
+	- final   RMSE: 0.601722
+[10:02:23.629698][info] Remove outliers: 
+	- # outliers residual error: 33
+	- # outliers angular error: 8
+[10:02:23.635679][info] Bundle adjustment iteration: 0 took 732 msec.
+[10:02:23.635679][info] Bundle adjustment with 1 iterations took 734 msec.
+[10:02:23.756357][info] Update Reconstruction:
+	- resection id: 13
+	- # images in the resection group: 1
+	- # images remaining: 31
+[10:02:23.758353][info] [16/46] Robust Resection of view: 1235898280
+[10:02:24.036613][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 5.72211
+	- # points used for resection: 399
+	- # points validated by robust resection: 302
+[10:02:24.290934][info] Bundle adjustment start.
+[10:02:24.293920][info] Start bundle adjustment iteration: 0
+[10:02:24.779077][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.420392 s
+	- poses:
+	    - # refined:  16
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  8335
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  15
+	    - # constant: 0
+	    - # ignored:  20
+	- # residual blocks: 16670
+	- # successful iterations: 9
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.731589
+	- final   RMSE: 0.626586
+[10:02:24.791049][info] Remove outliers: 
+	- # outliers residual error: 71
+	- # outliers angular error: 5
+[10:02:24.792038][info] Bundle adjustment iteration: 0 took 498 msec.
+[10:02:24.792038][info] Start bundle adjustment iteration: 1
+[10:02:25.151110][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.302008 s
+	- poses:
+	    - # refined:  16
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  8253
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  15
+	    - # constant: 0
+	    - # ignored:  20
+	- # residual blocks: 16506
+	- # successful iterations: 5
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.583793
+	- final   RMSE: 0.572622
+[10:02:25.162078][info] Remove outliers: 
+	- # outliers residual error: 7
+	- # outliers angular error: 3
+[10:02:25.165072][info] Bundle adjustment iteration: 1 took 373 msec.
+[10:02:25.165072][info] Bundle adjustment with 2 iterations took 873 msec.
+[10:02:25.170057][info] Update Reconstruction:
+	- resection id: 14
+	- # images in the resection group: 1
+	- # images remaining: 30
+[10:02:25.176041][info] [17/46] Robust Resection of view: 1498541854
+[10:02:25.344603][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 8.28264
+	- # points used for resection: 286
+	- # points validated by robust resection: 171
+[10:02:25.511158][info] Bundle adjustment start.
+[10:02:25.513155][info] Start bundle adjustment iteration: 0
+[10:02:26.601160][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.03479 s
+	- poses:
+	    - # refined:  17
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  8772
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  16
+	    - # constant: 0
+	    - # ignored:  19
+	- # residual blocks: 17544
+	- # successful iterations: 19
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.70532
+	- final   RMSE: 0.635417
+[10:02:26.616118][info] Remove outliers: 
+	- # outliers residual error: 72
+	- # outliers angular error: 10
+[10:02:26.617114][info] Bundle adjustment iteration: 0 took 1103 msec.
+[10:02:26.617114][info] Start bundle adjustment iteration: 1
+[10:02:27.681666][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.00006 s
+	- poses:
+	    - # refined:  17
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  8676
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  16
+	    - # constant: 0
+	    - # ignored:  19
+	- # residual blocks: 17352
+	- # successful iterations: 19
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.593557
+	- final   RMSE: 0.580166
+[10:02:27.694628][info] Remove outliers: 
+	- # outliers residual error: 10
+	- # outliers angular error: 8
+[10:02:27.695625][info] Bundle adjustment iteration: 1 took 1078 msec.
+[10:02:27.695625][info] Bundle adjustment with 2 iterations took 2184 msec.
+[10:02:27.702607][info] Update Reconstruction:
+	- resection id: 15
+	- # images in the resection group: 1
+	- # images remaining: 29
+[10:02:27.703607][info] [18/46] Robust Resection of view: 299936664
+[10:02:27.906988][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 6.75984
+	- # points used for resection: 290
+	- # points validated by robust resection: 180
+[10:02:28.151335][info] Bundle adjustment start.
+[10:02:28.153333][info] Start bundle adjustment iteration: 0
+[10:02:28.957995][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.742082 s
+	- poses:
+	    - # refined:  18
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  9215
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  17
+	    - # constant: 0
+	    - # ignored:  18
+	- # residual blocks: 18430
+	- # successful iterations: 13
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.699318
+	- final   RMSE: 0.618731
+[10:02:28.972965][info] Remove outliers: 
+	- # outliers residual error: 43
+	- # outliers angular error: 3
+[10:02:28.973952][info] Bundle adjustment iteration: 0 took 820 msec.
+[10:02:28.974480][info] Bundle adjustment with 1 iterations took 822 msec.
+[10:02:29.107935][info] Update Reconstruction:
+	- resection id: 16
+	- # images in the resection group: 1
+	- # images remaining: 28
+[10:02:29.108933][info] [19/46] Robust Resection of view: 1183680783
+[10:02:29.270928][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 5.79042
+	- # points used for resection: 261
+	- # points validated by robust resection: 159
+[10:02:29.460721][info] Bundle adjustment start.
+[10:02:29.464715][info] Start bundle adjustment iteration: 0
+[10:02:30.052175][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.516297 s
+	- poses:
+	    - # refined:  19
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  9610
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  18
+	    - # constant: 0
+	    - # ignored:  17
+	- # residual blocks: 19220
+	- # successful iterations: 10
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.700414
+	- final   RMSE: 0.630362
+[10:02:30.065134][info] Remove outliers: 
+	- # outliers residual error: 71
+	- # outliers angular error: 0
+[10:02:30.067131][info] Bundle adjustment iteration: 0 took 602 msec.
+[10:02:30.067131][info] Start bundle adjustment iteration: 1
+[10:02:30.723374][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.590921 s
+	- poses:
+	    - # refined:  19
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  9537
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  18
+	    - # constant: 0
+	    - # ignored:  17
+	- # residual blocks: 19074
+	- # successful iterations: 11
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.593555
+	- final   RMSE: 0.584999
+[10:02:30.736339][info] Remove outliers: 
+	- # outliers residual error: 5
+	- # outliers angular error: 0
+[10:02:30.737337][info] Bundle adjustment iteration: 1 took 670 msec.
+[10:02:30.737337][info] Bundle adjustment with 2 iterations took 1276 msec.
+[10:02:30.742322][info] Update Reconstruction:
+	- resection id: 17
+	- # images in the resection group: 1
+	- # images remaining: 27
+[10:02:30.743320][info] [20/46] Robust Resection of view: 1286879246
+[10:02:30.875948][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 5.91916
+	- # points used for resection: 221
+	- # points validated by robust resection: 125
+[10:02:31.060164][info] Bundle adjustment start.
+[10:02:31.064165][info] Start bundle adjustment iteration: 0
+[10:02:31.687487][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.544379 s
+	- poses:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  9903
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  19
+	    - # constant: 0
+	    - # ignored:  16
+	- # residual blocks: 19806
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.667743
+	- final   RMSE: 0.614608
+[10:02:31.707438][info] Remove outliers: 
+	- # outliers residual error: 48
+	- # outliers angular error: 0
+[10:02:31.708431][info] Bundle adjustment iteration: 0 took 644 msec.
+[10:02:31.708431][info] Bundle adjustment with 1 iterations took 648 msec.
+[10:02:31.714415][info] Update Reconstruction:
+	- resection id: 18
+	- # images in the resection group: 1
+	- # images remaining: 26
+[10:02:31.716413][info] [21/46] Robust Resection of view: 697889171
+[10:02:32.034139][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 3.79976
+	- # points used for resection: 446
+	- # points validated by robust resection: 301
+[10:02:32.413123][info] Bundle adjustment start.
+[10:02:32.416116][info] Start bundle adjustment iteration: 0
+[10:02:33.015514][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.527198 s
+	- poses:
+	    - # refined:  21
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  10455
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  15
+	- # residual blocks: 20910
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.72027
+	- final   RMSE: 0.63678
+[10:02:33.117238][info] Remove outliers: 
+	- # outliers residual error: 80
+	- # outliers angular error: 0
+[10:02:33.118237][info] Bundle adjustment iteration: 0 took 702 msec.
+[10:02:33.118237][info] Start bundle adjustment iteration: 1
+[10:02:33.707660][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.506137 s
+	- poses:
+	    - # refined:  21
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  10373
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  15
+	- # residual blocks: 20746
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.60181
+	- final   RMSE: 0.592762
+[10:02:33.725610][info] Remove outliers: 
+	- # outliers residual error: 16
+	- # outliers angular error: 0
+[10:02:33.726609][info] Bundle adjustment iteration: 1 took 608 msec.
+[10:02:33.726609][info] Bundle adjustment with 2 iterations took 1313 msec.
+[10:02:33.850277][info] Update Reconstruction:
+	- resection id: 19
+	- # images in the resection group: 1
+	- # images remaining: 25
+[10:02:33.852274][info] [22/46] Robust Resection of view: 1267845862
+[10:02:33.945023][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 7.31442
+	- # points used for resection: 124
+	- # points validated by robust resection: 96
+[10:02:34.084654][info] Bundle adjustment start.
+[10:02:34.087644][info] Start bundle adjustment iteration: 0
+[10:02:34.574341][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.411843 s
+	- poses:
+	    - # refined:  22
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  10616
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  21
+	    - # constant: 0
+	    - # ignored:  14
+	- # residual blocks: 21232
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.643787
+	- final   RMSE: 0.609882
+[10:02:34.591295][info] Remove outliers: 
+	- # outliers residual error: 43
+	- # outliers angular error: 2
+[10:02:34.592293][info] Bundle adjustment iteration: 0 took 505 msec.
+[10:02:34.593290][info] Bundle adjustment with 1 iterations took 507 msec.
+[10:02:34.601270][info] Update Reconstruction:
+	- resection id: 20
+	- # images in the resection group: 1
+	- # images remaining: 24
+[10:02:34.604263][info] [23/46] Robust Resection of view: 1096303571
+[10:02:34.788768][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 4.63531
+	- # points used for resection: 322
+	- # points validated by robust resection: 216
+[10:02:35.017159][info] Bundle adjustment start.
+[10:02:35.019154][info] Start bundle adjustment iteration: 0
+[10:02:35.475974][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.397385 s
+	- poses:
+	    - # refined:  23
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  11044
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  22
+	    - # constant: 0
+	    - # ignored:  13
+	- # residual blocks: 22088
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.710583
+	- final   RMSE: 0.641751
+[10:02:35.485948][info] Remove outliers: 
+	- # outliers residual error: 86
+	- # outliers angular error: 5
+[10:02:35.487942][info] Bundle adjustment iteration: 0 took 468 msec.
+[10:02:35.487942][info] Start bundle adjustment iteration: 1
+[10:02:35.987290][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.426336 s
+	- poses:
+	    - # refined:  23
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  10946
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  22
+	    - # constant: 0
+	    - # ignored:  13
+	- # residual blocks: 21892
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.600353
+	- final   RMSE: 0.59124
+[10:02:36.017215][info] Remove outliers: 
+	- # outliers residual error: 12
+	- # outliers angular error: 10
+[10:02:36.018207][info] Bundle adjustment iteration: 1 took 530 msec.
+[10:02:36.018207][info] Bundle adjustment with 2 iterations took 1001 msec.
+[10:02:36.030178][info] Update Reconstruction:
+	- resection id: 21
+	- # images in the resection group: 1
+	- # images remaining: 23
+[10:02:36.032174][info] [24/46] Robust Resection of view: 901460244
+[10:02:36.150854][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 5.30249
+	- # points used for resection: 160
+	- # points validated by robust resection: 102
+[10:02:36.299458][info] Bundle adjustment start.
+[10:02:36.301453][info] Start bundle adjustment iteration: 0
+[10:02:36.727311][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.353096 s
+	- poses:
+	    - # refined:  24
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  11152
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  23
+	    - # constant: 0
+	    - # ignored:  12
+	- # residual blocks: 22304
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.652426
+	- final   RMSE: 0.614805
+[10:02:36.748256][info] Remove outliers: 
+	- # outliers residual error: 39
+	- # outliers angular error: 3
+[10:02:36.750251][info] Bundle adjustment iteration: 0 took 448 msec.
+[10:02:36.750251][info] Bundle adjustment with 1 iterations took 451 msec.
+[10:02:36.896858][info] Update Reconstruction:
+	- resection id: 22
+	- # images in the resection group: 1
+	- # images remaining: 22
+[10:02:36.898854][info] [25/46] Robust Resection of view: 2127921835
+[10:02:37.072389][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 3.85198
+	- # points used for resection: 275
+	- # points validated by robust resection: 208
+[10:02:37.351161][info] Bundle adjustment start.
+[10:02:37.352157][info] Start bundle adjustment iteration: 0
+[10:02:37.890943][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.471676 s
+	- poses:
+	    - # refined:  25
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  11506
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  24
+	    - # constant: 0
+	    - # ignored:  11
+	- # residual blocks: 23012
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.672439
+	- final   RMSE: 0.630109
+[10:02:37.906899][info] Remove outliers: 
+	- # outliers residual error: 69
+	- # outliers angular error: 1
+[10:02:37.908895][info] Bundle adjustment iteration: 0 took 556 msec.
+[10:02:37.908895][info] Start bundle adjustment iteration: 1
+[10:02:38.655200][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.64235 s
+	- poses:
+	    - # refined:  25
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  11434
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  24
+	    - # constant: 0
+	    - # ignored:  11
+	- # residual blocks: 22868
+	- # successful iterations: 9
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.600331
+	- final   RMSE: 0.593713
+[10:02:38.668167][info] Remove outliers: 
+	- # outliers residual error: 10
+	- # outliers angular error: 1
+[10:02:38.670162][info] Bundle adjustment iteration: 1 took 761 msec.
+[10:02:38.670162][info] Bundle adjustment with 2 iterations took 1319 msec.
+[10:02:38.675148][info] Update Reconstruction:
+	- resection id: 23
+	- # images in the resection group: 1
+	- # images remaining: 21
+[10:02:38.678143][info] [26/46] Robust Resection of view: 812662211
+[10:02:38.800812][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 6.75557
+	- # points used for resection: 184
+	- # points validated by robust resection: 100
+[10:02:38.969364][info] Bundle adjustment start.
+[10:02:38.974349][info] Start bundle adjustment iteration: 0
+[10:02:39.553339][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.498548 s
+	- poses:
+	    - # refined:  26
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  11688
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  25
+	    - # constant: 0
+	    - # ignored:  10
+	- # residual blocks: 23376
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.638348
+	- final   RMSE: 0.605858
+[10:02:39.567297][info] Remove outliers: 
+	- # outliers residual error: 31
+	- # outliers angular error: 1
+[10:02:39.569293][info] Bundle adjustment iteration: 0 took 594 msec.
+[10:02:39.569293][info] Bundle adjustment with 1 iterations took 599 msec.
+[10:02:39.574279][info] Update Reconstruction:
+	- resection id: 24
+	- # images in the resection group: 1
+	- # images remaining: 20
+[10:02:39.576273][info] [27/46] Robust Resection of view: 366289867
+[10:02:39.629141][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 3.63195
+	- # points used for resection: 81
+	- # points validated by robust resection: 37
+[10:02:39.706922][info] Bundle adjustment start.
+[10:02:39.708917][info] Start bundle adjustment iteration: 0
+[10:02:40.165118][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.383341 s
+	- poses:
+	    - # refined:  27
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  11742
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  26
+	    - # constant: 0
+	    - # ignored:  9
+	- # residual blocks: 23484
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.623364
+	- final   RMSE: 0.600381
+[10:02:40.179078][info] Remove outliers: 
+	- # outliers residual error: 22
+	- # outliers angular error: 1
+[10:02:40.180077][info] Bundle adjustment iteration: 0 took 471 msec.
+[10:02:40.181073][info] Bundle adjustment with 1 iterations took 473 msec.
+[10:02:40.289782][info] Update Reconstruction:
+	- resection id: 25
+	- # images in the resection group: 1
+	- # images remaining: 19
+[10:02:40.290779][info] [28/46] Robust Resection of view: 243013458
+[10:02:40.375551][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 3.15634
+	- # points used for resection: 91
+	- # points validated by robust resection: 70
+[10:02:40.456336][info] Bundle adjustment start.
+[10:02:40.458331][info] Start bundle adjustment iteration: 0
+[10:02:40.937200][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.40326 s
+	- poses:
+	    - # refined:  28
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  11848
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  27
+	    - # constant: 0
+	    - # ignored:  8
+	- # residual blocks: 23696
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.624273
+	- final   RMSE: 0.60731
+[10:02:40.949170][info] Remove outliers: 
+	- # outliers residual error: 34
+	- # outliers angular error: 4
+[10:02:40.951163][info] Bundle adjustment iteration: 0 took 492 msec.
+[10:02:40.951163][info] Bundle adjustment with 1 iterations took 494 msec.
+[10:02:40.956151][info] Update Reconstruction:
+	- resection id: 26
+	- # images in the resection group: 1
+	- # images remaining: 18
+[10:02:40.958145][info] [29/46] Robust Resection of view: 601122325
+[10:02:41.002544][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 5.33352
+	- # points used for resection: 52
+	- # points validated by robust resection: 15
+[10:02:41.002544][info] Resection of view 601122325 failed.
+[10:02:41.005536][info] Update Reconstruction:
+	- resection id: 26
+	- # images in the resection group: 1
+	- # images remaining: 17
+[10:02:41.007529][info] [29/46] Robust Resection of view: 105119960
+[10:02:41.136185][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 0.00212187
+	- # points used for resection: 6
+	- # points validated by robust resection: 0
+[10:02:41.136185][info] Resection of view 105119960 failed.
+[10:02:41.138188][info] Incremental Reconstruction start iteration 1:
+	- # number of resection groups: 26
+	- # number of poses: 28
+	- # number of landmarks: 3188
+	- # remaining images: 16
+[10:02:41.140174][info] Incremental Reconstruction completed with 2 iterations:
+	- # number of resection groups: 26
+	- # number of poses: 28
+	- # number of landmarks: 3188
+	- # remaining images: 16
+[10:02:41.156132][info] Structure from Motion statistics:
+	- # input images: 46
+	- # cameras calibrated: 28
+	- # poses: 28
+	- # landmarks: 3188
+	- elapsed time: 35.588
+	- residual RMSE: 0.835083
+[10:02:41.158126][info]  - # sift: 3188
+[10:02:41.175082][info] Histogram of residuals:
+
+0	|	3.9e+03
+0.5	|	3.6e+03
+1	|	2.1e+03
+1.5	|	1e+03
+2	|	5.7e+02
+2.5	|	3.4e+02
+3	|	1.4e+02
+3.5	|	70
+4
+[10:02:41.176078][info] # landmarks: 3188
+[10:02:41.176078][info] # overall observations: 11803
+[10:02:41.176078][info] Landmarks observations length min: 2, mean: 3.70232, median: 2, max: 25
+[10:02:41.176078][info] Histogram of observations length:
+
+2	|	1606
+3	|	615
+4	|	275
+5	|	187
+6	|	123
+7	|	91
+8	|	65
+9	|	47
+10	|	43
+11	|	31
+12	|	19
+13	|	19
+14	|	14
+15	|	12
+16	|	12
+17	|	2
+18	|	10
+19	|	1
+20	|	6
+21	|	2
+22	|	3
+23	|	3
+24	|	1
+25	|	1
+26
+[10:02:41.177080][info] Landmarks per view min: 0, mean: 0, median: 0, max: 0
+[10:02:41.177080][info] Histogram of nb landmarks per view:
+
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+1
+
+Compute scene structure color
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[10:02:41.405466][info] Structure from motion took (s): 41.678000
+[10:02:41.405466][info] Generating HTML report...
+[10:02:41.441370][info] Export SfMData to disk: C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/StructureFromMotion/8b5c1eae302ebd93e2dc43fb4e4c69928b645c1e/sfm.abc
+[10:02:41.636850][info] Structure from Motion results:
+	- # input images: 46
+	- # cameras calibrated: 28
+	- # poses: 28
+	- # landmarks: 3188

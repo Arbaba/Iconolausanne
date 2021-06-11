@@ -1,0 +1,2249 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\489d7a6bf280e5afb293afdaddf9d263fb0825c5"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\751d5575b1c8f6463d16d4797b4ddec013f4f7d3"
+    ],
+    "views": [
+        {
+            "viewId": "11775493",
+            "poseId": "11775493",
+            "intrinsicId": "3846775734",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139737.jpg",
+            "width": "1242",
+            "height": "808",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "21623444",
+            "poseId": "21623444",
+            "intrinsicId": "524239976",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133723.jpg",
+            "width": "1242",
+            "height": "800",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "112144998",
+            "poseId": "112144998",
+            "intrinsicId": "1915576554",
+            "resectionId": "21",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133218.jpg",
+            "width": "1230",
+            "height": "826",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "154992048",
+            "poseId": "154992048",
+            "intrinsicId": "3763186273",
+            "resectionId": "14",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139726.jpg",
+            "width": "1248",
+            "height": "806",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "155026478",
+            "poseId": "155026478",
+            "intrinsicId": "4285755641",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/148895.jpg",
+            "width": "1188",
+            "height": "830",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "185799942",
+            "poseId": "185799942",
+            "intrinsicId": "765069497",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139734.jpg",
+            "width": "1244",
+            "height": "790",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "261382707",
+            "poseId": "261382707",
+            "intrinsicId": "3863942448",
+            "resectionId": "26",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/136174.jpg",
+            "width": "1244",
+            "height": "772",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "281056771",
+            "poseId": "281056771",
+            "intrinsicId": "2940950420",
+            "resectionId": "19",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139720.jpg",
+            "width": "1240",
+            "height": "820",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "331561682",
+            "poseId": "331561682",
+            "intrinsicId": "1396983255",
+            "resectionId": "10",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139888.jpg",
+            "width": "674",
+            "height": "1050",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "413474303",
+            "poseId": "413474303",
+            "intrinsicId": "765069497",
+            "resectionId": "4",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139722.jpg",
+            "width": "1244",
+            "height": "790",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "414842540",
+            "poseId": "414842540",
+            "intrinsicId": "1001772277",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133790.jpg",
+            "width": "1246",
+            "height": "814",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "417818550",
+            "poseId": "417818550",
+            "intrinsicId": "811680158",
+            "resectionId": "12",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133767.jpg",
+            "width": "1246",
+            "height": "810",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "429875631",
+            "poseId": "429875631",
+            "intrinsicId": "3434360374",
+            "resectionId": "22",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139818.jpg",
+            "width": "1246",
+            "height": "806",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "444557352",
+            "poseId": "444557352",
+            "intrinsicId": "3305530889",
+            "resectionId": "25",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139713.jpg",
+            "width": "1240",
+            "height": "812",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "464677198",
+            "poseId": "464677198",
+            "intrinsicId": "2985598636",
+            "resectionId": "1",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139727.jpg",
+            "width": "1240",
+            "height": "802",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "501080556",
+            "poseId": "501080556",
+            "intrinsicId": "3663829911",
+            "resectionId": "7",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139712.jpg",
+            "width": "1240",
+            "height": "808",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "579801780",
+            "poseId": "579801780",
+            "intrinsicId": "1055863339",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/gsv_183.jpg",
+            "width": "640",
+            "height": "640",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "584834279",
+            "poseId": "584834279",
+            "intrinsicId": "2954674780",
+            "resectionId": "11",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139887.jpg",
+            "width": "672",
+            "height": "1052",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "600689326",
+            "poseId": "600689326",
+            "intrinsicId": "368356720",
+            "resectionId": "15",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139702.jpg",
+            "width": "1240",
+            "height": "814",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "613687273",
+            "poseId": "613687273",
+            "intrinsicId": "2345265597",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139739.jpg",
+            "width": "1246",
+            "height": "892",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "772284598",
+            "poseId": "772284598",
+            "intrinsicId": "3801127409",
+            "resectionId": "16",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133779.jpg",
+            "width": "1248",
+            "height": "826",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "783022837",
+            "poseId": "783022837",
+            "intrinsicId": "624983366",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139730.jpg",
+            "width": "1248",
+            "height": "804",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "806543768",
+            "poseId": "806543768",
+            "intrinsicId": "1883215699",
+            "resectionId": "18",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133812.jpg",
+            "width": "1246",
+            "height": "796",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "852074474",
+            "poseId": "852074474",
+            "intrinsicId": "2458169923",
+            "resectionId": "0",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139697.jpg",
+            "width": "1248",
+            "height": "808",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "862493735",
+            "poseId": "862493735",
+            "intrinsicId": "1055863339",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/gsv_141.jpg",
+            "width": "640",
+            "height": "640",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "873949303",
+            "poseId": "873949303",
+            "intrinsicId": "1156192495",
+            "resectionId": "23",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133336.jpg",
+            "width": "1252",
+            "height": "864",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "891076793",
+            "poseId": "891076793",
+            "intrinsicId": "4218485576",
+            "resectionId": "6",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133756.jpg",
+            "width": "1244",
+            "height": "808",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "945322138",
+            "poseId": "945322138",
+            "intrinsicId": "1055863339",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/gsv_50.jpg",
+            "width": "640",
+            "height": "640",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "998369411",
+            "poseId": "998369411",
+            "intrinsicId": "387858897",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139733.jpg",
+            "width": "1250",
+            "height": "828",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1015632067",
+            "poseId": "1015632067",
+            "intrinsicId": "524239976",
+            "resectionId": "20",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139714.jpg",
+            "width": "1242",
+            "height": "800",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1078751423",
+            "poseId": "1078751423",
+            "intrinsicId": "1883215699",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139736.jpg",
+            "width": "1246",
+            "height": "796",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1090188474",
+            "poseId": "1090188474",
+            "intrinsicId": "1055863339",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/gsv_29.jpg",
+            "width": "640",
+            "height": "640",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1092100410",
+            "poseId": "1092100410",
+            "intrinsicId": "4218485576",
+            "resectionId": "5",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133745.jpg",
+            "width": "1244",
+            "height": "808",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1118199604",
+            "poseId": "1118199604",
+            "intrinsicId": "3018699504",
+            "resectionId": "17",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139889.jpg",
+            "width": "674",
+            "height": "1054",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1191705073",
+            "poseId": "1191705073",
+            "intrinsicId": "1055863339",
+            "resectionId": "24",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/gsv_14.jpg",
+            "width": "640",
+            "height": "640",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1199350529",
+            "poseId": "1199350529",
+            "intrinsicId": "2968055938",
+            "resectionId": "27",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139738.jpg",
+            "width": "1248",
+            "height": "812",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1208227734",
+            "poseId": "1208227734",
+            "intrinsicId": "1055863339",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/gsv_155.jpg",
+            "width": "640",
+            "height": "640",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1325426344",
+            "poseId": "1325426344",
+            "intrinsicId": "3670574433",
+            "resectionId": "9",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139728.jpg",
+            "width": "1240",
+            "height": "804",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1330267110",
+            "poseId": "1330267110",
+            "intrinsicId": "524239976",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139735.jpg",
+            "width": "1242",
+            "height": "800",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1400837643",
+            "poseId": "1400837643",
+            "intrinsicId": "572347436",
+            "resectionId": "13",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/149039.jpg",
+            "width": "810",
+            "height": "1032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1669619798",
+            "poseId": "1669619798",
+            "intrinsicId": "1591611385",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133801.jpg",
+            "width": "1248",
+            "height": "810",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1687638901",
+            "poseId": "1687638901",
+            "intrinsicId": "2369152086",
+            "resectionId": "3",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139721.jpg",
+            "width": "1240",
+            "height": "818",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1719200353",
+            "poseId": "1719200353",
+            "intrinsicId": "1055863339",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/gsv_36.jpg",
+            "width": "640",
+            "height": "640",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1755570640",
+            "poseId": "1755570640",
+            "intrinsicId": "429012775",
+            "resectionId": "8",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139724.jpg",
+            "width": "1242",
+            "height": "794",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1756628965",
+            "poseId": "1756628965",
+            "intrinsicId": "4189930885",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/139731.jpg",
+            "width": "1248",
+            "height": "788",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1781492828",
+            "poseId": "1781492828",
+            "intrinsicId": "3517889115",
+            "resectionId": "2",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res\/133734.jpg",
+            "width": "1244",
+            "height": "786",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "368356720",
+            "width": "1240",
+            "height": "814",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65645161290322585",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1734.9526030878419",
+            "principalPoint": [
+                "620",
+                "407"
+            ],
+            "distortionParams": [
+                "1.8557277124139273",
+                "-41.11440199674874",
+                "215.35253913450734"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "387858897",
+            "width": "1250",
+            "height": "828",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.66239999999999999",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1508.8834764831843",
+            "principalPoint": [
+                "625",
+                "414"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "429012775",
+            "width": "1242",
+            "height": "794",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63929146537842196",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1645.9657745047789",
+            "principalPoint": [
+                "621",
+                "397"
+            ],
+            "distortionParams": [
+                "-0.70886088361642419",
+                "1.7297591298625044",
+                "-0.35113951725526377"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "524239976",
+            "width": "1242",
+            "height": "800",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64412238325281801",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1226.6619830818313",
+            "principalPoint": [
+                "621",
+                "400"
+            ],
+            "distortionParams": [
+                "0.070313901350876451",
+                "-2.0118996377348095",
+                "3.3019284195887213"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "572347436",
+            "width": "810",
+            "height": "1032",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.78488372093023251",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1282.7862620719447",
+            "principalPoint": [
+                "405",
+                "516"
+            ],
+            "distortionParams": [
+                "0.82338092679076513",
+                "-26.912311743797368",
+                "228.94195664895747"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "624983366",
+            "width": "1248",
+            "height": "804",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64423076923076916",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1506.4692629208112",
+            "principalPoint": [
+                "624",
+                "402"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "765069497",
+            "width": "1244",
+            "height": "790",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.635048231511254",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "968.20785440542397",
+            "principalPoint": [
+                "622",
+                "395"
+            ],
+            "distortionParams": [
+                "0.050476763506018325",
+                "-0.36401665701584052",
+                "0.34141714603011813"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "811680158",
+            "width": "1246",
+            "height": "810",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65008025682182979",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1413.3547458806645",
+            "principalPoint": [
+                "623",
+                "405"
+            ],
+            "distortionParams": [
+                "-0.53551988171509579",
+                "2.6540695804390735",
+                "-0.98181027289159606"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1001772277",
+            "width": "1246",
+            "height": "814",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6532905296950241",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1652.0264631049797",
+            "principalPoint": [
+                "623",
+                "407"
+            ],
+            "distortionParams": [
+                "-0.25498312565698006",
+                "2.6610669785625585",
+                "-13.322680319817721"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1055863339",
+            "width": "640",
+            "height": "640",
+            "sensorWidth": "-1",
+            "sensorHeight": "-1",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "279.15748399018298",
+            "principalPoint": [
+                "320",
+                "320"
+            ],
+            "distortionParams": [
+                "-0.21552604535667783",
+                "0.13671016656348203",
+                "-0.040818484040638418"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1156192495",
+            "width": "1252",
+            "height": "864",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69009584664536738",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "946.91997458442165",
+            "principalPoint": [
+                "626",
+                "432"
+            ],
+            "distortionParams": [
+                "-0.79428270955089364",
+                "3.4279232862820788",
+                "-8.2946918057585375"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1396983255",
+            "width": "674",
+            "height": "1050",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64190476190476187",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2671.1804288010035",
+            "principalPoint": [
+                "337",
+                "525"
+            ],
+            "distortionParams": [
+                "2.7984975719708642",
+                "-120.5088728060523",
+                "369.93198467486496"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1591611385",
+            "width": "1248",
+            "height": "810",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64903846153846156",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1478.310942461685",
+            "principalPoint": [
+                "624",
+                "405"
+            ],
+            "distortionParams": [
+                "-0.44572494422961179",
+                "-0.088073905065026464",
+                "5.6623199524814654"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1883215699",
+            "width": "1246",
+            "height": "796",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6388443017656501",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1514.5979077241366",
+            "principalPoint": [
+                "623",
+                "398"
+            ],
+            "distortionParams": [
+                "-0.26192771434487677",
+                "3.3781865455622895",
+                "-15.466589647085137"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1915576554",
+            "width": "1230",
+            "height": "826",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.67154471544715444",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1508.5604611889214",
+            "principalPoint": [
+                "615",
+                "413"
+            ],
+            "distortionParams": [
+                "1.7450834864958129",
+                "-20.40941740533632",
+                "36.739801687974449"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2345265597",
+            "width": "1246",
+            "height": "892",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.7158908507223114",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1504.0550493584381",
+            "principalPoint": [
+                "623",
+                "446"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2369152086",
+            "width": "1240",
+            "height": "818",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6596774193548387",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1554.2687881892646",
+            "principalPoint": [
+                "620",
+                "409"
+            ],
+            "distortionParams": [
+                "-0.034924328462989089",
+                "-6.4049421985636652",
+                "33.914668150588575"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2458169923",
+            "width": "1248",
+            "height": "808",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64743589743589747",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1881.675669861964",
+            "principalPoint": [
+                "624",
+                "404"
+            ],
+            "distortionParams": [
+                "-4.2805861286034927",
+                "92.330410768560839",
+                "-482.04329719212399"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2940950420",
+            "width": "1240",
+            "height": "820",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.66129032258064513",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1228.3741053978245",
+            "principalPoint": [
+                "620",
+                "410"
+            ],
+            "distortionParams": [
+                "0.066394315506883947",
+                "0.050105840665264058",
+                "-5.2816167702940806"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2954674780",
+            "width": "672",
+            "height": "1052",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63878326996197721",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2486.4523105403114",
+            "principalPoint": [
+                "336",
+                "526"
+            ],
+            "distortionParams": [
+                "0.54904239385730569",
+                "4.034940118235701",
+                "-207.96158793037992"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2968055938",
+            "width": "1248",
+            "height": "812",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65064102564102566",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "25039.490147478788",
+            "principalPoint": [
+                "624",
+                "406"
+            ],
+            "distortionParams": [
+                "-442.59052297208228",
+                "71367.482718309475",
+                "-3676941.4282873324"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2985598636",
+            "width": "1240",
+            "height": "802",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64677419354838706",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1727.689359186613",
+            "principalPoint": [
+                "620",
+                "401"
+            ],
+            "distortionParams": [
+                "-0.90327525973423162",
+                "4.8671309953783046",
+                "-14.426325930008916"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3018699504",
+            "width": "674",
+            "height": "1054",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63946869070208734",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2133.8727224206664",
+            "principalPoint": [
+                "337",
+                "527"
+            ],
+            "distortionParams": [
+                "2.0675768308905518",
+                "-59.688050799267558",
+                "106.48217443890945"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3305530889",
+            "width": "1240",
+            "height": "812",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65483870967741942",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "984.66494475704587",
+            "principalPoint": [
+                "620",
+                "406"
+            ],
+            "distortionParams": [
+                "0.13372072279564567",
+                "4.5846764748320759",
+                "-58.37475759536396"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3434360374",
+            "width": "1246",
+            "height": "806",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6468699839486356",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1655.3530342819799",
+            "principalPoint": [
+                "623",
+                "403"
+            ],
+            "distortionParams": [
+                "-0.72484198124381305",
+                "9.9624340129664155",
+                "-61.332273481734781"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3517889115",
+            "width": "1244",
+            "height": "786",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63183279742765275",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "364.04036212471692",
+            "principalPoint": [
+                "622",
+                "393"
+            ],
+            "distortionParams": [
+                "-0.051429330279651783",
+                "0.022680901324647621",
+                "-0.002969959631098377"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3663829911",
+            "width": "1240",
+            "height": "808",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65161290322580645",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1609.0201838783898",
+            "principalPoint": [
+                "620",
+                "404"
+            ],
+            "distortionParams": [
+                "-0.69478331822925055",
+                "1.849497747987912",
+                "-0.97768043811411898"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3670574433",
+            "width": "1240",
+            "height": "804",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64838709677419348",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1582.309103212421",
+            "principalPoint": [
+                "620",
+                "402"
+            ],
+            "distortionParams": [
+                "-0.84393610075531256",
+                "6.8757077141512077",
+                "-25.783062910842727"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3763186273",
+            "width": "1248",
+            "height": "806",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64583333333333337",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1570.1482306988505",
+            "principalPoint": [
+                "624",
+                "403"
+            ],
+            "distortionParams": [
+                "-0.8878823061948613",
+                "8.8997826940938065",
+                "-39.174710171263349"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3801127409",
+            "width": "1248",
+            "height": "826",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.66185897435897434",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1560.64169656067",
+            "principalPoint": [
+                "624",
+                "413"
+            ],
+            "distortionParams": [
+                "-0.97872765689556374",
+                "12.294982536065138",
+                "-48.184736242727759"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3846775734",
+            "width": "1242",
+            "height": "808",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65056360708534622",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1499.2266222336918",
+            "principalPoint": [
+                "621",
+                "404"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3863942448",
+            "width": "1244",
+            "height": "772",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.62057877813504825",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1813.8071242663214",
+            "principalPoint": [
+                "622",
+                "386"
+            ],
+            "distortionParams": [
+                "-0.24260543786523925",
+                "15.313023712599712",
+                "-92.372460909909691"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4189930885",
+            "width": "1248",
+            "height": "788",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63141025641025639",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1506.4692629208112",
+            "principalPoint": [
+                "624",
+                "394"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4218485576",
+            "width": "1244",
+            "height": "808",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64951768488745976",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1576.0499364466993",
+            "principalPoint": [
+                "622",
+                "404"
+            ],
+            "distortionParams": [
+                "0.032338386641910286",
+                "-4.9893025422217789",
+                "20.656245859397767"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4285755641",
+            "width": "1188",
+            "height": "830",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69865319865319864",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Av. de Montbenon\/tribunal_final_high_res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1434.0428560496184",
+            "principalPoint": [
+                "594",
+                "415"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "112144998",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97923250013130592",
+                        "-0.077590261390442783",
+                        "-0.18730579815893286",
+                        "0.063743344680154468",
+                        "0.99484572320516129",
+                        "-0.078859197493929348",
+                        "0.19245907797653808",
+                        "0.065281991067692571",
+                        "0.9791311275547615"
+                    ],
+                    "center": [
+                        "0.49831221408632637",
+                        "0.030167603340614302",
+                        "0.072139728270744136"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "154992048",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99797038124620319",
+                        "-0.063676204674760511",
+                        "-0.00067757916572726024",
+                        "0.063568356388567282",
+                        "0.99679658115462344",
+                        "-0.048534934475184102",
+                        "0.0037659290173764331",
+                        "0.048393354468070554",
+                        "0.99882125579202796"
+                    ],
+                    "center": [
+                        "-0.086610016554016525",
+                        "-0.0021051208335547819",
+                        "0.029104348680964804"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "261382707",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.68095609044673044",
+                        "-0.11939443400472979",
+                        "-0.72252596632383703",
+                        "0.16356241162561033",
+                        "0.98649318481498827",
+                        "-0.0088619307600421374",
+                        "0.7138250068376133",
+                        "-0.11214350378988339",
+                        "0.69128698394444665"
+                    ],
+                    "center": [
+                        "0.88647733309337251",
+                        "0.16140251592921351",
+                        "0.81204531381839473"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "281056771",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99774639991912817",
+                        "-0.049261310670633406",
+                        "0.045557049064119046",
+                        "0.048021678744461692",
+                        "0.99845609844487526",
+                        "0.02791662316257524",
+                        "-0.046861922911708681",
+                        "-0.025665984283655588",
+                        "0.99857158853622918"
+                    ],
+                    "center": [
+                        "0.0092416256073605402",
+                        "0.0034680026663841063",
+                        "0.077894489350239016"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "331561682",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98410134900840074",
+                        "-0.038190284566126359",
+                        "0.17345327049267242",
+                        "0.04572832901948902",
+                        "0.99816588236380821",
+                        "-0.03967103741983001",
+                        "-0.17162008858210989",
+                        "0.046972049664012805",
+                        "0.98404276926637202"
+                    ],
+                    "center": [
+                        "-0.60373710146481208",
+                        "-0.035590719160457696",
+                        "0.15230336852605766"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "413474303",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99778831738648954",
+                        "-0.050782059163523137",
+                        "-0.042891213017941097",
+                        "0.048877686696698015",
+                        "0.99782011392446568",
+                        "-0.044339508239782548",
+                        "0.045049366590634708",
+                        "0.042145020048384725",
+                        "0.99809536210469574"
+                    ],
+                    "center": [
+                        "0.040320730041090144",
+                        "-0.0066750248442142392",
+                        "1.3477755708750867"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "414842540",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99699324724339144",
+                        "-0.056994872383464103",
+                        "-0.052498090184981326",
+                        "0.055782052346089468",
+                        "0.99814756304077767",
+                        "-0.024285901914789468",
+                        "0.053785012662784841",
+                        "0.021284428997492087",
+                        "0.99832567105885583"
+                    ],
+                    "center": [
+                        "0.01306971225816342",
+                        "0.0034148968746030278",
+                        "0.026804546693481701"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "417818550",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97385489544369885",
+                        "-0.10038600914967181",
+                        "-0.20378736905741832",
+                        "0.096446689444698044",
+                        "0.99490983543132228",
+                        "-0.029196839849154096",
+                        "0.20568101204413688",
+                        "0.0087788683223514949",
+                        "0.97857971200892901"
+                    ],
+                    "center": [
+                        "0.46769440889150332",
+                        "0.027694990649787064",
+                        "0.28886430286344589"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "429875631",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99552801952778436",
+                        "-0.076937203704967136",
+                        "-0.054814496450735703",
+                        "0.081835158592315257",
+                        "0.99224426417578171",
+                        "0.093564560750490022",
+                        "0.047190774026899973",
+                        "-0.097631894872126285",
+                        "0.99410313546956486"
+                    ],
+                    "center": [
+                        "-0.013192119428383688",
+                        "-0.0059484109448589752",
+                        "0.1952794215057346"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "444557352",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99718087384448884",
+                        "-0.060314841952535878",
+                        "0.044636584535357605",
+                        "0.061472384280856496",
+                        "0.9977948965215736",
+                        "-0.025029791176295942",
+                        "-0.04302848834863033",
+                        "0.027703146314866336",
+                        "0.99868968397329949"
+                    ],
+                    "center": [
+                        "-0.055240380430351677",
+                        "-0.00039220689718866492",
+                        "0.087732209713221099"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "464677198",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99764240595492781",
+                        "-0.061946126739697904",
+                        "-0.029534847594194991",
+                        "0.061396206174842829",
+                        "0.99792922900226078",
+                        "-0.019177063651392885",
+                        "0.030661632503818707",
+                        "0.017318524328090654",
+                        "0.99937977416360502"
+                    ],
+                    "center": [
+                        "0.0041748880057004356",
+                        "0.002878748237799455",
+                        "0.02765089221726455"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "501080556",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.9967669964651783",
+                        "-0.062186818566845978",
+                        "0.050875872025169473",
+                        "0.060872911594491083",
+                        "0.99778078333480968",
+                        "0.026981420306996733",
+                        "-0.052440856131422138",
+                        "-0.023797226819688932",
+                        "0.9983404472442734"
+                    ],
+                    "center": [
+                        "-0.26722522656885256",
+                        "-0.011826495334394253",
+                        "0.036861962831149689"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "584834279",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99786616849534249",
+                        "-0.064764878777419446",
+                        "0.0082837340234339033",
+                        "0.064417992899691842",
+                        "0.99724069530918003",
+                        "0.036896040574002524",
+                        "-0.01065044427242756",
+                        "-0.036283689120724098",
+                        "0.99928477519703585"
+                    ],
+                    "center": [
+                        "-0.12085571320022484",
+                        "-0.014399127985508558",
+                        "0.26408038996550715"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "600689326",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97959839226506706",
+                        "-0.096456381314853623",
+                        "-0.17630415870120419",
+                        "0.087756058911539314",
+                        "0.99453755495111662",
+                        "-0.056514829170485309",
+                        "0.18079232283482138",
+                        "0.039890077657210116",
+                        "0.98271202175840489"
+                    ],
+                    "center": [
+                        "0.51975644256938469",
+                        "0.02953439973602142",
+                        "-0.007014154619065141"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "772284598",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.96732908182399169",
+                        "-0.087663803429877937",
+                        "-0.2378854872113067",
+                        "0.085340969861649477",
+                        "0.99614971977775757",
+                        "-0.020066256496121784",
+                        "0.23872864578978803",
+                        "-0.0008907047225857681",
+                        "0.97108590779831161"
+                    ],
+                    "center": [
+                        "0.78936446161826868",
+                        "0.058169976073125365",
+                        "0.25969618559274987"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "806543768",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99608252225637872",
+                        "-0.071794610697636582",
+                        "-0.051625020388814731",
+                        "0.071157164129596315",
+                        "0.99736568329947872",
+                        "-0.014083741321030022",
+                        "0.052500160460749297",
+                        "0.010355078528857323",
+                        "0.99856722632993355"
+                    ],
+                    "center": [
+                        "0.067361375560472211",
+                        "-0.018780704723030599",
+                        "0.91972264045584251"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "852074474",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99679678680151274",
+                        "-0.079236036535147936",
+                        "0.010854323395775238",
+                        "0.079379316323359567",
+                        "0.99675340917655442",
+                        "-0.013474621885311911",
+                        "-0.0097514082170419084",
+                        "0.014293068568953555",
+                        "0.99985029790897584"
+                    ],
+                    "center": [
+                        "0.0041748879238252719",
+                        "0.0028787482332495529",
+                        "0.027650892228521792"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "873949303",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99812073591334871",
+                        "-0.054097154454240355",
+                        "0.028783578994789682",
+                        "0.054791448312943296",
+                        "0.99821162424063425",
+                        "-0.023905029233299346",
+                        "-0.02743890908118066",
+                        "0.025437199351125421",
+                        "0.99929978242647777"
+                    ],
+                    "center": [
+                        "-0.27094918843170168",
+                        "0.0067268528845391053",
+                        "-0.082833431415680975"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "891076793",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98479588900070469",
+                        "-0.081536048265740596",
+                        "-0.15339142688076973",
+                        "0.076508564749074831",
+                        "0.99632890809770569",
+                        "-0.038407634773183041",
+                        "0.15595991961830558",
+                        "0.026087922915410792",
+                        "0.98741881881530458"
+                    ],
+                    "center": [
+                        "0.43295655257786964",
+                        "0.025671216861886195",
+                        "0.064770368333655501"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1015632067",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.9929324688771467",
+                        "-0.077795006591456051",
+                        "-0.089627279323705469",
+                        "0.081734047091963413",
+                        "0.99580448950892908",
+                        "0.041145646426201304",
+                        "0.086050321298080698",
+                        "-0.048180448558482469",
+                        "0.99512511101931322"
+                    ],
+                    "center": [
+                        "0.10446838796672887",
+                        "0.0078751746737805352",
+                        "0.03404076137450026"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1092100410",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.9983550031853945",
+                        "-0.055040385505516348",
+                        "-0.016057508464734853",
+                        "0.054914528398176649",
+                        "0.99845757932056345",
+                        "-0.0081766049266449176",
+                        "0.016482784518907466",
+                        "0.0072813639329956355",
+                        "0.99983763659595182"
+                    ],
+                    "center": [
+                        "0.014292685432643617",
+                        "0.0034787117014680917",
+                        "0.026419011029863902"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1118199604",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.9973698326838909",
+                        "-0.042139457762187589",
+                        "0.058971882720634278",
+                        "0.046398436333548461",
+                        "0.99626525379458275",
+                        "-0.072819840616533626",
+                        "-0.055683049107507446",
+                        "0.075364515397662563",
+                        "0.99560011443398622"
+                    ],
+                    "center": [
+                        "-0.22915811268853548",
+                        "0.019269663590746115",
+                        "0.62387672767651858"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1191705073",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.94080228183454861",
+                        "-0.18444924184035957",
+                        "-0.28437570866623474",
+                        "0.13527322334031197",
+                        "0.97358263692056413",
+                        "-0.18395109168994675",
+                        "0.31079289171734403",
+                        "0.13459318805689116",
+                        "0.9408998098557857"
+                    ],
+                    "center": [
+                        "0.086617762955586319",
+                        "0.17568427705855783",
+                        "2.0486116799659535"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1325426344",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99860418301781528",
+                        "-0.050668764546577101",
+                        "0.014911806015547516",
+                        "0.050704889666054194",
+                        "0.99871156692793372",
+                        "-0.002054324293919585",
+                        "-0.014788503077561925",
+                        "0.0028075583119231405",
+                        "0.99988670247836087"
+                    ],
+                    "center": [
+                        "-0.17116124496812388",
+                        "-0.0063161078870832736",
+                        "0.034480274124828417"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1400837643",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99706281770256189",
+                        "-0.054136495470508646",
+                        "0.054175431822916176",
+                        "0.065653350472318461",
+                        "0.96840111307798837",
+                        "-0.24060116741419241",
+                        "-0.039438244468875172",
+                        "0.24345127653697962",
+                        "0.96911098478230462"
+                    ],
+                    "center": [
+                        "-0.19448496074044574",
+                        "0.28191950010287803",
+                        "1.4148391258425845"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1669619798",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99320836246791755",
+                        "-0.075374042562514371",
+                        "-0.088633528822799415",
+                        "0.070925900901211952",
+                        "0.99610893762078134",
+                        "-0.052311575901991515",
+                        "0.092231585181808531",
+                        "0.045669881757922574",
+                        "0.99468969864730583"
+                    ],
+                    "center": [
+                        "0.17074024250450448",
+                        "0.011969435597152736",
+                        "0.021198588240768632"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1687638901",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.9957395126768217",
+                        "-0.068996121756368461",
+                        "-0.061174815706350333",
+                        "0.067389801649118591",
+                        "0.99733527372302266",
+                        "-0.02794577645219215",
+                        "0.062939951762120083",
+                        "0.02370415512950888",
+                        "0.99773577439208727"
+                    ],
+                    "center": [
+                        "0.1157133707166511",
+                        "0.0091621194868209237",
+                        "0.025105815260058569"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1755570640",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99601941555601581",
+                        "-0.067488176366444191",
+                        "-0.058229458920588596",
+                        "0.066742550290590369",
+                        "0.99766254993692272",
+                        "-0.014658391250925272",
+                        "0.059082618562152502",
+                        "0.010713659696336747",
+                        "0.99819560291545584"
+                    ],
+                    "center": [
+                        "0.014354459590815927",
+                        "0.0034827503517318266",
+                        "0.026389386292190085"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1781492828",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99680189720596968",
+                        "-0.064713956275392337",
+                        "0.046883702816287925",
+                        "0.058806523242923951",
+                        "0.99127445107796164",
+                        "0.11796929882035115",
+                        "-0.054108876819416993",
+                        "-0.11483495331680363",
+                        "0.99190985626016881"
+                    ],
+                    "center": [
+                        "-0.14853011546627293",
+                        "-0.095399315695659903",
+                        "2.4037833653490748"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}

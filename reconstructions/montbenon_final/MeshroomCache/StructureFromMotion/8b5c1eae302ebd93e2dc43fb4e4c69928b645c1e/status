@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/CameraInit/07d797367d3f22df9b34e648db0915f81ab28704/cameraInit.sfm\" --featuresFolders \"C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/FeatureExtraction/554becf0ccb3e6fb3c668bf9177c9d0692d1a49f\" --matchesFolders \"C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/FeatureMatching/6eca105068dad3736e29d1701e1716b335334f76\" --describerTypes sift --localizerEstimator acransac --observationConstraint Basic --localizerEstimatorMaxIterations 4096 --localizerEstimatorError 0.0 --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --maxNumberOfMatches 0 --minNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --useRigConstraint True --lockAllIntrinsics False --filterTrackForks False --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --verboseLevel info --output \"C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/StructureFromMotion/8b5c1eae302ebd93e2dc43fb4e4c69928b645c1e/sfm.abc\" --outputViewsAndPoses \"C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/StructureFromMotion/8b5c1eae302ebd93e2dc43fb4e4c69928b645c1e/cameras.sfm\" --extraInfoFolder \"C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final/MeshroomCache/StructureFromMotion/8b5c1eae302ebd93e2dc43fb4e4c69928b645c1e\"",
+    "env": null,
+    "startDateTime": "2021-06-11 10:01:56.916755",
+    "endDateTime": "2021-06-11 10:02:42.803302",
+    "elapsedTime": 45.886547565460205,
+    "hostname": "LAPTOP-AGJ9REAR",
+    "sessionUid": "722a6594-ca4f-11eb-9c64-9822ef7eb000",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:45.886548"
+}

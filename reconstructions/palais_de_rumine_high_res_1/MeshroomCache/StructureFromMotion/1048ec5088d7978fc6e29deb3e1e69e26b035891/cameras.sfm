@@ -1,0 +1,3551 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\e8f730e9e742a2aacafea139c8c07c16a88f257b"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\ec1994115ae2cf1e049fb8aaf5cf0594b3f99a45"
+    ],
+    "views": [
+        {
+            "viewId": "31024241",
+            "poseId": "31024241",
+            "intrinsicId": "3439165898",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134653.jpg",
+            "width": "1244",
+            "height": "806",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "34298782",
+            "poseId": "34298782",
+            "intrinsicId": "1856823941",
+            "resectionId": "8",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145352.jpg",
+            "width": "1238",
+            "height": "792",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "38419845",
+            "poseId": "38419845",
+            "intrinsicId": "407956783",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/100015.jpg",
+            "width": "1078",
+            "height": "1068",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "44073087",
+            "poseId": "44073087",
+            "intrinsicId": "3757582940",
+            "resectionId": "2",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145293.jpg",
+            "width": "1232",
+            "height": "792",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "58296702",
+            "poseId": "58296702",
+            "intrinsicId": "2239939115",
+            "resectionId": "16",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/143020.jpg",
+            "width": "1244",
+            "height": "798",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "141648751",
+            "poseId": "141648751",
+            "intrinsicId": "4169293641",
+            "resectionId": "7",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134651.jpg",
+            "width": "1246",
+            "height": "782",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "178080035",
+            "poseId": "178080035",
+            "intrinsicId": "1540860024",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145367.jpg",
+            "width": "736",
+            "height": "1028",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "201310603",
+            "poseId": "201310603",
+            "intrinsicId": "2157229256",
+            "resectionId": "0",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134656.jpg",
+            "width": "1246",
+            "height": "806",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "254442617",
+            "poseId": "254442617",
+            "intrinsicId": "1219117929",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145354.jpg",
+            "width": "1230",
+            "height": "784",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "286390186",
+            "poseId": "286390186",
+            "intrinsicId": "4157258995",
+            "resectionId": "10",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/107655.jpg",
+            "width": "1250",
+            "height": "896",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "299257937",
+            "poseId": "299257937",
+            "intrinsicId": "4095061981",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134492.jpg",
+            "width": "1240",
+            "height": "882",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "362492621",
+            "poseId": "362492621",
+            "intrinsicId": "1247828245",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/136540.jpg",
+            "width": "1236",
+            "height": "778",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "366762448",
+            "poseId": "366762448",
+            "intrinsicId": "3263368051",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145299.jpg",
+            "width": "1224",
+            "height": "788",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "375279464",
+            "poseId": "375279464",
+            "intrinsicId": "1856823941",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145353.jpg",
+            "width": "1238",
+            "height": "792",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "399344121",
+            "poseId": "399344121",
+            "intrinsicId": "336158815",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/137949.jpg",
+            "width": "1226",
+            "height": "872",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "441666280",
+            "poseId": "441666280",
+            "intrinsicId": "3885793545",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134649.jpg",
+            "width": "1246",
+            "height": "800",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "467193875",
+            "poseId": "467193875",
+            "intrinsicId": "1260363451",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134462.jpg",
+            "width": "1252",
+            "height": "810",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "510341043",
+            "poseId": "510341043",
+            "intrinsicId": "620196067",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145210.jpg",
+            "width": "1228",
+            "height": "798",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "512607667",
+            "poseId": "512607667",
+            "intrinsicId": "3836353770",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/149950.jpg",
+            "width": "798",
+            "height": "814",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "524419531",
+            "poseId": "524419531",
+            "intrinsicId": "1030134974",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134437.jpg",
+            "width": "1230",
+            "height": "792",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "549595860",
+            "poseId": "549595860",
+            "intrinsicId": "3461739225",
+            "resectionId": "11",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/107656.jpg",
+            "width": "1260",
+            "height": "894",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "564422305",
+            "poseId": "564422305",
+            "intrinsicId": "4191779060",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/136536.jpg",
+            "width": "1238",
+            "height": "790",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "567802312",
+            "poseId": "567802312",
+            "intrinsicId": "2424700515",
+            "resectionId": "15",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/175041.jpg",
+            "width": "1236",
+            "height": "806",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "584169469",
+            "poseId": "584169469",
+            "intrinsicId": "3583684272",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145366.jpg",
+            "width": "722",
+            "height": "1014",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "594315805",
+            "poseId": "594315805",
+            "intrinsicId": "1708529491",
+            "resectionId": "4",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145304.jpg",
+            "width": "1222",
+            "height": "780",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "658194788",
+            "poseId": "658194788",
+            "intrinsicId": "639439098",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134667.jpg",
+            "width": "1248",
+            "height": "866",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "674599680",
+            "poseId": "674599680",
+            "intrinsicId": "1749019996",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/123376.jpg",
+            "width": "1278",
+            "height": "1032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "679786882",
+            "poseId": "679786882",
+            "intrinsicId": "2495280620",
+            "resectionId": "5",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/137946.jpg",
+            "width": "1232",
+            "height": "872",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "748423587",
+            "poseId": "748423587",
+            "intrinsicId": "336158815",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/137951.jpg",
+            "width": "1226",
+            "height": "872",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "754300295",
+            "poseId": "754300295",
+            "intrinsicId": "1586705639",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/140622.jpg",
+            "width": "1248",
+            "height": "812",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "755375441",
+            "poseId": "755375441",
+            "intrinsicId": "2407629660",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/136543.jpg",
+            "width": "1238",
+            "height": "872",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "764500563",
+            "poseId": "764500563",
+            "intrinsicId": "964741993",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/137355.jpg",
+            "width": "1242",
+            "height": "804",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "777607773",
+            "poseId": "777607773",
+            "intrinsicId": "1013979958",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/150204.jpg",
+            "width": "1116",
+            "height": "716",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "792412337",
+            "poseId": "792412337",
+            "intrinsicId": "3059817995",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134529.jpg",
+            "width": "1238",
+            "height": "870",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "877253778",
+            "poseId": "877253778",
+            "intrinsicId": "1364586148",
+            "resectionId": "18",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/143021.jpg",
+            "width": "1232",
+            "height": "788",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "878332992",
+            "poseId": "878332992",
+            "intrinsicId": "4179425103",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/99810.jpg",
+            "width": "1206",
+            "height": "900",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "888795170",
+            "poseId": "888795170",
+            "intrinsicId": "2591563509",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/111766.jpg",
+            "width": "908",
+            "height": "1278",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "907775121",
+            "poseId": "907775121",
+            "intrinsicId": "1762281871",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/99132.jpg",
+            "width": "1278",
+            "height": "964",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "925511510",
+            "poseId": "925511510",
+            "intrinsicId": "1030134974",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145298.jpg",
+            "width": "1230",
+            "height": "792",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "927428943",
+            "poseId": "927428943",
+            "intrinsicId": "3263368051",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134674.jpg",
+            "width": "1224",
+            "height": "788",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "978684297",
+            "poseId": "978684297",
+            "intrinsicId": "1038822426",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/164485.jpg",
+            "width": "1210",
+            "height": "886",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "987428802",
+            "poseId": "987428802",
+            "intrinsicId": "2234524801",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145360.jpg",
+            "width": "1220",
+            "height": "796",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "991332687",
+            "poseId": "991332687",
+            "intrinsicId": "526179168",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145301.jpg",
+            "width": "1230",
+            "height": "802",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "996660293",
+            "poseId": "996660293",
+            "intrinsicId": "2231693029",
+            "resectionId": "3",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145049.jpg",
+            "width": "670",
+            "height": "1028",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1003372070",
+            "poseId": "1003372070",
+            "intrinsicId": "2250868657",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/131281.jpg",
+            "width": "1248",
+            "height": "854",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1017089475",
+            "poseId": "1017089475",
+            "intrinsicId": "1556861410",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134490.jpg",
+            "width": "1246",
+            "height": "786",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1019808916",
+            "poseId": "1019808916",
+            "intrinsicId": "322257089",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145068.jpg",
+            "width": "650",
+            "height": "988",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1090991390",
+            "poseId": "1090991390",
+            "intrinsicId": "4240407095",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134662.jpg",
+            "width": "1250",
+            "height": "812",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1091773037",
+            "poseId": "1091773037",
+            "intrinsicId": "90197329",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145295.jpg",
+            "width": "1232",
+            "height": "870",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1172770319",
+            "poseId": "1172770319",
+            "intrinsicId": "3891189373",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134435.jpg",
+            "width": "864",
+            "height": "1224",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1181090063",
+            "poseId": "1181090063",
+            "intrinsicId": "2948466174",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/137941.jpg",
+            "width": "1230",
+            "height": "780",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1214639478",
+            "poseId": "1214639478",
+            "intrinsicId": "3885793545",
+            "resectionId": "1",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134654.jpg",
+            "width": "1246",
+            "height": "800",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1233340372",
+            "poseId": "1233340372",
+            "intrinsicId": "3114762903",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134428.jpg",
+            "width": "1242",
+            "height": "796",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1236551408",
+            "poseId": "1236551408",
+            "intrinsicId": "1741837840",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134461.jpg",
+            "width": "666",
+            "height": "1040",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1261755261",
+            "poseId": "1261755261",
+            "intrinsicId": "3680338229",
+            "resectionId": "6",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145305.jpg",
+            "width": "1226",
+            "height": "786",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1263885230",
+            "poseId": "1263885230",
+            "intrinsicId": "827290755",
+            "resectionId": "12",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134664.jpg",
+            "width": "1278",
+            "height": "838",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1292847116",
+            "poseId": "1292847116",
+            "intrinsicId": "123984105",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134456.jpg",
+            "width": "1240",
+            "height": "796",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1338688193",
+            "poseId": "1338688193",
+            "intrinsicId": "620196067",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145365.jpg",
+            "width": "1228",
+            "height": "798",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1358189923",
+            "poseId": "1358189923",
+            "intrinsicId": "2009602098",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134677.jpg",
+            "width": "1244",
+            "height": "796",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1360473671",
+            "poseId": "1360473671",
+            "intrinsicId": "3885793545",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134427.jpg",
+            "width": "1246",
+            "height": "800",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1384731686",
+            "poseId": "1384731686",
+            "intrinsicId": "959648090",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134457.jpg",
+            "width": "1246",
+            "height": "802",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1408967537",
+            "poseId": "1408967537",
+            "intrinsicId": "2947526892",
+            "resectionId": "20",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/143022.jpg",
+            "width": "1242",
+            "height": "826",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1452829446",
+            "poseId": "1452829446",
+            "intrinsicId": "2364512147",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/153883.jpg",
+            "width": "778",
+            "height": "1116",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1457170186",
+            "poseId": "1457170186",
+            "intrinsicId": "2045489912",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134666.jpg",
+            "width": "858",
+            "height": "1228",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1511649266",
+            "poseId": "1511649266",
+            "intrinsicId": "1073764707",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/169334.jpg",
+            "width": "856",
+            "height": "1278",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1558532445",
+            "poseId": "1558532445",
+            "intrinsicId": "296488026",
+            "resectionId": "9",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/136535.jpg",
+            "width": "1252",
+            "height": "874",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1573600634",
+            "poseId": "1573600634",
+            "intrinsicId": "3680338229",
+            "resectionId": "13",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134663.jpg",
+            "width": "1226",
+            "height": "786",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1577570388",
+            "poseId": "1577570388",
+            "intrinsicId": "299324742",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/107660.jpg",
+            "width": "1258",
+            "height": "896",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1590497766",
+            "poseId": "1590497766",
+            "intrinsicId": "4276613305",
+            "resectionId": "21",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134655.jpg",
+            "width": "1244",
+            "height": "794",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1622622694",
+            "poseId": "1622622694",
+            "intrinsicId": "2931290482",
+            "resectionId": "14",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/141700.jpg",
+            "width": "1176",
+            "height": "882",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1624702625",
+            "poseId": "1624702625",
+            "intrinsicId": "2589643268",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/137948.jpg",
+            "width": "878",
+            "height": "1234",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1627977021",
+            "poseId": "1627977021",
+            "intrinsicId": "1412103467",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145356.jpg",
+            "width": "1230",
+            "height": "790",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1665680133",
+            "poseId": "1665680133",
+            "intrinsicId": "1219117929",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145286.jpg",
+            "width": "1230",
+            "height": "784",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1703809859",
+            "poseId": "1703809859",
+            "intrinsicId": "3757582940",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145287.jpg",
+            "width": "1232",
+            "height": "792",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1730060474",
+            "poseId": "1730060474",
+            "intrinsicId": "392012954",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134431.jpg",
+            "width": "1246",
+            "height": "808",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1731953055",
+            "poseId": "1731953055",
+            "intrinsicId": "136227448",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/99897.jpg",
+            "width": "1242",
+            "height": "926",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1784440566",
+            "poseId": "1784440566",
+            "intrinsicId": "2392508377",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134455.jpg",
+            "width": "1242",
+            "height": "802",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1833757417",
+            "poseId": "1833757417",
+            "intrinsicId": "2759620113",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145294.jpg",
+            "width": "1206",
+            "height": "790",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1844782778",
+            "poseId": "1844782778",
+            "intrinsicId": "2149403863",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/107657.jpg",
+            "width": "1244",
+            "height": "658",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1946740157",
+            "poseId": "1946740157",
+            "intrinsicId": "238490395",
+            "resectionId": "17",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/143023.jpg",
+            "width": "1220",
+            "height": "786",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2035030647",
+            "poseId": "2035030647",
+            "intrinsicId": "1085916337",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/145355.jpg",
+            "width": "1240",
+            "height": "802",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2064414708",
+            "poseId": "2064414708",
+            "intrinsicId": "2025540791",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/134460.jpg",
+            "width": "1242",
+            "height": "888",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2070880116",
+            "poseId": "2070880116",
+            "intrinsicId": "2741618054",
+            "resectionId": "19",
+            "path": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res\/143019.jpg",
+            "width": "1236",
+            "height": "772",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "90197329",
+            "width": "1232",
+            "height": "870",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.70616883116883111",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1487.1555544218265",
+            "principalPoint": [
+                "616",
+                "435"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "123984105",
+            "width": "1240",
+            "height": "796",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64193548387096766",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1496.812408671319",
+            "principalPoint": [
+                "620",
+                "398"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "136227448",
+            "width": "1242",
+            "height": "926",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.74557165861513686",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1499.2266222336918",
+            "principalPoint": [
+                "621",
+                "463"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "238490395",
+            "width": "1220",
+            "height": "786",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6442622950819672",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1650.8183508181919",
+            "principalPoint": [
+                "610",
+                "393"
+            ],
+            "distortionParams": [
+                "-0.06769942312298298",
+                "7.4313785129307695",
+                "-26.865050281696242"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "296488026",
+            "width": "1252",
+            "height": "874",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69808306709265178",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1721.5728724669204",
+            "principalPoint": [
+                "626",
+                "437"
+            ],
+            "distortionParams": [
+                "0.65297305309706732",
+                "-26.177056176503037",
+                "198.16566265772013"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "299324742",
+            "width": "1258",
+            "height": "896",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71224165341812395",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1518.5403307326767",
+            "principalPoint": [
+                "629",
+                "448"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "322257089",
+            "width": "650",
+            "height": "988",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65789473684210531",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1192.6214998123089",
+            "principalPoint": [
+                "325",
+                "494"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "336158815",
+            "width": "1226",
+            "height": "872",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71125611745513873",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1479.9129137347072",
+            "principalPoint": [
+                "613",
+                "436"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "392012954",
+            "width": "1246",
+            "height": "808",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6484751203852327",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1504.0550493584381",
+            "principalPoint": [
+                "623",
+                "404"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "407956783",
+            "width": "1078",
+            "height": "1068",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.99072356215213364",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1301.2611101190982",
+            "principalPoint": [
+                "539",
+                "534"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "526179168",
+            "width": "1230",
+            "height": "802",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6520325203252032",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1484.7413408594534",
+            "principalPoint": [
+                "615",
+                "401"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "620196067",
+            "width": "1228",
+            "height": "798",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64983713355048855",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1482.3271272970803",
+            "principalPoint": [
+                "614",
+                "399"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "639439098",
+            "width": "1248",
+            "height": "866",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69391025641025639",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1506.4692629208112",
+            "principalPoint": [
+                "624",
+                "433"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "827290755",
+            "width": "1278",
+            "height": "838",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65571205007824729",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1742.9535809444376",
+            "principalPoint": [
+                "639",
+                "419"
+            ],
+            "distortionParams": [
+                "-2.0078926171020819",
+                "57.227718401461502",
+                "-362.03574158124002"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "959648090",
+            "width": "1246",
+            "height": "802",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6436597110754414",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1504.0550493584381",
+            "principalPoint": [
+                "623",
+                "401"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "964741993",
+            "width": "1242",
+            "height": "804",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64734299516908211",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1499.2266222336918",
+            "principalPoint": [
+                "621",
+                "402"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1013979958",
+            "width": "1116",
+            "height": "716",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64157706093189959",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1347.131167804187",
+            "principalPoint": [
+                "558",
+                "358"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1030134974",
+            "width": "1230",
+            "height": "792",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64390243902439026",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1484.7413408594534",
+            "principalPoint": [
+                "615",
+                "396"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1038822426",
+            "width": "1210",
+            "height": "886",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.73223140495867767",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1460.5992052357224",
+            "principalPoint": [
+                "605",
+                "443"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1073764707",
+            "width": "856",
+            "height": "1278",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.66979655712050079",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1542.6824663564078",
+            "principalPoint": [
+                "428",
+                "639"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1085916337",
+            "width": "1240",
+            "height": "802",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64677419354838706",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1582.5177972518034",
+            "principalPoint": [
+                "620",
+                "401"
+            ],
+            "distortionParams": [
+                "0.54949863511940955",
+                "8.514762937266255",
+                "-49.695819957532812"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1219117929",
+            "width": "1230",
+            "height": "784",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63739837398373977",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1484.7413408594534",
+            "principalPoint": [
+                "615",
+                "392"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1247828245",
+            "width": "1236",
+            "height": "778",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.62944983818770228",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1491.9839815465727",
+            "principalPoint": [
+                "618",
+                "389"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1260363451",
+            "width": "1252",
+            "height": "810",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64696485623003197",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1511.2976900455574",
+            "principalPoint": [
+                "626",
+                "405"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1364586148",
+            "width": "1232",
+            "height": "788",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63961038961038963",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1844.644814558432",
+            "principalPoint": [
+                "616",
+                "394"
+            ],
+            "distortionParams": [
+                "-2.5327720334786998",
+                "51.718300944054675",
+                "-238.3781526201812"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1412103467",
+            "width": "1230",
+            "height": "790",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64227642276422758",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1484.7413408594534",
+            "principalPoint": [
+                "615",
+                "395"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1540860024",
+            "width": "736",
+            "height": "1028",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71595330739299612",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1240.9057710597708",
+            "principalPoint": [
+                "368",
+                "514"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1556861410",
+            "width": "1246",
+            "height": "786",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6308186195826645",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1504.0550493584381",
+            "principalPoint": [
+                "623",
+                "393"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1586705639",
+            "width": "1248",
+            "height": "812",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65064102564102566",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1506.4692629208112",
+            "principalPoint": [
+                "624",
+                "406"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1708529491",
+            "width": "1222",
+            "height": "780",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63829787234042556",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2083.3904632448093",
+            "principalPoint": [
+                "611",
+                "390"
+            ],
+            "distortionParams": [
+                "0.44907908714373707",
+                "2.3769832825900079",
+                "-23.982321280739285"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1741837840",
+            "width": "666",
+            "height": "1040",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64038461538461533",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1255.3910524340095",
+            "principalPoint": [
+                "333",
+                "520"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1749019996",
+            "width": "1278",
+            "height": "1032",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.80751173708920188",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1542.6824663564078",
+            "principalPoint": [
+                "639",
+                "516"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1762281871",
+            "width": "1278",
+            "height": "964",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75430359937402192",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1542.6824663564078",
+            "principalPoint": [
+                "639",
+                "482"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "1856823941",
+            "width": "1238",
+            "height": "792",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63974151857835215",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1737.9013516096625",
+            "principalPoint": [
+                "619",
+                "396"
+            ],
+            "distortionParams": [
+                "2.4478010573272324",
+                "-58.922409772764716",
+                "351.2491818261754"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2009602098",
+            "width": "1244",
+            "height": "796",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63987138263665599",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1501.6408357960649",
+            "principalPoint": [
+                "622",
+                "398"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2025540791",
+            "width": "1242",
+            "height": "888",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71497584541062797",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1499.2266222336918",
+            "principalPoint": [
+                "621",
+                "444"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2045489912",
+            "width": "858",
+            "height": "1228",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69869706840390877",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1482.3271272970803",
+            "principalPoint": [
+                "429",
+                "614"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2149403863",
+            "width": "1244",
+            "height": "658",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.52893890675241151",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1501.6408357960649",
+            "principalPoint": [
+                "622",
+                "329"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2157229256",
+            "width": "1246",
+            "height": "806",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6468699839486356",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2138.2933219340284",
+            "principalPoint": [
+                "623",
+                "403"
+            ],
+            "distortionParams": [
+                "1.8975768300805762",
+                "-20.17863288117027",
+                "132.38738128968203"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2231693029",
+            "width": "670",
+            "height": "1028",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65175097276264593",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1485.1747471000924",
+            "principalPoint": [
+                "335",
+                "514"
+            ],
+            "distortionParams": [
+                "-0.1581327515022907",
+                "24.074149023600445",
+                "-160.90893745822245"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2234524801",
+            "width": "1220",
+            "height": "796",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65245901639344261",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1472.6702730475879",
+            "principalPoint": [
+                "610",
+                "398"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2239939115",
+            "width": "1244",
+            "height": "798",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64147909967845662",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1690.8625575797046",
+            "principalPoint": [
+                "622",
+                "399"
+            ],
+            "distortionParams": [
+                "-1.4372810646388234",
+                "26.516798551695711",
+                "-100.96164339831529"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2250868657",
+            "width": "1248",
+            "height": "854",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.68429487179487181",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1506.4692629208112",
+            "principalPoint": [
+                "624",
+                "427"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2364512147",
+            "width": "778",
+            "height": "1116",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.69713261648745517",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1347.131167804187",
+            "principalPoint": [
+                "389",
+                "558"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2392508377",
+            "width": "1242",
+            "height": "802",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64573268921095006",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1499.2266222336918",
+            "principalPoint": [
+                "621",
+                "401"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2407629660",
+            "width": "1238",
+            "height": "872",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.70436187399030692",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1494.3981951089459",
+            "principalPoint": [
+                "619",
+                "436"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2424700515",
+            "width": "1236",
+            "height": "806",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65210355987055013",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2020.915241288059",
+            "principalPoint": [
+                "618",
+                "403"
+            ],
+            "distortionParams": [
+                "-3.4064622861188734",
+                "81.901904649112836",
+                "-459.45185861720745"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2495280620",
+            "width": "1232",
+            "height": "872",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.70779220779220786",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2436.9830555944709",
+            "principalPoint": [
+                "616",
+                "436"
+            ],
+            "distortionParams": [
+                "-0.83153989471236234",
+                "29.369852384478065",
+                "-252.09138913044546"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2589643268",
+            "width": "878",
+            "height": "1234",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71150729335494323",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1489.5697679841996",
+            "principalPoint": [
+                "439",
+                "617"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2591563509",
+            "width": "908",
+            "height": "1278",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71048513302034433",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1542.6824663564078",
+            "principalPoint": [
+                "454",
+                "639"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2741618054",
+            "width": "1236",
+            "height": "772",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.62459546925566345",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1792.0292611801112",
+            "principalPoint": [
+                "618",
+                "386"
+            ],
+            "distortionParams": [
+                "-1.8219268971041491",
+                "27.802114474948098",
+                "-99.347819601137402"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2759620113",
+            "width": "1206",
+            "height": "790",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.65505804311774463",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1455.7707781109762",
+            "principalPoint": [
+                "603",
+                "395"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2931290482",
+            "width": "1176",
+            "height": "882",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1908.1428731013714",
+            "principalPoint": [
+                "588",
+                "441"
+            ],
+            "distortionParams": [
+                "-4.2924613717574944",
+                "85.280253515719266",
+                "-418.2739643662884"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2947526892",
+            "width": "1242",
+            "height": "826",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.66505636070853469",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1860.0171847838672",
+            "principalPoint": [
+                "621",
+                "413"
+            ],
+            "distortionParams": [
+                "-3.2480712484910308",
+                "54.197997228089541",
+                "-227.52151412428398"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "2948466174",
+            "width": "1230",
+            "height": "780",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63414634146341464",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1484.7413408594534",
+            "principalPoint": [
+                "615",
+                "390"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3059817995",
+            "width": "1238",
+            "height": "870",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.70274636510500799",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1494.3981951089459",
+            "principalPoint": [
+                "619",
+                "435"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3114762903",
+            "width": "1242",
+            "height": "796",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6409017713365539",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1499.2266222336918",
+            "principalPoint": [
+                "621",
+                "398"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3263368051",
+            "width": "1224",
+            "height": "788",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64379084967320266",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1477.4987001723341",
+            "principalPoint": [
+                "612",
+                "394"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3439165898",
+            "width": "1244",
+            "height": "806",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64790996784565924",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1501.6408357960649",
+            "principalPoint": [
+                "622",
+                "403"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3461739225",
+            "width": "1260",
+            "height": "894",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.70952380952380956",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1467.3364441309232",
+            "principalPoint": [
+                "630",
+                "447"
+            ],
+            "distortionParams": [
+                "0.88988246424558914",
+                "-6.6204849226590303",
+                "28.224270907778134"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3583684272",
+            "width": "722",
+            "height": "1014",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71203155818540431",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1224.0062761231591",
+            "principalPoint": [
+                "361",
+                "507"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3680338229",
+            "width": "1226",
+            "height": "786",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64110929853181076",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1975.4695781315891",
+            "principalPoint": [
+                "613",
+                "393"
+            ],
+            "distortionParams": [
+                "0.89691008252586291",
+                "-8.2078658787735055",
+                "41.673379908818497"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3757582940",
+            "width": "1232",
+            "height": "792",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64285714285714279",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2503.1176579704711",
+            "principalPoint": [
+                "616",
+                "396"
+            ],
+            "distortionParams": [
+                "-0.0079618433792811132",
+                "21.965300039791238",
+                "-173.13296480505491"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3836353770",
+            "width": "798",
+            "height": "814",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.98034398034398029",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "982.58491988584967",
+            "principalPoint": [
+                "399",
+                "407"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3885793545",
+            "width": "1246",
+            "height": "800",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6420545746388443",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1534.5912895905271",
+            "principalPoint": [
+                "623",
+                "400"
+            ],
+            "distortionParams": [
+                "1.2453254950514157",
+                "-5.2678203232577321",
+                "7.9289037575702963"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "3891189373",
+            "width": "864",
+            "height": "1224",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.70588235294117652",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1477.4987001723341",
+            "principalPoint": [
+                "432",
+                "612"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4095061981",
+            "width": "1240",
+            "height": "882",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71129032258064517",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1496.812408671319",
+            "principalPoint": [
+                "620",
+                "441"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4157258995",
+            "width": "1250",
+            "height": "896",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.71679999999999999",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1518.7091558754864",
+            "principalPoint": [
+                "625",
+                "448"
+            ],
+            "distortionParams": [
+                "1.8973984364031959",
+                "-24.581139053085142",
+                "135.07281116357737"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4169293641",
+            "width": "1246",
+            "height": "782",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.6276083467094703",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1954.7921990890736",
+            "principalPoint": [
+                "623",
+                "391"
+            ],
+            "distortionParams": [
+                "1.0233879906116865",
+                "-10.028771193726794",
+                "48.288916499114706"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4179425103",
+            "width": "1206",
+            "height": "900",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.74626865671641784",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1455.7707781109762",
+            "principalPoint": [
+                "603",
+                "450"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4191779060",
+            "width": "1238",
+            "height": "790",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63812600969305333",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1494.3981951089459",
+            "principalPoint": [
+                "619",
+                "395"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4240407095",
+            "width": "1250",
+            "height": "812",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.64960000000000007",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2081.2479159443087",
+            "principalPoint": [
+                "625",
+                "406"
+            ],
+            "distortionParams": [
+                "2.0707596571164637",
+                "-13.803668218285205",
+                "56.420593969046394"
+            ],
+            "locked": "0"
+        },
+        {
+            "intrinsicId": "4276613305",
+            "width": "1244",
+            "height": "794",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.63826366559485537",
+            "serialNumber": "C:\/Users\/bouba\/Workspace_ICONOLAUSANNE\/images_per_street\/Pl. Saint-Francois\/cluster 5 high res",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2282.677338022917",
+            "principalPoint": [
+                "622",
+                "397"
+            ],
+            "distortionParams": [
+                "2.1071328730976213",
+                "-56.431885153589839",
+                "529.29016480043447"
+            ],
+            "locked": "0"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "34298782",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97759142550332589",
+                        "-0.0097410528324512087",
+                        "-0.21028579759957794",
+                        "0.05578670886907626",
+                        "0.97520184268901966",
+                        "0.21417098106302265",
+                        "0.20298484646872583",
+                        "-0.22110286724883529",
+                        "0.95389238082627115"
+                    ],
+                    "center": [
+                        "0.45252238354070179",
+                        "-0.54978383565093214",
+                        "0.87813903074985755"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "44073087",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97544581370138739",
+                        "-0.023448385539222578",
+                        "-0.21898775707340895",
+                        "0.035538213519279493",
+                        "0.99804395493316245",
+                        "0.051432474189268801",
+                        "0.21735339866746162",
+                        "-0.05795202530520982",
+                        "0.97437111146150468"
+                    ],
+                    "center": [
+                        "0.42182508824061515",
+                        "-0.13908644553254823",
+                        "-0.092019078604973742"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "58296702",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99479690346574812",
+                        "0.035944985861137403",
+                        "-0.095326170836773361",
+                        "-0.018264472128923806",
+                        "0.9834545543753429",
+                        "0.18023192984664946",
+                        "0.10022739103065006",
+                        "-0.17755308352669755",
+                        "0.97899406158431357"
+                    ],
+                    "center": [
+                        "0.39354581847764103",
+                        "-0.23829273266015139",
+                        "0.19591189728674507"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "141648751",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.94889771643626486",
+                        "0.03079013662634637",
+                        "-0.31407816101819763",
+                        "0.03597165477158909",
+                        "0.9781900521832344",
+                        "0.20457336547741209",
+                        "0.31352697458916601",
+                        "-0.20541711052463993",
+                        "0.92709473459224889"
+                    ],
+                    "center": [
+                        "0.52655328358697451",
+                        "-0.61915942137536728",
+                        "0.46651584070645313"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "201310603",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.96443513654656554",
+                        "-0.017937515143143755",
+                        "-0.26371028221307002",
+                        "0.03312524929456475",
+                        "0.99803115832382649",
+                        "0.053259035608750893",
+                        "0.26223574366127222",
+                        "-0.060100354119512034",
+                        "0.96313050111660814"
+                    ],
+                    "center": [
+                        "0.54992056394888755",
+                        "-0.10142707878166211",
+                        "0.42383188283025408"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "286390186",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.95638651747929404",
+                        "0.0097281344212470748",
+                        "-0.29194210485044803",
+                        "0.054155523580566065",
+                        "0.97621326842749023",
+                        "0.20994007195347805",
+                        "0.28704008160802663",
+                        "-0.21659413183832785",
+                        "0.93311037589540191"
+                    ],
+                    "center": [
+                        "0.57624579409680743",
+                        "-0.62561875710800008",
+                        "0.41111485655829627"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "549595860",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97381750971821945",
+                        "0.014550451283073033",
+                        "-0.22686503065405306",
+                        "0.034098928532096187",
+                        "0.97730998514679979",
+                        "0.20905132385451419",
+                        "0.2247592508422479",
+                        "-0.21131369406600437",
+                        "0.95122542115999531"
+                    ],
+                    "center": [
+                        "0.58227552598999655",
+                        "-0.65701203234379524",
+                        "0.2605284793667112"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "567802312",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99076095714125478",
+                        "0.038527374339441804",
+                        "-0.13003217767557809",
+                        "-0.018823245451026795",
+                        "0.98858438366178225",
+                        "0.14948779820020294",
+                        "0.13430715258404888",
+                        "-0.14565904642885288",
+                        "0.98017602039541973"
+                    ],
+                    "center": [
+                        "0.40850135644669472",
+                        "-0.2289645138861266",
+                        "0.030357600091540177"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "594315805",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.96250284008001319",
+                        "0.036566502726031916",
+                        "-0.26879578440945789",
+                        "0.040208327350290743",
+                        "0.9606976624189576",
+                        "0.27466942282395124",
+                        "0.26827518194868588",
+                        "-0.27517792844110467",
+                        "0.92320395062481275"
+                    ],
+                    "center": [
+                        "0.4346923465776612",
+                        "-0.88784740391089478",
+                        "0.52765765248993435"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "679786882",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97596691148907211",
+                        "0.00014415691147818405",
+                        "-0.21791871626197387",
+                        "0.036462286573659512",
+                        "0.98579430741636109",
+                        "0.16395147185468406",
+                        "0.21484666470834993",
+                        "-0.1679570263022116",
+                        "0.96209736928203693"
+                    ],
+                    "center": [
+                        "0.49394075100448359",
+                        "-0.45724257198061496",
+                        "0.14901865928348135"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "877253778",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99239059864004842",
+                        "0.037678673964192583",
+                        "-0.11722293828063805",
+                        "-0.017662164571473758",
+                        "0.9857443745327038",
+                        "0.16732027976243272",
+                        "0.12185625824509951",
+                        "-0.16397666177059664",
+                        "0.97890893688896052"
+                    ],
+                    "center": [
+                        "0.41125727268706314",
+                        "-0.23339117273931595",
+                        "0.1485450940175585"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "996660293",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.96008181681642035",
+                        "-0.045676671240819984",
+                        "-0.27596475630565503",
+                        "0.066131427295779574",
+                        "0.99567380264558847",
+                        "0.065271073601532739",
+                        "0.2717895129365821",
+                        "-0.080915514146742792",
+                        "0.95894897686376612"
+                    ],
+                    "center": [
+                        "0.51834714123480652",
+                        "-0.084490766040699772",
+                        "0.46858124716340066"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1090991390",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.9933944392188564",
+                        "-0.015641741470947969",
+                        "-0.11367859980141341",
+                        "0.020095816385556263",
+                        "0.99907025945101602",
+                        "0.038141510776025372",
+                        "0.11297630854675635",
+                        "-0.040174028976886017",
+                        "0.99278517369212993"
+                    ],
+                    "center": [
+                        "0.36380425689239876",
+                        "-0.11448171570868132",
+                        "0.050609054544100661"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1214639478",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.96947598696832749",
+                        "-0.039221573730439288",
+                        "-0.24202888018973059",
+                        "0.059704012489509947",
+                        "0.99517337787845661",
+                        "0.07788054220814683",
+                        "0.23780610081417106",
+                        "-0.089953410808541412",
+                        "0.96713837805118152"
+                    ],
+                    "center": [
+                        "0.52564999554381087",
+                        "-0.10016344022832833",
+                        "0.51893246727669895"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1261755261",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.94909536309881681",
+                        "0.018275202279185859",
+                        "-0.31445827819597943",
+                        "0.04957501004100287",
+                        "0.97720706037641558",
+                        "0.20641869956454731",
+                        "0.31106319313567082",
+                        "-0.21150030291264174",
+                        "0.92655669645418959"
+                    ],
+                    "center": [
+                        "0.52854972590874805",
+                        "-0.61931911249740712",
+                        "0.47246382798844416"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1263885230",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.96926138649211446",
+                        "0.012283785865685039",
+                        "-0.2457264195404919",
+                        "0.04758522212431511",
+                        "0.9705348722685172",
+                        "0.23621538549830448",
+                        "0.24138767841537279",
+                        "-0.24064739831450285",
+                        "0.94011744925498408"
+                    ],
+                    "center": [
+                        "0.77770865763071217",
+                        "-0.6254756597774932",
+                        "0.42049137650629442"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1408967537",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99275046194316574",
+                        "0.025691140084312232",
+                        "-0.1174158661885151",
+                        "-0.0043641892531297369",
+                        "0.98394953693314136",
+                        "0.17839356104192669",
+                        "0.12011442113166057",
+                        "-0.17658786507069221",
+                        "0.97692847831659668"
+                    ],
+                    "center": [
+                        "0.4352486869389206",
+                        "-0.2217061137177064",
+                        "0.10986572463295205"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1558532445",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.95539455636877435",
+                        "0.0016837793355677783",
+                        "-0.29532762577866278",
+                        "0.05774264326154846",
+                        "0.97961930129517105",
+                        "0.19238454116464362",
+                        "0.28963257553335109",
+                        "-0.2008561410988223",
+                        "0.93582572190168378"
+                    ],
+                    "center": [
+                        "0.50537517511751529",
+                        "-0.55880641577581081",
+                        "0.71635903737004336"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1573600634",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98676234416166941",
+                        "0.015982897362842152",
+                        "-0.16138346611860821",
+                        "0.022712762445392057",
+                        "0.97170355388158758",
+                        "0.23510919547306475",
+                        "0.16057461370548676",
+                        "-0.23566236518753148",
+                        "0.95847746090742914"
+                    ],
+                    "center": [
+                        "0.63148882336378154",
+                        "-0.72535491995600232",
+                        "-0.022976860272661728"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1590497766",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.91913040457304829",
+                        "-0.025410480879530951",
+                        "-0.39313306506939283",
+                        "0.067271692063904931",
+                        "0.99338431868722599",
+                        "0.093070483146779806",
+                        "0.38816725626492976",
+                        "-0.11199063732199609",
+                        "0.9147591367764355"
+                    ],
+                    "center": [
+                        "0.78455560546540482",
+                        "-0.27535294936028432",
+                        "0.28255219939739618"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1622622694",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99170041259994701",
+                        "0.010624986676628676",
+                        "-0.12813040742624801",
+                        "0.0099103417116173688",
+                        "0.98729740673616551",
+                        "0.15857369195172807",
+                        "0.1281876623402339",
+                        "-0.15852741185726851",
+                        "0.97899794837046628"
+                    ],
+                    "center": [
+                        "0.41990661528079903",
+                        "-0.21714973477538216",
+                        "0.13611471430234673"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1946740157",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99512951027672258",
+                        "0.015037412692989777",
+                        "-0.097422451190220527",
+                        "0.0029973587154880563",
+                        "0.98322356633530816",
+                        "0.18237991787367527",
+                        "0.098530571992356153",
+                        "-0.18178364839109859",
+                        "0.9783897135397942"
+                    ],
+                    "center": [
+                        "0.37723850709866813",
+                        "-0.24878233746813752",
+                        "0.18776541728529778"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "2035030647",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.9695054311920176",
+                        "-0.028557702819318458",
+                        "-0.24340023931554314",
+                        "0.042827149901143509",
+                        "0.9976471045762354",
+                        "0.053535875466822348",
+                        "0.24129868238456084",
+                        "-0.062327460563844715",
+                        "0.96844733131912619"
+                    ],
+                    "center": [
+                        "0.55558077940805217",
+                        "-0.105009208001914",
+                        "0.24654480832639281"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "2070880116",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99408604985034399",
+                        "0.024293316149606038",
+                        "-0.10584309275240766",
+                        "-0.0031721852879797851",
+                        "0.9807369668182998",
+                        "0.19530729417136414",
+                        "0.10854889558829334",
+                        "-0.19381650266810699",
+                        "0.97501400018669759"
+                    ],
+                    "center": [
+                        "0.40502370934247245",
+                        "-0.23585488557274784",
+                        "0.12194732098941873"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}

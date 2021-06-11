@@ -1,0 +1,3993 @@
+Program called with the following parameters:
+ * describerTypes = "sift"
+ * extraInfoFolder = "C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final_high_res/MeshroomCache/StructureFromMotion/dd55d9b799b406e9fe52af02fd03c9785568096b"
+ * featuresFolders =  = [C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final_high_res/MeshroomCache/FeatureExtraction/489d7a6bf280e5afb293afdaddf9d263fb0825c5]
+ * filterTrackForks = 0
+ * initialPairA = ""
+ * initialPairB = ""
+ * input = "C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final_high_res/MeshroomCache/CameraInit/1d7556e609b7347e19ada424ac5083aee4b98455/cameraInit.sfm"
+ * interFileExtension = ".abc"
+ * localBAGraphDistance = 1
+ * localizerEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * localizerEstimatorError = 0
+ * localizerEstimatorMaxIterations = 4096
+ * lockAllIntrinsics = 0
+ * lockScenePreviouslyReconstructed = 0
+ * matchesFolders =  = [C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final_high_res/MeshroomCache/FeatureMatching/751d5575b1c8f6463d16d4797b4ddec013f4f7d3]
+ * maxAngleInitialPair = 40
+ * maxNumberOfMatches = 0
+ * maxReprojectionError = 4
+ * minAngleForLandmark = 2
+ * minAngleForTriangulation = 3
+ * minAngleInitialPair = 5
+ * minInputTrackLength = 2
+ * minNumberOfMatches = 0
+ * minNumberOfObservationsForTriangulation = 2
+ * observationConstraint =  Unknown Type "enum aliceVision::sfm::EFeatureConstraint"
+ * output = "C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final_high_res/MeshroomCache/StructureFromMotion/dd55d9b799b406e9fe52af02fd03c9785568096b/sfm.abc"
+ * outputViewsAndPoses = "C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final_high_res/MeshroomCache/StructureFromMotion/dd55d9b799b406e9fe52af02fd03c9785568096b/cameras.sfm"
+ * randomSeed = 5489 (default)
+ * useLocalBA = 1
+ * useOnlyMatchesFromInputFolder = 0
+ * useRigConstraint = 1
+ * verboseLevel = "debug"
+
+Loading features
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[08:30:50.085957][info] Supported CUDA-Enabled GPU detected.
+***************************************************
+[08:30:53.960791][debug] Loading matches
+[08:30:53.962786][debug] Loading match file: C:/Users\bouba\Workspace_ICONOLAUSANNE\reconstructions\montbenon_final_high_res\MeshroomCache\FeatureMatching\751d5575b1c8f6463d16d4797b4ddec013f4f7d3\0.matches.txt
+[08:30:53.963784][debug] Loading match file: C:/Users\bouba\Workspace_ICONOLAUSANNE\reconstructions\montbenon_final_high_res\MeshroomCache\FeatureMatching\751d5575b1c8f6463d16d4797b4ddec013f4f7d3\1.matches.txt
+[08:30:53.963784][debug] Loading match file: C:/Users\bouba\Workspace_ICONOLAUSANNE\reconstructions\montbenon_final_high_res\MeshroomCache\FeatureMatching\751d5575b1c8f6463d16d4797b4ddec013f4f7d3\2.matches.txt
+[08:30:54.073541][debug] Track building
+[08:30:54.180468][debug] Track filtering
+[08:30:54.217369][debug] Track export to internal structure
+[08:30:54.256265][debug] Build tracks per view
+[08:30:54.259257][debug] Build tracks pyramid per view
+[08:30:54.302142][info] Fuse matches into tracks: 
+	- # tracks: 17115
+	- # images in tracks: 46
+[08:30:54.303140][info] TrackLength, Occurrence
+[08:30:54.303140][info] 	2	11763
+[08:30:54.303140][info] 	3	2425
+[08:30:54.303140][info] 	4	977
+[08:30:54.303140][info] 	5	540
+[08:30:54.303140][info] 	6	357
+[08:30:54.303140][info] 	7	210
+[08:30:54.303140][info] 	8	166
+[08:30:54.303140][info] 	9	125
+[08:30:54.303140][info] 	10	96
+[08:30:54.303140][info] 	11	90
+[08:30:54.303140][info] 	12	65
+[08:30:54.303140][info] 	13	46
+[08:30:54.304138][info] 	14	38
+[08:30:54.304138][info] 	15	36
+[08:30:54.304138][info] 	16	34
+[08:30:54.304138][info] 	17	30
+[08:30:54.304138][info] 	18	32
+[08:30:54.304138][info] 	19	22
+[08:30:54.304138][info] 	20	12
+[08:30:54.304138][info] 	21	11
+[08:30:54.304138][info] 	22	10
+[08:30:54.304138][info] 	23	15
+[08:30:54.304138][info] 	24	7
+[08:30:54.304138][info] 	25	3
+[08:30:54.304138][info] 	26	3
+[08:30:54.304138][info] 	27	2
+Automatic selection of an initial pair:
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+**[08:30:54.306133][debug] Automatic initial pair choice test - I: 11775493, J: 185799942, common tracks: 80
+[08:30:54.306133][debug] Automatic initial pair choice test - I: 11775493, J: 21623444, common tracks: 202
+[08:30:54.306133][debug] Automatic initial pair choice test - I: 11775493, J: 783022837, common tracks: 155
+[08:30:54.306133][debug] Automatic initial pair choice test - I: 11775493, J: 414842540, common tracks: 65
+[08:30:54.306133][debug] Automatic initial pair choice test - I: 11775493, J: 998369411, common tracks: 95
+[08:30:54.306133][debug] Automatic initial pair choice test - I: 11775493, J: 154992048, common tracks: 70
+[08:30:54.306133][debug] Automatic initial pair choice test - I: 11775493, J: 1325426344, common tracks: 75
+[08:30:54.306133][debug] Automatic initial pair choice test - I: 11775493, J: 1078751423, common tracks: 304
+[08:30:54.358990][info] robustRelativePose: no sufficient coverage (the model does not support enough samples): 28
+[08:30:54.359987][debug] Automatic initial pair choice test - I: 11775493, J: 1330267110, common tracks: 115
+[08:30:54.359987][info] robustRelativePose: no sufficient coverage (the model does not support enough samples): 28
+[08:30:54.360985][debug] Automatic initial pair choice test - I: 11775493, J: 1687638901, common tracks: 72
+[08:30:54.362979][debug] Automatic initial pair choice test - I: 21623444, J: 185799942, common tracks: 70
+[08:30:54.367967][debug] Automatic initial pair choice test - I: 21623444, J: 331561682, common tracks: 74
+*[08:30:54.385923][debug] Automatic initial pair choice test - I: 21623444, J: 783022837, common tracks: 219
+[08:30:54.413843][info] robustRelativePose: no sufficient coverage (the model does not support enough samples): 28
+[08:30:54.415838][debug] Automatic initial pair choice test - I: 21623444, J: 998369411, common tracks: 97
+[08:30:54.416835][debug] Automatic initial pair choice test - I: 21623444, J: 1078751423, common tracks: 368
+[08:30:54.428803][debug] Automatic initial pair choice test - I: 21623444, J: 1325426344, common tracks: 100
+[08:30:54.432792][debug] Automatic initial pair choice test - I: 112144998, J: 154992048, common tracks: 121
+[08:30:54.432792][debug] Automatic initial pair choice test - I: 21623444, J: 1330267110, common tracks: 273
+*[08:30:54.439777][debug] Automatic initial pair choice test - I: 112144998, J: 413474303, common tracks: 225
+[08:30:54.459721][debug] Automatic initial pair choice test - I: 112144998, J: 414842540, common tracks: 193
+[08:30:54.479667][debug] Automatic initial pair choice test - I: 112144998, J: 501080556, common tracks: 146
+[08:30:54.494628][debug] Automatic initial pair choice test - I: 112144998, J: 600689326, common tracks: 158
+[08:30:54.555464][debug] Automatic initial pair choice test - I: 112144998, J: 852074474, common tracks: 172
+[08:30:54.559454][debug] Automatic initial pair choice test - I: 112144998, J: 891076793, common tracks: 193
+[08:30:54.560451][debug] Automatic initial pair choice test - I: 112144998, J: 1092100410, common tracks: 169
+*[08:30:54.562446][debug] Automatic initial pair choice test - I: 112144998, J: 1325426344, common tracks: 240
+[08:30:54.578403][debug] Automatic initial pair choice test - I: 112144998, J: 1687638901, common tracks: 186
+[08:30:54.586385][debug] Automatic initial pair choice test - I: 154992048, J: 185799942, common tracks: 76
+[08:30:54.587380][debug] Automatic initial pair choice test - I: 154992048, J: 281056771, common tracks: 168
+[08:30:54.602340][debug] Automatic initial pair choice test - I: 154992048, J: 413474303, common tracks: 276
+[08:30:54.662343][debug] Automatic initial pair choice test - I: 154992048, J: 414842540, common tracks: 290
+[08:30:54.678809][info] robustRelativePose: no sufficient coverage (the model does not support enough samples): 17
+*[08:30:54.679807][debug] Automatic initial pair choice test - I: 154992048, J: 417818550, common tracks: 222
+[08:30:54.684794][debug] Automatic initial pair choice test - I: 154992048, J: 444557352, common tracks: 103
+[08:30:54.689785][debug] Automatic initial pair choice test - I: 154992048, J: 501080556, common tracks: 269
+[08:30:54.689785][debug] Automatic initial pair choice test - I: 154992048, J: 600689326, common tracks: 253
+[08:30:54.689785][debug] Automatic initial pair choice test - I: 154992048, J: 772284598, common tracks: 193
+[08:30:54.713716][debug] Automatic initial pair choice test - I: 154992048, J: 806543768, common tracks: 189
+[08:30:54.771563][debug] Automatic initial pair choice test - I: 154992048, J: 852074474, common tracks: 281
+*[08:30:54.785524][debug] Automatic initial pair choice test - I: 154992048, J: 891076793, common tracks: 255
+[08:30:54.794500][debug] Automatic initial pair choice test - I: 154992048, J: 1015632067, common tracks: 230
+[08:30:54.794500][debug] Automatic initial pair choice test - I: 154992048, J: 1092100410, common tracks: 271
+[08:30:54.803477][debug] Automatic initial pair choice test - I: 154992048, J: 1325426344, common tracks: 436
+[08:30:54.831402][debug] Automatic initial pair choice test - I: 154992048, J: 1400837643, common tracks: 161
+[08:30:54.833396][debug] Automatic initial pair choice test - I: 154992048, J: 1669619798, common tracks: 251
+*[08:30:54.846361][debug] Automatic initial pair choice test - I: 154992048, J: 1687638901, common tracks: 307
+[08:30:54.911189][debug] Automatic initial pair choice test - I: 154992048, J: 1755570640, common tracks: 205
+[08:30:54.937171][debug] Automatic initial pair choice test - I: 154992048, J: 1781492828, common tracks: 206
+[08:30:54.939169][debug] Automatic initial pair choice test - I: 155026478, J: 1199350529, common tracks: 104
+[08:30:54.955120][debug] Automatic initial pair choice test - I: 185799942, J: 998369411, common tracks: 186
+[08:30:54.976146][debug] Automatic initial pair choice test - I: 185799942, J: 1330267110, common tracks: 61
+[08:30:54.994098][debug] Automatic initial pair choice test - I: 185799942, J: 1756628965, common tracks: 54
+*[08:30:55.009123][debug] Automatic initial pair choice test - I: 261382707, J: 413474303, common tracks: 143
+[08:30:55.014109][debug] Automatic initial pair choice test - I: 261382707, J: 464677198, common tracks: 98
+[08:30:55.021091][debug] Automatic initial pair choice test - I: 261382707, J: 501080556, common tracks: 102
+[08:30:55.029098][debug] Automatic initial pair choice test - I: 261382707, J: 772284598, common tracks: 87
+[08:30:55.047088][debug] Automatic initial pair choice test - I: 261382707, J: 852074474, common tracks: 138
+[08:30:55.064081][debug] Automatic initial pair choice test - I: 261382707, J: 1092100410, common tracks: 115
+[08:30:55.072075][debug] Automatic initial pair choice test - I: 261382707, J: 1325426344, common tracks: 107
+*[08:30:55.074054][debug] Automatic initial pair choice test - I: 261382707, J: 1687638901, common tracks: 113
+[08:30:55.078091][debug] Automatic initial pair choice test - I: 281056771, J: 331561682, common tracks: 180
+[08:30:55.084056][debug] Automatic initial pair choice test - I: 281056771, J: 413474303, common tracks: 340
+[08:30:55.091037][debug] Automatic initial pair choice test - I: 281056771, J: 414842540, common tracks: 245
+[08:30:55.094029][debug] Automatic initial pair choice test - I: 281056771, J: 417818550, common tracks: 244
+[08:30:55.153007][debug] Automatic initial pair choice test - I: 281056771, J: 429875631, common tracks: 133
+*[08:30:55.157522][debug] Automatic initial pair choice test - I: 281056771, J: 444557352, common tracks: 93
+[08:30:55.168006][debug] Automatic initial pair choice test - I: 281056771, J: 464677198, common tracks: 299
+[08:30:55.179003][debug] Automatic initial pair choice test - I: 281056771, J: 501080556, common tracks: 412
+[08:30:55.182993][debug] Automatic initial pair choice test - I: 281056771, J: 584834279, common tracks: 165
+[08:30:55.202981][debug] Automatic initial pair choice test - I: 281056771, J: 772284598, common tracks: 220
+[08:30:55.218970][debug] Automatic initial pair choice test - I: 281056771, J: 852074474, common tracks: 337
+[08:30:55.244972][debug] Automatic initial pair choice test - I: 281056771, J: 873949303, common tracks: 278
+*[08:30:55.268978][debug] Automatic initial pair choice test - I: 281056771, J: 891076793, common tracks: 352
+[08:30:55.268978][debug] Automatic initial pair choice test - I: 281056771, J: 1015632067, common tracks: 439
+[08:30:55.321904][debug] Automatic initial pair choice test - I: 281056771, J: 1325426344, common tracks: 306
+[08:30:55.322903][debug] Automatic initial pair choice test - I: 281056771, J: 1092100410, common tracks: 388
+[08:30:55.328916][debug] Automatic initial pair choice test - I: 281056771, J: 1687638901, common tracks: 437
+[08:30:55.375875][debug] Automatic initial pair choice test - I: 281056771, J: 1755570640, common tracks: 269
+*[08:30:55.391870][debug] Automatic initial pair choice test - I: 281056771, J: 1781492828, common tracks: 275
+[08:30:55.445834][debug] Automatic initial pair choice test - I: 331561682, J: 413474303, common tracks: 282
+[08:30:55.487790][debug] Automatic initial pair choice test - I: 331561682, J: 414842540, common tracks: 171
+[08:30:55.501785][debug] Automatic initial pair choice test - I: 331561682, J: 417818550, common tracks: 234
+[08:30:55.508796][debug] Automatic initial pair choice test - I: 331561682, J: 464677198, common tracks: 228
+[08:30:55.513782][debug] Automatic initial pair choice test - I: 331561682, J: 501080556, common tracks: 268
+[08:30:55.518769][debug] Automatic initial pair choice test - I: 331561682, J: 584834279, common tracks: 409
+*[08:30:55.522771][debug] Automatic initial pair choice test - I: 331561682, J: 806543768, common tracks: 157
+[08:30:55.528799][debug] Automatic initial pair choice test - I: 331561682, J: 852074474, common tracks: 231
+[08:30:55.595695][debug] Automatic initial pair choice test - I: 331561682, J: 873949303, common tracks: 140
+[08:30:55.603701][debug] Automatic initial pair choice test - I: 331561682, J: 891076793, common tracks: 209
+[08:30:55.607740][debug] Automatic initial pair choice test - I: 331561682, J: 1015632067, common tracks: 203
+[08:30:55.618692][debug] Automatic initial pair choice test - I: 331561682, J: 1092100410, common tracks: 274
+*[08:30:55.627716][debug] Automatic initial pair choice test - I: 331561682, J: 1118199604, common tracks: 253
+[08:30:55.672700][debug] Automatic initial pair choice test - I: 331561682, J: 1325426344, common tracks: 260
+[08:30:55.679679][debug] Automatic initial pair choice test - I: 331561682, J: 1400837643, common tracks: 242
+[08:30:55.695674][debug] Automatic initial pair choice test - I: 331561682, J: 1669619798, common tracks: 163
+[08:30:55.699663][debug] Automatic initial pair choice test - I: 331561682, J: 1687638901, common tracks: 282
+[08:30:55.705649][debug] Automatic initial pair choice test - I: 331561682, J: 1755570640, common tracks: 222
+[08:30:55.734637][debug] Automatic initial pair choice test - I: 331561682, J: 1781492828, common tracks: 205
+*[08:30:55.767146][debug] Automatic initial pair choice test - I: 413474303, J: 414842540, common tracks: 393
+[08:30:55.784671][debug] Automatic initial pair choice test - I: 413474303, J: 417818550, common tracks: 458
+[08:30:55.793650][debug] Automatic initial pair choice test - I: 413474303, J: 464677198, common tracks: 431
+[08:30:55.798634][debug] Automatic initial pair choice test - I: 413474303, J: 501080556, common tracks: 446
+[08:30:55.801626][debug] Automatic initial pair choice test - I: 413474303, J: 584834279, common tracks: 261
+[08:30:55.822601][debug] Automatic initial pair choice test - I: 413474303, J: 600689326, common tracks: 372
+*[08:30:55.839640][debug] Automatic initial pair choice test - I: 413474303, J: 772284598, common tracks: 368
+[08:30:55.894642][debug] Automatic initial pair choice test - I: 413474303, J: 806543768, common tracks: 288
+[08:30:55.968551][debug] Automatic initial pair choice test - I: 413474303, J: 852074474, common tracks: 639
+[08:30:55.992553][debug] Automatic initial pair choice test - I: 413474303, J: 891076793, common tracks: 686
+[08:30:55.995546][debug] Automatic initial pair choice test - I: 413474303, J: 1015632067, common tracks: 405
+[08:30:56.012536][debug] Automatic initial pair choice test - I: 413474303, J: 1092100410, common tracks: 538
+[08:30:56.019519][debug] Automatic initial pair choice test - I: 413474303, J: 1118199604, common tracks: 183
+*[08:30:56.064500][debug] Automatic initial pair choice test - I: 413474303, J: 1325426344, common tracks: 509
+[08:30:56.071516][debug] Automatic initial pair choice test - I: 413474303, J: 1400837643, common tracks: 365
+[08:30:56.099505][debug] Automatic initial pair choice test - I: 413474303, J: 1669619798, common tracks: 374
+[08:30:56.114501][debug] Automatic initial pair choice test - I: 413474303, J: 1687638901, common tracks: 701
+[08:30:56.180472][debug] Automatic initial pair choice test - I: 413474303, J: 1755570640, common tracks: 387
+[08:30:56.263501][debug] Automatic initial pair choice test - I: 413474303, J: 1781492828, common tracks: 418
+[08:30:56.304459][debug] Automatic initial pair choice test - I: 414842540, J: 417818550, common tracks: 227
+*[08:30:56.325432][debug] Automatic initial pair choice test - I: 414842540, J: 429875631, common tracks: 122
+[08:30:56.364501][debug] Automatic initial pair choice test - I: 414842540, J: 444557352, common tracks: 83
+[08:30:56.385477][debug] Automatic initial pair choice test - I: 414842540, J: 464677198, common tracks: 307
+[08:30:56.399503][debug] Automatic initial pair choice test - I: 414842540, J: 501080556, common tracks: 309
+[08:30:56.420494][debug] Automatic initial pair choice test - I: 414842540, J: 584834279, common tracks: 188
+[08:30:56.423482][debug] Automatic initial pair choice test - I: 414842540, J: 600689326, common tracks: 186
+*[08:30:56.438488][debug] Automatic initial pair choice test - I: 414842540, J: 772284598, common tracks: 248
+[08:30:56.445467][debug] Automatic initial pair choice test - I: 414842540, J: 806543768, common tracks: 195
+[08:30:56.461425][debug] Automatic initial pair choice test - I: 414842540, J: 852074474, common tracks: 409
+[08:30:56.475467][debug] Automatic initial pair choice test - I: 414842540, J: 873949303, common tracks: 217
+[08:30:56.526395][debug] Automatic initial pair choice test - I: 414842540, J: 891076793, common tracks: 352
+[08:30:56.532378][debug] Automatic initial pair choice test - I: 414842540, J: 1015632067, common tracks: 301
+[08:30:56.563374][debug] Automatic initial pair choice test - I: 414842540, J: 1092100410, common tracks: 406
+*[08:30:56.591365][debug] Automatic initial pair choice test - I: 414842540, J: 1118199604, common tracks: 147
+[08:30:56.615337][debug] Automatic initial pair choice test - I: 414842540, J: 1325426344, common tracks: 581
+[08:30:56.618358][debug] Automatic initial pair choice test - I: 414842540, J: 1400837643, common tracks: 201
+[08:30:56.628331][debug] Automatic initial pair choice test - I: 414842540, J: 1669619798, common tracks: 283
+[08:30:56.649310][debug] Automatic initial pair choice test - I: 414842540, J: 1687638901, common tracks: 387
+[08:30:56.678321][debug] Automatic initial pair choice test - I: 414842540, J: 1755570640, common tracks: 263
+*[08:30:56.685303][debug] Automatic initial pair choice test - I: 414842540, J: 1781492828, common tracks: 243
+[08:30:56.695276][debug] Automatic initial pair choice test - I: 417818550, J: 464677198, common tracks: 574
+[08:30:56.758273][debug] Automatic initial pair choice test - I: 417818550, J: 501080556, common tracks: 432
+[08:30:56.763259][debug] Automatic initial pair choice test - I: 417818550, J: 584834279, common tracks: 247
+[08:30:56.805236][debug] Automatic initial pair choice test - I: 417818550, J: 600689326, common tracks: 223
+[08:30:56.817248][debug] Automatic initial pair choice test - I: 417818550, J: 772284598, common tracks: 333
+[08:30:56.830270][debug] Automatic initial pair choice test - I: 417818550, J: 783022837, common tracks: 81
+*[08:30:56.847224][debug] Automatic initial pair choice test - I: 417818550, J: 806543768, common tracks: 240
+[08:30:56.890219][debug] Automatic initial pair choice test - I: 417818550, J: 852074474, common tracks: 353
+[08:30:56.894205][debug] Automatic initial pair choice test - I: 417818550, J: 873949303, common tracks: 226
+[08:30:56.913228][debug] Automatic initial pair choice test - I: 417818550, J: 891076793, common tracks: 430
+[08:30:56.961229][debug] Automatic initial pair choice test - I: 417818550, J: 1015632067, common tracks: 379
+*[08:30:56.981237][debug] Automatic initial pair choice test - I: 417818550, J: 1078751423, common tracks: 103
+[08:30:56.982236][debug] Automatic initial pair choice test - I: 417818550, J: 1092100410, common tracks: 710
+[08:30:57.013210][debug] Automatic initial pair choice test - I: 417818550, J: 1199350529, common tracks: 93
+[08:30:57.047277][debug] Automatic initial pair choice test - I: 417818550, J: 1325426344, common tracks: 372
+[08:30:57.058281][debug] Automatic initial pair choice test - I: 417818550, J: 1330267110, common tracks: 105
+[08:30:57.091297][debug] Automatic initial pair choice test - I: 417818550, J: 1669619798, common tracks: 518
+[08:30:57.111290][debug] Automatic initial pair choice test - I: 417818550, J: 1687638901, common tracks: 564
+[08:30:57.129309][debug] Automatic initial pair choice test - I: 417818550, J: 1755570640, common tracks: 395
+*[08:30:57.135298][debug] Automatic initial pair choice test - I: 417818550, J: 1781492828, common tracks: 481
+[08:30:57.141326][debug] Automatic initial pair choice test - I: 429875631, J: 464677198, common tracks: 138
+[08:30:57.212316][debug] Automatic initial pair choice test - I: 429875631, J: 501080556, common tracks: 181
+[08:30:57.233289][debug] Automatic initial pair choice test - I: 429875631, J: 852074474, common tracks: 125
+[08:30:57.311353][debug] Automatic initial pair choice test - I: 429875631, J: 891076793, common tracks: 149
+[08:30:57.320329][debug] Automatic initial pair choice test - I: 429875631, J: 1015632067, common tracks: 139
+[08:30:57.329336][debug] Automatic initial pair choice test - I: 429875631, J: 1092100410, common tracks: 171
+*[08:30:57.379371][debug] Automatic initial pair choice test - I: 429875631, J: 1325426344, common tracks: 145
+[08:30:57.391374][debug] Automatic initial pair choice test - I: 429875631, J: 1330267110, common tracks: 71
+[08:30:57.400383][debug] Automatic initial pair choice test - I: 429875631, J: 1687638901, common tracks: 149
+[08:30:57.406367][debug] Automatic initial pair choice test - I: 429875631, J: 1755570640, common tracks: 126
+[08:30:57.427393][debug] Automatic initial pair choice test - I: 429875631, J: 1781492828, common tracks: 201
+[08:30:57.430372][debug] Automatic initial pair choice test - I: 444557352, J: 1015632067, common tracks: 123
+*[08:30:57.466389][debug] Automatic initial pair choice test - I: 444557352, J: 1687638901, common tracks: 108
+[08:30:57.469381][debug] Automatic initial pair choice test - I: 464677198, J: 501080556, common tracks: 620
+[08:30:57.479382][debug] Automatic initial pair choice test - I: 464677198, J: 584834279, common tracks: 261
+[08:30:57.480379][debug] Automatic initial pair choice test - I: 464677198, J: 772284598, common tracks: 319
+[08:30:57.504381][debug] Automatic initial pair choice test - I: 464677198, J: 852074474, common tracks: 423
+[08:30:57.541403][debug] Automatic initial pair choice test - I: 464677198, J: 873949303, common tracks: 328
+[08:30:57.553401][debug] Automatic initial pair choice test - I: 464677198, J: 891076793, common tracks: 504
+*[08:30:57.580435][debug] Automatic initial pair choice test - I: 464677198, J: 1015632067, common tracks: 494
+[08:30:57.613424][debug] Automatic initial pair choice test - I: 464677198, J: 1092100410, common tracks: 656
+[08:30:57.630412][debug] Automatic initial pair choice test - I: 464677198, J: 1325426344, common tracks: 356
+[08:30:57.654379][debug] Automatic initial pair choice test - I: 464677198, J: 1400837643, common tracks: 207
+[08:30:57.704385][debug] Automatic initial pair choice test - I: 464677198, J: 1669619798, common tracks: 523
+[08:30:57.746406][debug] Automatic initial pair choice test - I: 464677198, J: 1687638901, common tracks: 725
+*[08:30:57.756414][debug] Automatic initial pair choice test - I: 464677198, J: 1755570640, common tracks: 864
+[08:30:57.765428][debug] Automatic initial pair choice test - I: 464677198, J: 1781492828, common tracks: 498
+[08:30:57.911487][debug] Automatic initial pair choice test - I: 501080556, J: 584834279, common tracks: 297
+[08:30:57.918504][debug] Automatic initial pair choice test - I: 501080556, J: 772284598, common tracks: 346
+[08:30:57.925486][debug] Automatic initial pair choice test - I: 501080556, J: 783022837, common tracks: 72
+[08:30:57.944510][debug] Automatic initial pair choice test - I: 501080556, J: 806543768, common tracks: 259
+[08:30:57.996488][debug] Automatic initial pair choice test - I: 501080556, J: 852074474, common tracks: 526
+*[08:30:57.998515][debug] Automatic initial pair choice test - I: 501080556, J: 873949303, common tracks: 989
+[08:30:58.019491][debug] Automatic initial pair choice test - I: 501080556, J: 891076793, common tracks: 528
+[08:30:58.062494][debug] Automatic initial pair choice test - I: 501080556, J: 1015632067, common tracks: 502
+[08:30:58.082555][debug] Automatic initial pair choice test - I: 501080556, J: 1078751423, common tracks: 90
+[08:30:58.111509][debug] Automatic initial pair choice test - I: 501080556, J: 1092100410, common tracks: 602
+[08:30:58.133510][debug] Automatic initial pair choice test - I: 501080556, J: 1191705073, common tracks: 113
+*[08:30:58.153519][debug] Automatic initial pair choice test - I: 501080556, J: 1199350529, common tracks: 111
+[08:30:58.225974][debug] Automatic initial pair choice test - I: 501080556, J: 1325426344, common tracks: 515
+[08:30:58.233954][debug] Automatic initial pair choice test - I: 501080556, J: 1330267110, common tracks: 105
+[08:30:58.262875][debug] Automatic initial pair choice test - I: 501080556, J: 1400837643, common tracks: 210
+[08:30:58.287809][debug] Automatic initial pair choice test - I: 501080556, J: 1669619798, common tracks: 435
+[08:30:58.289804][debug] Automatic initial pair choice test - I: 501080556, J: 1687638901, common tracks: 768
+[08:30:58.313739][debug] Automatic initial pair choice test - I: 501080556, J: 1755570640, common tracks: 485
+*[08:30:58.358734][debug] Automatic initial pair choice test - I: 501080556, J: 1781492828, common tracks: 575
+[08:30:58.433567][debug] Automatic initial pair choice test - I: 584834279, J: 772284598, common tracks: 167
+[08:30:58.435563][debug] Automatic initial pair choice test - I: 584834279, J: 852074474, common tracks: 266
+[08:30:58.471590][debug] Automatic initial pair choice test - I: 584834279, J: 891076793, common tracks: 209
+[08:30:58.504580][debug] Automatic initial pair choice test - I: 584834279, J: 1015632067, common tracks: 209
+[08:30:58.526551][debug] Automatic initial pair choice test - I: 584834279, J: 1092100410, common tracks: 306
+*[08:30:58.570567][debug] Automatic initial pair choice test - I: 584834279, J: 1118199604, common tracks: 188
+[08:30:58.600553][debug] Automatic initial pair choice test - I: 584834279, J: 1199350529, common tracks: 66
+[08:30:58.607585][debug] Automatic initial pair choice test - I: 584834279, J: 1325426344, common tracks: 262
+[08:30:58.615547][debug] Automatic initial pair choice test - I: 584834279, J: 1330267110, common tracks: 81
+[08:30:58.630576][debug] Automatic initial pair choice test - I: 584834279, J: 1400837643, common tracks: 252
+[08:30:58.644572][debug] Automatic initial pair choice test - I: 584834279, J: 1669619798, common tracks: 194
+[08:30:58.651586][debug] Automatic initial pair choice test - I: 584834279, J: 1687638901, common tracks: 311
+*[08:30:58.666546][debug] Automatic initial pair choice test - I: 584834279, J: 1755570640, common tracks: 224
+[08:30:58.669574][debug] Automatic initial pair choice test - I: 584834279, J: 1781492828, common tracks: 228
+[08:30:58.678605][debug] Automatic initial pair choice test - I: 600689326, J: 772284598, common tracks: 154
+[08:30:58.734546][debug] Automatic initial pair choice test - I: 600689326, J: 806543768, common tracks: 198
+[08:30:58.735545][debug] Automatic initial pair choice test - I: 600689326, J: 852074474, common tracks: 229
+[08:30:58.770556][debug] Automatic initial pair choice test - I: 600689326, J: 891076793, common tracks: 208
+[08:30:58.774544][debug] Automatic initial pair choice test - I: 600689326, J: 1015632067, common tracks: 177
+*[08:30:58.794561][debug] Automatic initial pair choice test - I: 600689326, J: 1092100410, common tracks: 238
+[08:30:58.810577][debug] Automatic initial pair choice test - I: 600689326, J: 1118199604, common tracks: 125
+[08:30:58.827055][debug] Automatic initial pair choice test - I: 600689326, J: 1325426344, common tracks: 287
+[08:30:58.832549][debug] Automatic initial pair choice test - I: 600689326, J: 1400837643, common tracks: 192
+[08:30:58.863549][debug] Automatic initial pair choice test - I: 600689326, J: 1669619798, common tracks: 221
+[08:30:58.872585][debug] Automatic initial pair choice test - I: 600689326, J: 1687638901, common tracks: 248
+*[08:30:58.887615][debug] Automatic initial pair choice test - I: 600689326, J: 1755570640, common tracks: 150
+[08:30:58.928576][debug] Automatic initial pair choice test - I: 600689326, J: 1781492828, common tracks: 196
+[08:30:58.946568][debug] Automatic initial pair choice test - I: 772284598, J: 852074474, common tracks: 433
+[08:30:58.948564][debug] Automatic initial pair choice test - I: 772284598, J: 873949303, common tracks: 201
+[08:30:58.975566][debug] Automatic initial pair choice test - I: 772284598, J: 891076793, common tracks: 278
+[08:30:58.979555][debug] Automatic initial pair choice test - I: 772284598, J: 1015632067, common tracks: 317
+[08:30:58.982549][debug] Automatic initial pair choice test - I: 772284598, J: 1092100410, common tracks: 404
+*[08:30:59.040561][debug] Automatic initial pair choice test - I: 772284598, J: 1325426344, common tracks: 333
+[08:30:59.074538][debug] Automatic initial pair choice test - I: 772284598, J: 1669619798, common tracks: 299
+[08:30:59.116559][debug] Automatic initial pair choice test - I: 772284598, J: 1687638901, common tracks: 406
+[08:30:59.132546][debug] Automatic initial pair choice test - I: 772284598, J: 1755570640, common tracks: 300
+[08:30:59.138567][debug] Automatic initial pair choice test - I: 772284598, J: 1781492828, common tracks: 415
+[08:30:59.162567][debug] Automatic initial pair choice test - I: 783022837, J: 806543768, common tracks: 81
+*[08:30:59.178552][debug] Automatic initial pair choice test - I: 783022837, J: 1078751423, common tracks: 338
+[08:30:59.210538][debug] Automatic initial pair choice test - I: 783022837, J: 1199350529, common tracks: 89
+[08:30:59.220548][debug] Automatic initial pair choice test - I: 783022837, J: 1330267110, common tracks: 196
+[08:30:59.230551][debug] Automatic initial pair choice test - I: 806543768, J: 852074474, common tracks: 283
+[08:30:59.261535][debug] Automatic initial pair choice test - I: 806543768, J: 891076793, common tracks: 189
+[08:30:59.299534][debug] Automatic initial pair choice test - I: 806543768, J: 1015632067, common tracks: 166
+*[08:30:59.313553][debug] Automatic initial pair choice test - I: 806543768, J: 1092100410, common tracks: 228
+[08:30:59.314554][debug] Automatic initial pair choice test - I: 806543768, J: 1118199604, common tracks: 117
+[08:30:59.315549][debug] Automatic initial pair choice test - I: 806543768, J: 1199350529, common tracks: 100
+[08:30:59.317544][debug] Automatic initial pair choice test - I: 806543768, J: 1325426344, common tracks: 346
+[08:30:59.366529][debug] Automatic initial pair choice test - I: 806543768, J: 1330267110, common tracks: 105
+[08:30:59.372514][debug] Automatic initial pair choice test - I: 806543768, J: 1400837643, common tracks: 175
+[08:30:59.395521][debug] Automatic initial pair choice test - I: 806543768, J: 1687638901, common tracks: 201
+*[08:30:59.399542][debug] Automatic initial pair choice test - I: 806543768, J: 1755570640, common tracks: 146
+[08:30:59.409548][debug] Automatic initial pair choice test - I: 806543768, J: 1781492828, common tracks: 167
+[08:30:59.431523][debug] Automatic initial pair choice test - I: 852074474, J: 873949303, common tracks: 304
+[08:30:59.439533][debug] Automatic initial pair choice test - I: 852074474, J: 891076793, common tracks: 451
+[08:30:59.475501][debug] Automatic initial pair choice test - I: 852074474, J: 1015632067, common tracks: 501
+[08:30:59.495516][debug] Automatic initial pair choice test - I: 852074474, J: 1092100410, common tracks: 556
+[08:30:59.496513][debug] Automatic initial pair choice test - I: 852074474, J: 1118199604, common tracks: 157
+*[08:30:59.503541][debug] Automatic initial pair choice test - I: 852074474, J: 1191705073, common tracks: 113
+[08:30:59.506532][debug] Automatic initial pair choice test - I: 852074474, J: 1199350529, common tracks: 73
+[08:30:59.550542][debug] Automatic initial pair choice test - I: 852074474, J: 1325426344, common tracks: 538
+[08:30:59.570529][info] robustRelativePose: no sufficient coverage (the model does not support enough samples): 32
+[08:30:59.571530][debug] Automatic initial pair choice test - I: 852074474, J: 1400837643, common tracks: 269
+[08:30:59.583521][debug] Automatic initial pair choice test - I: 852074474, J: 1669619798, common tracks: 384
+[08:30:59.586514][debug] Automatic initial pair choice test - I: 852074474, J: 1687638901, common tracks: 596
+*[08:30:59.637051][debug] Automatic initial pair choice test - I: 852074474, J: 1755570640, common tracks: 368
+[08:30:59.638570][debug] Automatic initial pair choice test - I: 852074474, J: 1781492828, common tracks: 396
+[08:30:59.687025][debug] Automatic initial pair choice test - I: 873949303, J: 891076793, common tracks: 345
+[08:30:59.742533][debug] Automatic initial pair choice test - I: 873949303, J: 1015632067, common tracks: 396
+[08:30:59.745527][debug] Automatic initial pair choice test - I: 873949303, J: 1092100410, common tracks: 343
+[08:30:59.817543][debug] Automatic initial pair choice test - I: 873949303, J: 1191705073, common tracks: 106
+[08:30:59.823508][debug] Automatic initial pair choice test - I: 873949303, J: 1325426344, common tracks: 302
+*[08:30:59.845500][debug] Automatic initial pair choice test - I: 873949303, J: 1669619798, common tracks: 278
+[08:30:59.853512][debug] Automatic initial pair choice test - I: 873949303, J: 1755570640, common tracks: 283
+[08:30:59.853512][debug] Automatic initial pair choice test - I: 873949303, J: 1687638901, common tracks: 384
+[08:30:59.879503][debug] Automatic initial pair choice test - I: 873949303, J: 1781492828, common tracks: 299
+[08:30:59.882495][debug] Automatic initial pair choice test - I: 891076793, J: 1015632067, common tracks: 429
+[08:30:59.903504][debug] Automatic initial pair choice test - I: 891076793, J: 1092100410, common tracks: 688
+[08:30:59.961525][debug] Automatic initial pair choice test - I: 891076793, J: 1325426344, common tracks: 419
+*[08:30:59.973493][debug] Automatic initial pair choice test - I: 891076793, J: 1400837643, common tracks: 215
+[08:31:00.005479][debug] Automatic initial pair choice test - I: 891076793, J: 1669619798, common tracks: 485
+[08:31:00.010494][debug] Automatic initial pair choice test - I: 891076793, J: 1687638901, common tracks: 636
+[08:31:00.019524][debug] Automatic initial pair choice test - I: 891076793, J: 1755570640, common tracks: 425
+[08:31:00.038511][debug] Automatic initial pair choice test - I: 891076793, J: 1781492828, common tracks: 384
+[08:31:00.089505][debug] Automatic initial pair choice test - I: 998369411, J: 1078751423, common tracks: 81
+*[08:31:00.091499][debug] Automatic initial pair choice test - I: 998369411, J: 1330267110, common tracks: 90
+[08:31:00.144494][debug] Automatic initial pair choice test - I: 1015632067, J: 1092100410, common tracks: 564
+[08:31:00.160483][info] robustRelativePose: no sufficient coverage (the model does not support enough samples): 32
+[08:31:00.161480][debug] Automatic initial pair choice test - I: 1015632067, J: 1191705073, common tracks: 114
+[08:31:00.215478][debug] Automatic initial pair choice test - I: 1015632067, J: 1325426344, common tracks: 442
+[08:31:00.240526][debug] Automatic initial pair choice test - I: 1015632067, J: 1400837643, common tracks: 206
+[08:31:00.259501][debug] Automatic initial pair choice test - I: 1015632067, J: 1669619798, common tracks: 371
+[08:31:00.288496][debug] Automatic initial pair choice test - I: 1015632067, J: 1687638901, common tracks: 616
+*[08:31:00.301490][debug] Automatic initial pair choice test - I: 1015632067, J: 1755570640, common tracks: 374
+[08:31:00.328520][debug] Automatic initial pair choice test - I: 1015632067, J: 1781492828, common tracks: 407
+[08:31:00.339494][debug] Automatic initial pair choice test - I: 1078751423, J: 1199350529, common tracks: 92
+[08:31:00.383888][debug] Automatic initial pair choice test - I: 1078751423, J: 1330267110, common tracks: 272
+[08:31:00.411810][debug] Automatic initial pair choice test - I: 1090188474, J: 1191705073, common tracks: 62
+[08:31:00.419792][debug] Automatic initial pair choice test - I: 1090188474, J: 1719200353, common tracks: 70
+*[08:31:00.437750][debug] Automatic initial pair choice test - I: 1092100410, J: 1191705073, common tracks: 102
+[08:31:00.466664][debug] Automatic initial pair choice test - I: 1092100410, J: 1325426344, common tracks: 584
+[08:31:00.475639][debug] Automatic initial pair choice test - I: 1092100410, J: 1400837643, common tracks: 229
+[08:31:00.480625][debug] Automatic initial pair choice test - I: 1092100410, J: 1669619798, common tracks: 1339
+[08:31:00.511542][debug] Automatic initial pair choice test - I: 1092100410, J: 1687638901, common tracks: 711
+[08:31:00.511542][debug] Automatic initial pair choice test - I: 1092100410, J: 1755570640, common tracks: 519
+[08:31:00.515532][debug] Automatic initial pair choice test - I: 1092100410, J: 1781492828, common tracks: 466
+*[08:31:00.630505][debug] Automatic initial pair choice test - I: 1118199604, J: 1325426344, common tracks: 199
+[08:31:00.638519][debug] Automatic initial pair choice test - I: 1118199604, J: 1400837643, common tracks: 207
+[08:31:00.675517][debug] Automatic initial pair choice test - I: 1118199604, J: 1687638901, common tracks: 177
+[08:31:00.727549][debug] Automatic initial pair choice test - I: 1191705073, J: 1325426344, common tracks: 98
+[08:31:00.759523][debug] Automatic initial pair choice test - I: 1191705073, J: 1687638901, common tracks: 104
+[08:31:00.792532][debug] Automatic initial pair choice test - I: 1199350529, J: 1330267110, common tracks: 98
+*[08:31:00.827033][debug] Automatic initial pair choice test - I: 1325426344, J: 1330267110, common tracks: 105
+[08:31:00.837572][debug] Automatic initial pair choice test - I: 1325426344, J: 1400837643, common tracks: 263
+[08:31:00.850544][debug] Automatic initial pair choice test - I: 1325426344, J: 1687638901, common tracks: 512
+[08:31:00.855534][debug] Automatic initial pair choice test - I: 1325426344, J: 1755570640, common tracks: 326
+[08:31:00.858573][debug] Automatic initial pair choice test - I: 1325426344, J: 1781492828, common tracks: 339
+[08:31:00.859569][debug] Automatic initial pair choice test - I: 1400837643, J: 1687638901, common tracks: 294
+[08:31:00.882538][debug] Automatic initial pair choice test - I: 1325426344, J: 1669619798, common tracks: 350
+*[08:31:00.898567][debug] Automatic initial pair choice test - I: 1400837643, J: 1755570640, common tracks: 186
+[08:31:00.957584][debug] Automatic initial pair choice test - I: 1400837643, J: 1781492828, common tracks: 195
+[08:31:00.983525][debug] Automatic initial pair choice test - I: 1669619798, J: 1687638901, common tracks: 587
+[08:31:00.999553][debug] Automatic initial pair choice test - I: 1669619798, J: 1755570640, common tracks: 393
+[08:31:01.027038][debug] Automatic initial pair choice test - I: 1669619798, J: 1781492828, common tracks: 402
+[08:31:01.072522][debug] Automatic initial pair choice test - I: 1687638901, J: 1755570640, common tracks: 657
+[08:31:01.178570][debug] Automatic initial pair choice test - I: 1687638901, J: 1781492828, common tracks: 605
+*
+[08:31:01.187075][debug] Automatic initial pair choice test - I: 1755570640, J: 1781492828, common tracks: 445
+[08:31:01.528549][debug] 238 possible image pairs. 50 best possibles image pairs are:
+[08:31:01.528549][debug]            Pair           |      Score      |  ImagePairScore |      Angle      |    NbMatches   
+[08:31:01.528549][debug] -------------------------------------------------------------------------------------------------
+[08:31:01.528549][debug]   414842540, 1669619798   |        +13125.5 |          +421.0 |           +31.2 |             188
+[08:31:01.529546][debug]   852074474, 1325426344   |        +12249.9 |          +595.0 |           +20.6 |             398
+[08:31:01.529546][debug]    501080556, 772284598   |        +11205.8 |          +532.0 |           +21.1 |             255
+[08:31:01.529546][debug]   852074474, 1781492828   |        +11042.1 |          +535.0 |           +20.6 |             246
+[08:31:01.529546][debug]    852074474, 873949303   |        +11011.6 |          +310.0 |           +35.5 |             224
+[08:31:01.529546][debug]   600689326, 1781492828   |        +10904.1 |          +417.0 |           +26.1 |             110
+[08:31:01.529546][debug]    501080556, 852074474   |        +10508.7 |          +499.0 |           +21.1 |             283
+[08:31:01.529546][debug]    772284598, 873949303   |        +10476.7 |          +263.0 |           +39.8 |             145
+[08:31:01.529546][debug]   852074474, 1092100410   |        +10449.7 |          +552.0 |           +18.9 |             426
+[08:31:01.529546][debug]   852074474, 1669619798   |        +10367.4 |          +501.0 |           +20.7 |             276
+[08:31:01.529546][debug]   852074474, 1687638901   |        +10311.2 |          +522.0 |           +19.8 |             444
+[08:31:01.529546][debug]   501080556, 1015632067   |        +10116.2 |          +428.0 |           +23.6 |             370
+[08:31:01.529546][debug]   772284598, 1325426344   |        +10024.4 |          +446.0 |           +22.5 |             268
+[08:31:01.529546][debug]    772284598, 852074474   |         +9946.3 |          +481.0 |           +20.7 |             324
+[08:31:01.529546][debug]   600689326, 1669619798   |         +9809.0 |          +371.0 |           +26.4 |             129
+[08:31:01.529546][debug]   772284598, 1015632067   |         +9555.9 |          +370.0 |           +25.8 |             230
+[08:31:01.529546][debug]    429875631, 891076793   |         +9300.7 |          +329.0 |           +28.3 |             131
+[08:31:01.529546][debug]    414842540, 417818550   |         +9151.5 |          +443.0 |           +20.7 |             190
+[08:31:01.529546][debug]   413474303, 1325426344   |         +8983.1 |          +513.0 |           +17.5 |             320
+[08:31:01.529546][debug]    414842540, 891076793   |         +8888.6 |          +523.0 |           +17.0 |             285
+[08:31:01.529546][debug]   772284598, 1669619798   |         +8856.9 |          +493.0 |           +18.0 |             238
+[08:31:01.530545][debug]    112144998, 891076793   |         +8788.0 |          +298.0 |           +29.5 |             156
+[08:31:01.530545][debug]   891076793, 1669619798   |         +8720.9 |          +554.0 |           +15.7 |             352
+[08:31:01.530545][debug]   1325426344, 1669619798  |         +8672.3 |          +498.0 |           +17.4 |             257
+[08:31:01.530545][debug]   417818550, 1687638901   |         +8667.4 |          +652.0 |           +13.3 |             522
+[08:31:01.530545][debug]   417818550, 1781492828   |         +8626.1 |          +469.0 |           +18.4 |             324
+[08:31:01.530545][debug]    584834279, 852074474   |         +8444.8 |          +239.0 |           +35.3 |             153
+[08:31:01.530545][debug]    154992048, 417818550   |         +8435.9 |          +518.0 |           +16.3 |             203
+[08:31:01.530545][debug]   852074474, 1755570640   |         +8435.6 |          +466.0 |           +18.1 |             249
+[08:31:01.530545][debug]    281056771, 852074474   |         +8422.3 |          +297.0 |           +28.4 |             172
+[08:31:01.530545][debug]    414842540, 772284598   |         +8390.7 |          +498.0 |           +16.8 |             214
+[08:31:01.530545][debug]   417818550, 1755570640   |         +8300.5 |          +530.0 |           +15.7 |             323
+[08:31:01.530545][debug]    417818550, 873949303   |         +8278.3 |          +277.0 |           +29.9 |             161
+[08:31:01.530545][debug]   772284598, 1755570640   |         +8154.3 |          +581.0 |           +14.0 |             277
+[08:31:01.530545][debug]   806543768, 1092100410   |         +8053.8 |          +313.0 |           +25.7 |             115
+[08:31:01.530545][debug]   429875631, 1687638901   |         +8028.8 |          +281.0 |           +28.6 |             114
+[08:31:01.530545][debug]   417818550, 1092100410   |         +7996.6 |          +625.0 |           +12.8 |             629
+[08:31:01.531540][debug]   417818550, 1325426344   |         +7972.4 |          +511.0 |           +15.6 |             284
+[08:31:01.531540][debug]   414842540, 1325426344   |         +7950.7 |          +620.0 |           +12.8 |             435
+[08:31:01.531540][debug]    806543768, 891076793   |         +7945.8 |          +309.0 |           +25.7 |             126
+[08:31:01.531540][debug]   154992048, 1669619798   |         +7922.1 |          +493.0 |           +16.1 |             171
+[08:31:01.531540][debug]   112144998, 1325426344   |         +7916.2 |          +370.0 |           +21.4 |             184
+[08:31:01.531540][debug]    413474303, 891076793   |         +7903.4 |          +715.0 |           +11.1 |             469
+[08:31:01.531540][debug]   772284598, 1781492828   |         +7857.5 |          +524.0 |           +15.0 |             337
+[08:31:01.531540][debug]   501080556, 1669619798   |         +7735.7 |          +512.0 |           +15.1 |             331
+[08:31:01.531540][debug]   1400837643, 1781492828  |         +7538.0 |          +228.0 |           +33.1 |             113
+[08:31:01.531540][debug]    413474303, 772284598   |         +7535.5 |          +557.0 |           +13.5 |             310
+[08:31:01.531540][debug]    873949303, 891076793   |         +7462.8 |          +288.0 |           +25.9 |             192
+[08:31:01.531540][debug]    154992048, 852074474   |         +7374.0 |          +429.0 |           +17.2 |             174
+[08:31:01.531540][debug]   891076793, 1015632067   |         +7351.3 |          +413.0 |           +17.8 |             312
+[08:31:01.531540][info] Initial pair is:
+	- [A] view id: 414842540, filepath: C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final_high_res/133790.jpg
+	- [B] view id: 1669619798, filepath: C:/Users/bouba/Workspace_ICONOLAUSANNE/images_per_street/Av. de Montbenon/tribunal_final_high_res/133801.jpg
+[08:31:01.532537][info] 283 matches in the image pair for the initial pose estimation.
+[08:31:01.999456][debug] A-Contrario initial pair residual: 116.682
+[08:31:02.003444][info] Bundle adjustment start.
+[08:31:02.004442][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:02.004442][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:02.004442][debug] Updating the distances graph with newly resected views...
+[08:31:02.004442][debug] The graph is empty: initial pair & new view(s) added.
+[08:31:02.004442][debug] The distances graph has been completed with 2 nodes & 2 edges.
+[08:31:02.004442][debug] It contains 2 nodes & 2 edges
+[08:31:02.004442][info] Start bundle adjustment iteration: 0
+[08:31:02.018408][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0093672 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  426
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 2
+	    - # ignored:  33
+	- # residual blocks: 852
+	- # successful iterations: 5
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.852879
+	- final   RMSE: 0.716694
+[08:31:02.019404][info] Remove outliers: 
+	- # outliers residual error: 2
+	- # outliers angular error: 0
+[08:31:02.019404][info] Bundle adjustment iteration: 0 took 15 msec.
+[08:31:02.019404][info] Start bundle adjustment iteration: 1
+[08:31:02.032368][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0077473 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  424
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 2
+	    - # ignored:  33
+	- # residual blocks: 848
+	- # successful iterations: 4
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.702668
+	- final   RMSE: 0.701976
+[08:31:02.038352][info] Remove outliers: 
+	- # outliers residual error: 1
+	- # outliers angular error: 0
+[08:31:02.038352][info] Bundle adjustment iteration: 1 took 19 msec.
+[08:31:02.038352][info] Start bundle adjustment iteration: 2
+[08:31:02.054308][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0083133 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  422
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 2
+	    - # ignored:  33
+	- # residual blocks: 844
+	- # successful iterations: 4
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.689812
+	- final   RMSE: 0.689184
+[08:31:02.054308][info] Remove outliers: 
+	- # outliers residual error: 2
+	- # outliers angular error: 0
+[08:31:02.054308][info] Bundle adjustment iteration: 2 took 15 msec.
+[08:31:02.054308][info] Start bundle adjustment iteration: 3
+[08:31:02.067275][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0093156 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  418
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 2
+	    - # ignored:  33
+	- # residual blocks: 836
+	- # successful iterations: 5
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.664385
+	- final   RMSE: 0.661525
+[08:31:02.068274][info] Remove outliers: 
+	- # outliers residual error: 1
+	- # outliers angular error: 0
+[08:31:02.068274][info] Bundle adjustment iteration: 3 took 13 msec.
+[08:31:02.068274][info] Start bundle adjustment iteration: 4
+[08:31:02.085225][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0090663 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  416
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 2
+	    - # ignored:  33
+	- # residual blocks: 832
+	- # successful iterations: 5
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.649697
+	- final   RMSE: 0.648126
+[08:31:02.086224][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[08:31:02.086224][info] Bundle adjustment iteration: 4 took 17 msec.
+[08:31:02.086224][info] Bundle adjustment with 5 iterations took 82 msec.
+[08:31:02.086224][debug] MSE Residual initial pair inlier: 1.05275
+[08:31:02.087221][info] Initial pair is: 414842540, 1669619798
+[08:31:02.087221][info] Begin Incremental Reconstruction:
+	- mode: SfM augmentation
+	- # images in input: 46
+	- # images in resection: 44
+	- # landmarks in input: 208
+	- # cameras already calibrated: 2
+[08:31:02.087221][info] Incremental Reconstruction start iteration 0:
+	- # number of resection groups: 0
+	- # number of poses: 2
+	- # number of landmarks: 208
+	- # remaining images: 44
+[08:31:02.088220][debug] findNextBestViews -- Scores (features): 
+[08:31:02.089220][debug] 443(118), 
+[08:31:02.089220][debug] 426(122), 
+[08:31:02.089220][debug] 423(112), 
+[08:31:02.089220][debug] 406(106), 
+[08:31:02.089220][debug] 398(100), 
+[08:31:02.089220][debug] 391(130), 
+[08:31:02.089220][debug] 391(141), 
+[08:31:02.089220][debug] 388(97), 
+[08:31:02.089220][debug] 387(71), 
+[08:31:02.089220][debug] 386(117), 
+[08:31:02.089220][debug] 386(117), 
+[08:31:02.089220][debug] 378(73), 
+[08:31:02.089220][debug] 366(68), 
+[08:31:02.089220][debug] 366(96), 
+[08:31:02.089220][debug] 338(83), 
+[08:31:02.089220][debug] 321(68), 
+[08:31:02.089220][debug] 319(87), 
+[08:31:02.089220][debug] 310(53), 
+[08:31:02.089220][debug] 290(44), 
+[08:31:02.089220][debug] 265(100), 
+[08:31:02.089220][debug] 259(76), 
+[08:31:02.089220][debug] 235(82), 
+[08:31:02.089220][debug] 233(56), 
+[08:31:02.089220][debug] 199(36), 
+[08:31:02.089220][debug] 185(28), 
+[08:31:02.090213][debug] 164(28), 
+[08:31:02.090213][debug] 86(12), 
+[08:31:02.090213][debug] 69(5), 
+[08:31:02.090213][debug] 46(3), 
+[08:31:02.090213][debug] 34(2), 
+[08:31:02.090213][debug] 
+[08:31:02.090213][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 852074474
+	- # unstable poses : 2 / 30
+[08:31:02.090213][debug] Find next best views took: 2 msec
+	# images : 1
+	- scores: from 443 to 443 (threshold was 396)
+	- features: from 118 to 118 (threshold was 30)
+[08:31:02.090213][info] Update Reconstruction:
+	- resection id: 0
+	- # images in the resection group: 1
+	- # images remaining: 44
+[08:31:02.090213][info] [3/46] Robust Resection of view: 852074474
+[08:31:02.159029][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 22.9496
+	- # points used for resection: 118
+	- # points validated by robust resection: 58
+[08:31:02.160026][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:02.164015][debug] Resection of image 0 ( view id: 852074474 ) succeed.
+[08:31:02.164015][debug] Resection of 1 new images took 74 msec.
+[08:31:02.164015][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:02.176982][debug] Triangulation of the 1 newly reconstructed views took 12 msec.
+[08:31:02.176982][info] Bundle adjustment start.
+[08:31:02.176982][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:02.176982][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:02.176982][debug] Updating the distances graph with newly resected views...
+[08:31:02.177978][debug] The distances graph has been completed with 1 nodes & 2 edges.
+[08:31:02.177978][debug] It contains 3 nodes & 4 edges
+[08:31:02.177978][info] Start bundle adjustment iteration: 0
+[08:31:02.326679][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.143744 s
+	- poses:
+	    - # refined:  3
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  677
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  3
+	    - # constant: 0
+	    - # ignored:  32
+	- # residual blocks: 1354
+	- # successful iterations: 51
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.11198
+	- final   RMSE: 0.569357
+[08:31:02.326679][info] Remove outliers: 
+	- # outliers residual error: 5
+	- # outliers angular error: 1
+[08:31:02.327677][info] Bundle adjustment iteration: 0 took 149 msec.
+[08:31:02.327677][info] Bundle adjustment with 1 iterations took 150 msec.
+[08:31:02.399484][debug] Save of file sfm_00000000 took 72 msec.
+[08:31:02.402477][debug] findNextBestViews -- Scores (features): 
+[08:31:02.402477][debug] 471(167), 
+[08:31:02.403474][debug] 462(201), 
+[08:31:02.403474][debug] 452(112), 
+[08:31:02.403474][debug] 449(191), 
+[08:31:02.403474][debug] 443(149), 
+[08:31:02.403474][debug] 443(164), 
+[08:31:02.403474][debug] 437(156), 
+[08:31:02.403474][debug] 426(146), 
+[08:31:02.403474][debug] 422(166), 
+[08:31:02.403474][debug] 415(129), 
+[08:31:02.403474][debug] 414(96), 
+[08:31:02.403474][debug] 413(129), 
+[08:31:02.403474][debug] 406(141), 
+[08:31:02.403474][debug] 393(83), 
+[08:31:02.403474][debug] 384(108), 
+[08:31:02.403474][debug] 360(83), 
+[08:31:02.403474][debug] 348(73), 
+[08:31:02.403474][debug] 323(141), 
+[08:31:02.403474][debug] 321(56), 
+[08:31:02.403474][debug] 309(117), 
+[08:31:02.403474][debug] 268(78), 
+[08:31:02.403474][debug] 249(111), 
+[08:31:02.403474][debug] 207(34), 
+[08:31:02.403474][debug] 207(40), 
+[08:31:02.403474][debug] 189(40), 
+[08:31:02.403474][debug] 90(14), 
+[08:31:02.403474][debug] 72(6), 
+[08:31:02.403474][debug] 46(3), 
+[08:31:02.403474][debug] 34(2), 
+[08:31:02.403474][debug] 31(1), 
+[08:31:02.403474][debug] 
+[08:31:02.403474][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 464677198
+	- # unstable poses : 3 / 30
+[08:31:02.403474][debug] Find next best views took: 3 msec
+	# images : 1
+	- scores: from 471 to 471 (threshold was 396)
+	- features: from 167 to 167 (threshold was 30)
+[08:31:02.403474][info] Update Reconstruction:
+	- resection id: 1
+	- # images in the resection group: 1
+	- # images remaining: 43
+[08:31:02.404472][info] [4/46] Robust Resection of view: 464677198
+[08:31:02.523154][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 101.61
+	- # points used for resection: 167
+	- # points validated by robust resection: 126
+[08:31:02.523154][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:02.538118][debug] Resection of image 0 ( view id: 464677198 ) succeed.
+[08:31:02.539116][debug] Resection of 1 new images took 134 msec.
+[08:31:02.539116][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:02.581997][debug] Triangulation of the 1 newly reconstructed views took 42 msec.
+[08:31:02.581997][info] Bundle adjustment start.
+[08:31:02.581997][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:02.581997][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:02.581997][debug] Updating the distances graph with newly resected views...
+[08:31:02.582994][debug] The distances graph has been completed with 1 nodes & 3 edges.
+[08:31:02.582994][debug] It contains 4 nodes & 7 edges
+[08:31:02.582994][info] Start bundle adjustment iteration: 0
+[08:31:03.065744][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.473297 s
+	- poses:
+	    - # refined:  4
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  1184
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  4
+	    - # constant: 0
+	    - # ignored:  31
+	- # residual blocks: 2368
+	- # successful iterations: 51
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.11754
+	- final   RMSE: 0.776117
+[08:31:03.067739][info] Remove outliers: 
+	- # outliers residual error: 36
+	- # outliers angular error: 3
+[08:31:03.067739][info] Bundle adjustment iteration: 0 took 484 msec.
+[08:31:03.067739][info] Bundle adjustment with 1 iterations took 485 msec.
+[08:31:03.073723][debug] findNextBestViews -- Scores (features): 
+[08:31:03.073723][debug] 556(215), 
+[08:31:03.073723][debug] 553(280), 
+[08:31:03.073723][debug] 551(298), 
+[08:31:03.074720][debug] 540(211), 
+[08:31:03.074720][debug] 539(210), 
+[08:31:03.074720][debug] 531(232), 
+[08:31:03.074720][debug] 522(121), 
+[08:31:03.074720][debug] 516(209), 
+[08:31:03.074720][debug] 512(183), 
+[08:31:03.074720][debug] 511(230), 
+[08:31:03.074720][debug] 507(129), 
+[08:31:03.074720][debug] 460(158), 
+[08:31:03.074720][debug] 439(128), 
+[08:31:03.074720][debug] 423(97), 
+[08:31:03.074720][debug] 404(196), 
+[08:31:03.074720][debug] 384(100), 
+[08:31:03.074720][debug] 383(141), 
+[08:31:03.074720][debug] 381(81), 
+[08:31:03.074720][debug] 363(62), 
+[08:31:03.075721][debug] 279(141), 
+[08:31:03.075721][debug] 267(75), 
+[08:31:03.075721][debug] 233(51), 
+[08:31:03.075721][debug] 222(45), 
+[08:31:03.075721][debug] 218(40), 
+[08:31:03.075721][debug] 132(32), 
+[08:31:03.075721][debug] 79(7), 
+[08:31:03.075721][debug] 49(3), 
+[08:31:03.075721][debug] 46(3), 
+[08:31:03.075721][debug] 34(2), 
+[08:31:03.075721][debug] 31(1), 
+[08:31:03.075721][debug] 
+[08:31:03.075721][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1781492828
+	- # unstable poses : 4 / 30
+[08:31:03.075721][debug] Find next best views took: 7 msec
+	# images : 1
+	- scores: from 556 to 556 (threshold was 396)
+	- features: from 215 to 215 (threshold was 30)
+[08:31:03.075721][info] Update Reconstruction:
+	- resection id: 2
+	- # images in the resection group: 1
+	- # images remaining: 42
+[08:31:03.076718][info] [5/46] Robust Resection of view: 1781492828
+[08:31:03.253247][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 13.6702
+	- # points used for resection: 215
+	- # points validated by robust resection: 101
+[08:31:03.254241][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:03.261222][debug] Resection of image 0 ( view id: 1781492828 ) succeed.
+[08:31:03.261222][debug] Resection of 1 new images took 185 msec.
+[08:31:03.261222][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:03.294133][debug] Triangulation of the 1 newly reconstructed views took 32 msec.
+[08:31:03.294133][info] Bundle adjustment start.
+[08:31:03.294133][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:03.294133][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:03.294133][debug] Updating the distances graph with newly resected views...
+[08:31:03.295131][debug] The distances graph has been completed with 1 nodes & 4 edges.
+[08:31:03.295131][debug] It contains 5 nodes & 11 edges
+[08:31:03.295131][info] Start bundle adjustment iteration: 0
+[08:31:03.734955][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.422028 s
+	- poses:
+	    - # refined:  5
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  1882
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  5
+	    - # constant: 0
+	    - # ignored:  30
+	- # residual blocks: 3764
+	- # successful iterations: 35
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.44499
+	- final   RMSE: 0.850423
+[08:31:03.738945][info] Remove outliers: 
+	- # outliers residual error: 58
+	- # outliers angular error: 1
+[08:31:03.739952][info] Bundle adjustment iteration: 0 took 445 msec.
+[08:31:03.739952][info] Start bundle adjustment iteration: 1
+[08:31:03.912479][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.153378 s
+	- poses:
+	    - # refined:  5
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  1815
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  5
+	    - # constant: 0
+	    - # ignored:  30
+	- # residual blocks: 3630
+	- # successful iterations: 11
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.722153
+	- final   RMSE: 0.693314
+[08:31:03.917468][info] Remove outliers: 
+	- # outliers residual error: 8
+	- # outliers angular error: 1
+[08:31:03.917468][info] Bundle adjustment iteration: 1 took 177 msec.
+[08:31:03.917468][info] Bundle adjustment with 2 iterations took 623 msec.
+[08:31:03.924448][debug] findNextBestViews -- Scores (features): 
+[08:31:03.924448][debug] 635(389), 
+[08:31:03.924448][debug] 617(375), 
+[08:31:03.924448][debug] 609(302), 
+[08:31:03.924448][debug] 609(275), 
+[08:31:03.924448][debug] 605(284), 
+[08:31:03.924448][debug] 581(302), 
+[08:31:03.924448][debug] 565(230), 
+[08:31:03.924448][debug] 558(316), 
+[08:31:03.924448][debug] 532(143), 
+[08:31:03.924448][debug] 522(153), 
+[08:31:03.924448][debug] 520(211), 
+[08:31:03.924448][debug] 486(145), 
+[08:31:03.924448][debug] 478(124), 
+[08:31:03.924448][debug] 453(272), 
+[08:31:03.925444][debug] 426(126), 
+[08:31:03.925444][debug] 412(185), 
+[08:31:03.925444][debug] 400(89), 
+[08:31:03.925444][debug] 393(68), 
+[08:31:03.925444][debug] 323(200), 
+[08:31:03.925444][debug] 282(76), 
+[08:31:03.925444][debug] 259(50), 
+[08:31:03.925444][debug] 236(54), 
+[08:31:03.925444][debug] 225(45), 
+[08:31:03.925444][debug] 149(38), 
+[08:31:03.926442][debug] 91(7), 
+[08:31:03.926442][debug] 80(4), 
+[08:31:03.926442][debug] 49(3), 
+[08:31:03.927439][debug] 31(2), 
+[08:31:03.927439][debug] 31(2), 
+[08:31:03.927439][debug] 31(1), 
+[08:31:03.928437][debug] 
+[08:31:03.928437][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1687638901
+	- # unstable poses : 5 / 30
+[08:31:03.928437][debug] Find next best views took: 9 msec
+	# images : 1
+	- scores: from 635 to 635 (threshold was 396)
+	- features: from 389 to 389 (threshold was 30)
+[08:31:03.928437][info] Update Reconstruction:
+	- resection id: 3
+	- # images in the resection group: 1
+	- # images remaining: 41
+[08:31:03.929435][info] [6/46] Robust Resection of view: 1687638901
+[08:31:04.239605][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 12.059
+	- # points used for resection: 389
+	- # points validated by robust resection: 232
+[08:31:04.239605][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:04.260548][debug] Resection of image 0 ( view id: 1687638901 ) succeed.
+[08:31:04.261546][debug] Resection of 1 new images took 333 msec.
+[08:31:04.261546][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:04.322384][debug] Triangulation of the 1 newly reconstructed views took 60 msec.
+[08:31:04.322384][info] Bundle adjustment start.
+[08:31:04.322384][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:04.322384][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:04.322384][debug] Updating the distances graph with newly resected views...
+[08:31:04.324381][debug] The distances graph has been completed with 1 nodes & 5 edges.
+[08:31:04.324381][debug] It contains 6 nodes & 16 edges
+[08:31:04.324381][info] Start bundle adjustment iteration: 0
+[08:31:04.711857][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.355261 s
+	- poses:
+	    - # refined:  6
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  3615
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  6
+	    - # constant: 0
+	    - # ignored:  29
+	- # residual blocks: 7230
+	- # successful iterations: 16
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.44855
+	- final   RMSE: 0.864995
+[08:31:04.717841][info] Remove outliers: 
+	- # outliers residual error: 111
+	- # outliers angular error: 7
+[08:31:04.718840][info] Bundle adjustment iteration: 0 took 394 msec.
+[08:31:04.719836][info] Start bundle adjustment iteration: 1
+[08:31:05.473607][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.725607 s
+	- poses:
+	    - # refined:  6
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  3471
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  6
+	    - # constant: 0
+	    - # ignored:  29
+	- # residual blocks: 6942
+	- # successful iterations: 46
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.729941
+	- final   RMSE: 0.649524
+[08:31:05.477597][info] Remove outliers: 
+	- # outliers residual error: 14
+	- # outliers angular error: 6
+[08:31:05.477597][info] Bundle adjustment iteration: 1 took 758 msec.
+[08:31:05.477597][info] Bundle adjustment with 2 iterations took 1155 msec.
+[08:31:05.564364][debug] Save of file sfm_00000003 took 86 msec.
+[08:31:05.569351][debug] findNextBestViews -- Scores (features): 
+[08:31:05.569351][debug] 732(459), 
+[08:31:05.569351][debug] 716(576), 
+[08:31:05.569351][debug] 699(487), 
+[08:31:05.569351][debug] 663(262), 
+[08:31:05.569351][debug] 662(453), 
+[08:31:05.569351][debug] 651(434), 
+[08:31:05.569351][debug] 643(380), 
+[08:31:05.569351][debug] 629(474), 
+[08:31:05.569351][debug] 628(236), 
+[08:31:05.569351][debug] 562(310), 
+[08:31:05.569351][debug] 534(214), 
+[08:31:05.569351][debug] 528(208), 
+[08:31:05.569351][debug] 524(185), 
+[08:31:05.569351][debug] 495(446), 
+[08:31:05.569351][debug] 472(131), 
+[08:31:05.569351][debug] 464(314), 
+[08:31:05.569351][debug] 432(146), 
+[08:31:05.569351][debug] 346(301), 
+[08:31:05.569351][debug] 312(126), 
+[08:31:05.569351][debug] 290(96), 
+[08:31:05.569351][debug] 268(69), 
+[08:31:05.569351][debug] 249(76), 
+[08:31:05.569351][debug] 168(60), 
+[08:31:05.569351][debug] 104(8), 
+[08:31:05.569351][debug] 89(9), 
+[08:31:05.569351][debug] 68(5), 
+[08:31:05.569351][debug] 49(3), 
+[08:31:05.570348][debug] 38(2), 
+[08:31:05.570348][debug] 31(2), 
+[08:31:05.570348][debug] 31(1), 
+[08:31:05.570348][debug] 
+[08:31:05.570348][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 413474303
+	- # unstable poses : 6 / 30
+[08:31:05.570348][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 732 to 732 (threshold was 396)
+	- features: from 459 to 459 (threshold was 30)
+[08:31:05.570348][info] Update Reconstruction:
+	- resection id: 4
+	- # images in the resection group: 1
+	- # images remaining: 40
+[08:31:05.572358][info] [7/46] Robust Resection of view: 413474303
+[08:31:05.807714][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 14.5231
+	- # points used for resection: 459
+	- # points validated by robust resection: 247
+[08:31:05.807714][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:05.819682][debug] Resection of image 0 ( view id: 413474303 ) succeed.
+[08:31:05.819682][debug] Resection of 1 new images took 249 msec.
+[08:31:05.819682][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:05.872541][debug] Triangulation of the 1 newly reconstructed views took 52 msec.
+[08:31:05.872541][info] Bundle adjustment start.
+[08:31:05.872541][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:05.872541][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:05.872541][debug] Updating the distances graph with newly resected views...
+[08:31:05.873538][debug] The distances graph has been completed with 1 nodes & 6 edges.
+[08:31:05.873538][debug] It contains 7 nodes & 22 edges
+[08:31:05.873538][info] Start bundle adjustment iteration: 0
+[08:31:06.878789][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.976771 s
+	- poses:
+	    - # refined:  7
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  4731
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  7
+	    - # constant: 0
+	    - # ignored:  28
+	- # residual blocks: 9462
+	- # successful iterations: 42
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.53166
+	- final   RMSE: 0.83346
+[08:31:06.884776][info] Remove outliers: 
+	- # outliers residual error: 128
+	- # outliers angular error: 19
+[08:31:06.885774][info] Bundle adjustment iteration: 0 took 1011 msec.
+[08:31:06.886304][info] Start bundle adjustment iteration: 1
+[08:31:08.075982][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.15898 s
+	- poses:
+	    - # refined:  7
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  4541
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  7
+	    - # constant: 0
+	    - # ignored:  28
+	- # residual blocks: 9082
+	- # successful iterations: 51
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.720763
+	- final   RMSE: 0.696681
+[08:31:08.082963][info] Remove outliers: 
+	- # outliers residual error: 13
+	- # outliers angular error: 16
+[08:31:08.082963][info] Bundle adjustment iteration: 1 took 1197 msec.
+[08:31:08.082963][info] Bundle adjustment with 2 iterations took 2210 msec.
+[08:31:08.088949][debug] findNextBestViews -- Scores (features): 
+[08:31:08.088949][debug] 754(647), 
+[08:31:08.088949][debug] 721(552), 
+[08:31:08.089945][debug] 696(509), 
+[08:31:08.089945][debug] 685(491), 
+[08:31:08.089945][debug] 675(444), 
+[08:31:08.089945][debug] 672(527), 
+[08:31:08.089945][debug] 667(279), 
+[08:31:08.089945][debug] 644(262), 
+[08:31:08.089945][debug] 587(350), 
+[08:31:08.089945][debug] 565(251), 
+[08:31:08.089945][debug] 556(242), 
+[08:31:08.089945][debug] 554(221), 
+[08:31:08.089945][debug] 520(493), 
+[08:31:08.090942][debug] 492(143), 
+[08:31:08.090942][debug] 485(349), 
+[08:31:08.090942][debug] 461(178), 
+[08:31:08.090942][debug] 346(327), 
+[08:31:08.090942][debug] 326(145), 
+[08:31:08.090942][debug] 305(102), 
+[08:31:08.090942][debug] 273(78), 
+[08:31:08.090942][debug] 259(85), 
+[08:31:08.090942][debug] 189(78), 
+[08:31:08.090942][debug] 130(10), 
+[08:31:08.090942][debug] 92(11), 
+[08:31:08.091939][debug] 68(5), 
+[08:31:08.091939][debug] 49(3), 
+[08:31:08.091939][debug] 31(2), 
+[08:31:08.091939][debug] 31(1), 
+[08:31:08.091939][debug] 31(1), 
+[08:31:08.091939][debug] 31(1), 
+[08:31:08.091939][debug] 
+[08:31:08.091939][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1092100410
+	- # unstable poses : 7 / 30
+[08:31:08.091939][debug] Find next best views took: 7 msec
+	# images : 1
+	- scores: from 754 to 754 (threshold was 396)
+	- features: from 647 to 647 (threshold was 30)
+[08:31:08.091939][info] Update Reconstruction:
+	- resection id: 5
+	- # images in the resection group: 1
+	- # images remaining: 39
+[08:31:08.092936][info] [8/46] Robust Resection of view: 1092100410
+[08:31:08.431033][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 12.6627
+	- # points used for resection: 647
+	- # points validated by robust resection: 422
+[08:31:08.432032][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:08.443998][debug] Resection of image 0 ( view id: 1092100410 ) succeed.
+[08:31:08.443998][debug] Resection of 1 new images took 352 msec.
+[08:31:08.443998][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:08.575646][debug] Triangulation of the 1 newly reconstructed views took 131 msec.
+[08:31:08.575646][info] Bundle adjustment start.
+[08:31:08.575646][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:08.575646][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:08.575646][debug] Updating the distances graph with newly resected views...
+[08:31:08.577640][debug] The distances graph has been completed with 1 nodes & 7 edges.
+[08:31:08.577640][debug] It contains 8 nodes & 29 edges
+[08:31:08.577640][info] Start bundle adjustment iteration: 0
+[08:31:09.063793][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.454041 s
+	- poses:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  6171
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  27
+	- # residual blocks: 12342
+	- # successful iterations: 16
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.12544
+	- final   RMSE: 0.790288
+[08:31:09.070774][info] Remove outliers: 
+	- # outliers residual error: 142
+	- # outliers angular error: 11
+[08:31:09.071770][info] Bundle adjustment iteration: 0 took 494 msec.
+[08:31:09.071770][info] Start bundle adjustment iteration: 1
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W0611 08:31:10.422580 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+[08:31:10.445516][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.33473 s
+	- poses:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  5990
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  27
+	- # residual blocks: 11980
+	- # successful iterations: 49
+	- # unsuccessful iterations: 1
+	- initial RMSE: 0.692899
+	- final   RMSE: 0.657335
+[08:31:10.453496][info] Remove outliers: 
+	- # outliers residual error: 27
+	- # outliers angular error: 110
+[08:31:10.453496][info] Bundle adjustment iteration: 1 took 1382 msec.
+[08:31:10.454495][info] Start bundle adjustment iteration: 2
+W0611 08:31:11.036449 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W0611 08:31:11.064373 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W0611 08:31:11.096287 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W0611 08:31:11.191035 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W0611 08:31:11.218961 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+[08:31:11.243894][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.755398 s
+	- poses:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  5741
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  27
+	- # residual blocks: 11482
+	- # successful iterations: 32
+	- # unsuccessful iterations: 5
+	- initial RMSE: 0.644736
+	- final   RMSE: 0.63821
+[08:31:11.249878][info] Remove outliers: 
+	- # outliers residual error: 9
+	- # outliers angular error: 1
+[08:31:11.250875][info] Bundle adjustment iteration: 2 took 796 msec.
+[08:31:11.250875][info] Bundle adjustment with 3 iterations took 2675 msec.
+[08:31:11.254867][debug] findNextBestViews -- Scores (features): 
+[08:31:11.255861][debug] 724(559), 
+[08:31:11.255861][debug] 712(566), 
+[08:31:11.255861][debug] 700(517), 
+[08:31:11.255861][debug] 693(448), 
+[08:31:11.255861][debug] 650(273), 
+[08:31:11.255861][debug] 650(578), 
+[08:31:11.255861][debug] 646(262), 
+[08:31:11.255861][debug] 583(226), 
+[08:31:11.255861][debug] 577(247), 
+[08:31:11.255861][debug] 576(367), 
+[08:31:11.255861][debug] 565(232), 
+[08:31:11.255861][debug] 517(516), 
+[08:31:11.255861][debug] 510(352), 
+[08:31:11.255861][debug] 478(133), 
+[08:31:11.255861][debug] 465(173), 
+[08:31:11.255861][debug] 349(346), 
+[08:31:11.255861][debug] 344(144), 
+[08:31:11.255861][debug] 332(102), 
+[08:31:11.255861][debug] 266(71), 
+[08:31:11.255861][debug] 262(85), 
+[08:31:11.255861][debug] 191(84), 
+[08:31:11.255861][debug] 139(13), 
+[08:31:11.255861][debug] 104(11), 
+[08:31:11.255861][debug] 69(6), 
+[08:31:11.255861][debug] 49(3), 
+[08:31:11.256859][debug] 38(2), 
+[08:31:11.256859][debug] 31(1), 
+[08:31:11.256859][debug] 31(1), 
+[08:31:11.256859][debug] 31(2), 
+[08:31:11.256859][debug] 0(0), 
+[08:31:11.256859][debug] 
+[08:31:11.256859][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 891076793
+	- # unstable poses : 8 / 30
+[08:31:11.256859][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 724 to 724 (threshold was 396)
+	- features: from 559 to 559 (threshold was 30)
+[08:31:11.256859][info] Update Reconstruction:
+	- resection id: 6
+	- # images in the resection group: 1
+	- # images remaining: 38
+[08:31:11.258854][info] [9/46] Robust Resection of view: 891076793
+[08:31:11.560587][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 11.8236
+	- # points used for resection: 559
+	- # points validated by robust resection: 338
+[08:31:11.561584][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:11.568566][debug] Resection of image 0 ( view id: 891076793 ) succeed.
+[08:31:11.568566][debug] Resection of 1 new images took 311 msec.
+[08:31:11.568566][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:11.696868][debug] Triangulation of the 1 newly reconstructed views took 127 msec.
+[08:31:11.696868][info] Bundle adjustment start.
+[08:31:11.696868][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:11.696868][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:11.696868][debug] Updating the distances graph with newly resected views...
+[08:31:11.698862][debug] The distances graph has been completed with 1 nodes & 9 edges.
+[08:31:11.698862][debug] It contains 9 nodes & 38 edges
+[08:31:11.698862][info] Start bundle adjustment iteration: 0
+W0611 08:31:13.295114 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W0611 08:31:13.331019 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W0611 08:31:13.338001 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+[08:31:13.369916][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.63041 s
+	- poses:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  7806
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  27
+	- # residual blocks: 15612
+	- # successful iterations: 46
+	- # unsuccessful iterations: 3
+	- initial RMSE: 1.38925
+	- final   RMSE: 0.896671
+[08:31:13.379889][info] Remove outliers: 
+	- # outliers residual error: 268
+	- # outliers angular error: 60
+[08:31:13.380886][info] Bundle adjustment iteration: 0 took 1682 msec.
+[08:31:13.380886][info] Start bundle adjustment iteration: 1
+[08:31:13.978546][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.552724 s
+	- poses:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  7381
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  27
+	- # residual blocks: 14762
+	- # successful iterations: 16
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.757741
+	- final   RMSE: 0.708652
+[08:31:13.988518][info] Remove outliers: 
+	- # outliers residual error: 42
+	- # outliers angular error: 52
+[08:31:13.989515][info] Bundle adjustment iteration: 1 took 608 msec.
+[08:31:13.989515][info] Start bundle adjustment iteration: 2
+[08:31:14.452802][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.414191 s
+	- poses:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  7218
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  27
+	- # residual blocks: 14436
+	- # successful iterations: 12
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.688465
+	- final   RMSE: 0.677114
+[08:31:14.460780][info] Remove outliers: 
+	- # outliers residual error: 13
+	- # outliers angular error: 165
+[08:31:14.461776][info] Bundle adjustment iteration: 2 took 471 msec.
+[08:31:14.461776][info] Start bundle adjustment iteration: 3
+[08:31:14.701138][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.202482 s
+	- poses:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  6830
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  8
+	    - # constant: 0
+	    - # ignored:  27
+	- # residual blocks: 13660
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.677815
+	- final   RMSE: 0.675467
+[08:31:14.709116][info] Remove outliers: 
+	- # outliers residual error: 2
+	- # outliers angular error: 6
+[08:31:14.710113][info] Bundle adjustment iteration: 3 took 248 msec.
+[08:31:14.710113][info] Bundle adjustment with 4 iterations took 3013 msec.
+[08:31:14.788903][debug] Save of file sfm_00000006 took 78 msec.
+[08:31:14.793888][debug] findNextBestViews -- Scores (features): 
+[08:31:14.793888][debug] 733(610), 
+[08:31:14.793888][debug] 731(523), 
+[08:31:14.793888][debug] 684(484), 
+[08:31:14.793888][debug] 652(610), 
+[08:31:14.793888][debug] 650(259), 
+[08:31:14.793888][debug] 641(277), 
+[08:31:14.793888][debug] 616(254), 
+[08:31:14.793888][debug] 609(268), 
+[08:31:14.793888][debug] 594(245), 
+[08:31:14.793888][debug] 583(385), 
+[08:31:14.793888][debug] 539(563), 
+[08:31:14.793888][debug] 519(375), 
+[08:31:14.793888][debug] 490(140), 
+[08:31:14.793888][debug] 488(200), 
+[08:31:14.793888][debug] 350(116), 
+[08:31:14.793888][debug] 349(166), 
+[08:31:14.793888][debug] 344(378), 
+[08:31:14.793888][debug] 275(96), 
+[08:31:14.793888][debug] 267(79), 
+[08:31:14.793888][debug] 234(92), 
+[08:31:14.793888][debug] 131(17), 
+[08:31:14.793888][debug] 110(11), 
+[08:31:14.793888][debug] 71(6), 
+[08:31:14.793888][debug] 62(2), 
+[08:31:14.793888][debug] 53(3), 
+[08:31:14.793888][debug] 49(3), 
+[08:31:14.794887][debug] 31(3), 
+[08:31:14.794887][debug] 31(1), 
+[08:31:14.794887][debug] 31(2), 
+[08:31:14.794887][debug] 0(0), 
+[08:31:14.794887][debug] 
+[08:31:14.794887][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 501080556
+	- # unstable poses : 9 / 30
+[08:31:14.794887][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 733 to 733 (threshold was 396)
+	- features: from 610 to 610 (threshold was 30)
+[08:31:14.794887][info] Update Reconstruction:
+	- resection id: 7
+	- # images in the resection group: 1
+	- # images remaining: 37
+[08:31:14.796881][info] [10/46] Robust Resection of view: 501080556
+[08:31:15.093088][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 22.9301
+	- # points used for resection: 610
+	- # points validated by robust resection: 393
+[08:31:15.093088][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:15.107053][debug] Resection of image 0 ( view id: 501080556 ) succeed.
+[08:31:15.107053][debug] Resection of 1 new images took 312 msec.
+[08:31:15.107053][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:15.266630][debug] Triangulation of the 1 newly reconstructed views took 159 msec.
+[08:31:15.266630][info] Bundle adjustment start.
+[08:31:15.266630][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:15.266630][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:15.266630][debug] Updating the distances graph with newly resected views...
+[08:31:15.268619][debug] The distances graph has been completed with 1 nodes & 9 edges.
+[08:31:15.268619][debug] It contains 10 nodes & 47 edges
+[08:31:15.268619][info] Start bundle adjustment iteration: 0
+[08:31:16.089349][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.777251 s
+	- poses:
+	    - # refined:  10
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  8047
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  26
+	- # residual blocks: 16094
+	- # successful iterations: 19
+	- # unsuccessful iterations: 2
+	- initial RMSE: 1.19922
+	- final   RMSE: 0.870007
+[08:31:16.100319][info] Remove outliers: 
+	- # outliers residual error: 199
+	- # outliers angular error: 7
+[08:31:16.101311][info] Bundle adjustment iteration: 0 took 832 msec.
+[08:31:16.101311][info] Start bundle adjustment iteration: 1
+[08:31:17.310435][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.15841 s
+	- poses:
+	    - # refined:  10
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  7820
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  9
+	    - # constant: 0
+	    - # ignored:  26
+	- # residual blocks: 15640
+	- # successful iterations: 32
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.75587
+	- final   RMSE: 0.725807
+[08:31:17.319411][info] Remove outliers: 
+	- # outliers residual error: 26
+	- # outliers angular error: 1
+[08:31:17.320411][info] Bundle adjustment iteration: 1 took 1219 msec.
+[08:31:17.320411][info] Bundle adjustment with 2 iterations took 2053 msec.
+[08:31:17.327389][debug] findNextBestViews -- Scores (features): 
+[08:31:17.327389][debug] 732(557), 
+[08:31:17.327389][debug] 685(510), 
+[08:31:17.327389][debug] 654(291), 
+[08:31:17.327389][debug] 651(624), 
+[08:31:17.327389][debug] 639(271), 
+[08:31:17.327389][debug] 621(264), 
+[08:31:17.327389][debug] 613(282), 
+[08:31:17.327389][debug] 589(265), 
+[08:31:17.327389][debug] 580(398), 
+[08:31:17.328387][debug] 545(588), 
+[08:31:17.328387][debug] 524(413), 
+[08:31:17.328387][debug] 498(209), 
+[08:31:17.328387][debug] 494(146), 
+[08:31:17.328387][debug] 363(122), 
+[08:31:17.328387][debug] 351(174), 
+[08:31:17.328387][debug] 335(425), 
+[08:31:17.328387][debug] 291(104), 
+[08:31:17.328387][debug] 275(80), 
+[08:31:17.328387][debug] 237(98), 
+[08:31:17.329385][debug] 134(18), 
+[08:31:17.329385][debug] 113(12), 
+[08:31:17.329385][debug] 112(9), 
+[08:31:17.329385][debug] 62(2), 
+[08:31:17.329385][debug] 53(3), 
+[08:31:17.329385][debug] 49(3), 
+[08:31:17.329385][debug] 31(3), 
+[08:31:17.329385][debug] 31(2), 
+[08:31:17.329385][debug] 31(1), 
+[08:31:17.329385][debug] 0(0), 
+[08:31:17.329385][debug] 0(0), 
+[08:31:17.329385][debug] 
+[08:31:17.329385][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1755570640
+	- # unstable poses : 10 / 30
+[08:31:17.329385][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 732 to 732 (threshold was 396)
+	- features: from 557 to 557 (threshold was 30)
+[08:31:17.329385][info] Update Reconstruction:
+	- resection id: 8
+	- # images in the resection group: 1
+	- # images remaining: 36
+[08:31:17.331378][info] [11/46] Robust Resection of view: 1755570640
+[08:31:17.597314][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 18.308
+	- # points used for resection: 557
+	- # points validated by robust resection: 375
+[08:31:17.597314][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:17.606289][debug] Resection of image 0 ( view id: 1755570640 ) succeed.
+[08:31:17.606289][debug] Resection of 1 new images took 276 msec.
+[08:31:17.606289][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:17.788318][debug] Triangulation of the 1 newly reconstructed views took 182 msec.
+[08:31:17.788318][info] Bundle adjustment start.
+[08:31:17.789315][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:17.789315][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:17.789315][debug] Updating the distances graph with newly resected views...
+[08:31:17.790312][debug] The distances graph has been completed with 1 nodes & 10 edges.
+[08:31:17.790312][debug] It contains 11 nodes & 57 edges
+[08:31:17.790312][info] Start bundle adjustment iteration: 0
+[08:31:18.687332][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.856462 s
+	- poses:
+	    - # refined:  11
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  8781
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  10
+	    - # constant: 0
+	    - # ignored:  25
+	- # residual blocks: 17562
+	- # successful iterations: 24
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.04163
+	- final   RMSE: 0.833806
+[08:31:18.695305][info] Remove outliers: 
+	- # outliers residual error: 195
+	- # outliers angular error: 6
+[08:31:18.696302][info] Bundle adjustment iteration: 0 took 906 msec.
+[08:31:18.696302][info] Start bundle adjustment iteration: 1
+[08:31:19.460791][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.713373 s
+	- poses:
+	    - # refined:  11
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  8556
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  10
+	    - # constant: 0
+	    - # ignored:  25
+	- # residual blocks: 17112
+	- # successful iterations: 20
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.739006
+	- final   RMSE: 0.717088
+[08:31:19.469767][info] Remove outliers: 
+	- # outliers residual error: 15
+	- # outliers angular error: 2
+[08:31:19.470765][info] Bundle adjustment iteration: 1 took 774 msec.
+[08:31:19.470765][info] Bundle adjustment with 2 iterations took 1682 msec.
+[08:31:19.477745][debug] findNextBestViews -- Scores (features): 
+[08:31:19.477745][debug] 686(529), 
+[08:31:19.477745][debug] 664(284), 
+[08:31:19.477745][debug] 656(304), 
+[08:31:19.477745][debug] 647(637), 
+[08:31:19.477745][debug] 620(264), 
+[08:31:19.477745][debug] 618(298), 
+[08:31:19.477745][debug] 610(274), 
+[08:31:19.477745][debug] 588(414), 
+[08:31:19.477745][debug] 543(610), 
+[08:31:19.477745][debug] 525(428), 
+[08:31:19.477745][debug] 516(217), 
+[08:31:19.477745][debug] 499(153), 
+[08:31:19.477745][debug] 376(132), 
+[08:31:19.477745][debug] 353(180), 
+[08:31:19.478743][debug] 347(440), 
+[08:31:19.478743][debug] 293(108), 
+[08:31:19.478743][debug] 277(83), 
+[08:31:19.478743][debug] 237(99), 
+[08:31:19.478743][debug] 113(17), 
+[08:31:19.478743][debug] 110(10), 
+[08:31:19.478743][debug] 75(8), 
+[08:31:19.478743][debug] 62(2), 
+[08:31:19.478743][debug] 53(3), 
+[08:31:19.478743][debug] 49(3), 
+[08:31:19.478743][debug] 31(3), 
+[08:31:19.478743][debug] 31(2), 
+[08:31:19.478743][debug] 31(1), 
+[08:31:19.478743][debug] 0(0), 
+[08:31:19.478743][debug] 0(0), 
+[08:31:19.478743][debug] 0(0), 
+[08:31:19.478743][debug] 
+[08:31:19.478743][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1325426344
+	- # unstable poses : 11 / 30
+[08:31:19.478743][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 686 to 686 (threshold was 396)
+	- features: from 529 to 529 (threshold was 30)
+[08:31:19.478743][info] Update Reconstruction:
+	- resection id: 9
+	- # images in the resection group: 1
+	- # images remaining: 35
+[08:31:19.480737][info] [12/46] Robust Resection of view: 1325426344
+[08:31:19.728004][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 20.0847
+	- # points used for resection: 529
+	- # points validated by robust resection: 284
+[08:31:19.728004][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:19.736977][debug] Resection of image 0 ( view id: 1325426344 ) succeed.
+[08:31:19.737975][debug] Resection of 1 new images took 258 msec.
+[08:31:19.737975][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:19.887577][debug] Triangulation of the 1 newly reconstructed views took 149 msec.
+[08:31:19.887577][info] Bundle adjustment start.
+[08:31:19.887577][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:19.887577][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:19.887577][debug] Updating the distances graph with newly resected views...
+[08:31:19.890567][debug] The distances graph has been completed with 1 nodes & 11 edges.
+[08:31:19.890567][debug] It contains 12 nodes & 68 edges
+[08:31:19.890567][info] Start bundle adjustment iteration: 0
+[08:31:20.248185][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.300286 s
+	- poses:
+	    - # refined:  12
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  9514
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  11
+	    - # constant: 0
+	    - # ignored:  24
+	- # residual blocks: 19028
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.10724
+	- final   RMSE: 0.870822
+[08:31:20.257162][info] Remove outliers: 
+	- # outliers residual error: 256
+	- # outliers angular error: 8
+[08:31:20.258158][info] Bundle adjustment iteration: 0 took 367 msec.
+[08:31:20.258158][info] Start bundle adjustment iteration: 1
+[08:31:20.606251][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.296756 s
+	- poses:
+	    - # refined:  12
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  9218
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  11
+	    - # constant: 0
+	    - # ignored:  24
+	- # residual blocks: 18436
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.754094
+	- final   RMSE: 0.729064
+[08:31:20.614228][info] Remove outliers: 
+	- # outliers residual error: 29
+	- # outliers angular error: 1
+[08:31:20.615227][info] Bundle adjustment iteration: 1 took 357 msec.
+[08:31:20.615227][info] Bundle adjustment with 2 iterations took 727 msec.
+[08:31:20.712965][debug] Save of file sfm_00000009 took 94 msec.
+[08:31:20.716956][debug] findNextBestViews -- Scores (features): 
+[08:31:20.716956][debug] 680(300), 
+[08:31:20.716956][debug] 669(317), 
+[08:31:20.717953][debug] 660(654), 
+[08:31:20.717953][debug] 632(292), 
+[08:31:20.717953][debug] 631(292), 
+[08:31:20.717953][debug] 627(315), 
+[08:31:20.717953][debug] 579(439), 
+[08:31:20.717953][debug] 537(631), 
+[08:31:20.717953][debug] 525(434), 
+[08:31:20.717953][debug] 520(218), 
+[08:31:20.717953][debug] 511(159), 
+[08:31:20.717953][debug] 385(196), 
+[08:31:20.717953][debug] 384(145), 
+[08:31:20.717953][debug] 348(455), 
+[08:31:20.717953][debug] 296(114), 
+[08:31:20.717953][debug] 282(92), 
+[08:31:20.717953][debug] 238(107), 
+[08:31:20.717953][debug] 122(20), 
+[08:31:20.717953][debug] 107(11), 
+[08:31:20.717953][debug] 100(7), 
+[08:31:20.717953][debug] 62(2), 
+[08:31:20.717953][debug] 49(3), 
+[08:31:20.717953][debug] 46(2), 
+[08:31:20.717953][debug] 31(2), 
+[08:31:20.717953][debug] 31(3), 
+[08:31:20.717953][debug] 0(0), 
+[08:31:20.717953][debug] 0(0), 
+[08:31:20.717953][debug] 0(0), 
+[08:31:20.717953][debug] 0(0), 
+[08:31:20.717953][debug] 
+[08:31:20.717953][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 331561682
+	- # unstable poses : 12 / 30
+[08:31:20.717953][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 680 to 680 (threshold was 396)
+	- features: from 300 to 300 (threshold was 30)
+[08:31:20.717953][info] Update Reconstruction:
+	- resection id: 10
+	- # images in the resection group: 1
+	- # images remaining: 34
+[08:31:20.719948][info] [13/46] Robust Resection of view: 331561682
+[08:31:20.871542][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 11.0498
+	- # points used for resection: 300
+	- # points validated by robust resection: 173
+[08:31:20.871542][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:20.882512][debug] Resection of image 0 ( view id: 331561682 ) succeed.
+[08:31:20.882512][debug] Resection of 1 new images took 163 msec.
+[08:31:20.882512][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:20.974266][debug] Triangulation of the 1 newly reconstructed views took 92 msec.
+[08:31:20.974266][info] Bundle adjustment start.
+[08:31:20.974266][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:20.974266][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:20.974266][debug] Updating the distances graph with newly resected views...
+[08:31:20.976261][debug] The distances graph has been completed with 1 nodes & 12 edges.
+[08:31:20.976261][debug] It contains 13 nodes & 80 edges
+[08:31:20.976261][info] Start bundle adjustment iteration: 0
+[08:31:21.725774][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.695479 s
+	- poses:
+	    - # refined:  13
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  9884
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  12
+	    - # constant: 0
+	    - # ignored:  23
+	- # residual blocks: 19768
+	- # successful iterations: 19
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.999709
+	- final   RMSE: 0.795615
+[08:31:21.734751][info] Remove outliers: 
+	- # outliers residual error: 128
+	- # outliers angular error: 2
+[08:31:21.735749][info] Bundle adjustment iteration: 0 took 759 msec.
+[08:31:21.736746][info] Start bundle adjustment iteration: 1
+[08:31:22.112296][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.319012 s
+	- poses:
+	    - # refined:  13
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  9739
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  12
+	    - # constant: 0
+	    - # ignored:  23
+	- # residual blocks: 19478
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.739327
+	- final   RMSE: 0.728112
+[08:31:22.121272][info] Remove outliers: 
+	- # outliers residual error: 8
+	- # outliers angular error: 2
+[08:31:22.123265][info] Bundle adjustment iteration: 1 took 386 msec.
+[08:31:22.123265][info] Bundle adjustment with 2 iterations took 1148 msec.
+[08:31:22.128252][debug] findNextBestViews -- Scores (features): 
+[08:31:22.128252][debug] 688(347), 
+[08:31:22.128252][debug] 661(668), 
+[08:31:22.128252][debug] 638(312), 
+[08:31:22.128252][debug] 633(297), 
+[08:31:22.128252][debug] 627(318), 
+[08:31:22.128252][debug] 582(451), 
+[08:31:22.128252][debug] 538(652), 
+[08:31:22.128252][debug] 531(452), 
+[08:31:22.128252][debug] 527(223), 
+[08:31:22.129250][debug] 520(175), 
+[08:31:22.129250][debug] 387(150), 
+[08:31:22.129250][debug] 385(199), 
+[08:31:22.129250][debug] 352(473), 
+[08:31:22.129250][debug] 296(117), 
+[08:31:22.129250][debug] 280(91), 
+[08:31:22.129250][debug] 238(107), 
+[08:31:22.129250][debug] 122(20), 
+[08:31:22.129250][debug] 107(8), 
+[08:31:22.129250][debug] 107(11), 
+[08:31:22.129250][debug] 69(6), 
+[08:31:22.129250][debug] 62(2), 
+[08:31:22.129250][debug] 53(3), 
+[08:31:22.129250][debug] 49(3), 
+[08:31:22.129250][debug] 31(2), 
+[08:31:22.129250][debug] 0(0), 
+[08:31:22.129250][debug] 0(0), 
+[08:31:22.129250][debug] 0(0), 
+[08:31:22.129250][debug] 0(0), 
+[08:31:22.129250][debug] 
+[08:31:22.129250][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 584834279
+	- # unstable poses : 13 / 30
+[08:31:22.129250][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 688 to 688 (threshold was 396)
+	- features: from 347 to 347 (threshold was 30)
+[08:31:22.129250][info] Update Reconstruction:
+	- resection id: 11
+	- # images in the resection group: 1
+	- # images remaining: 33
+[08:31:22.131245][info] [14/46] Robust Resection of view: 584834279
+[08:31:22.322732][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 8.94649
+	- # points used for resection: 347
+	- # points validated by robust resection: 188
+[08:31:22.323729][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:22.334703][debug] Resection of image 0 ( view id: 584834279 ) succeed.
+[08:31:22.335698][debug] Resection of 1 new images took 205 msec.
+[08:31:22.335698][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:22.538158][debug] Triangulation of the 1 newly reconstructed views took 203 msec.
+[08:31:22.538158][info] Bundle adjustment start.
+[08:31:22.538158][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:22.539155][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:22.539155][debug] Updating the distances graph with newly resected views...
+[08:31:22.542145][debug] The distances graph has been completed with 1 nodes & 13 edges.
+[08:31:22.542145][debug] It contains 14 nodes & 93 edges
+[08:31:22.542145][info] Start bundle adjustment iteration: 0
+[08:31:23.026125][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.427777 s
+	- poses:
+	    - # refined:  14
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  10505
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  13
+	    - # constant: 0
+	    - # ignored:  22
+	- # residual blocks: 21010
+	- # successful iterations: 10
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.917699
+	- final   RMSE: 0.792726
+[08:31:23.040088][info] Remove outliers: 
+	- # outliers residual error: 132
+	- # outliers angular error: 5
+[08:31:23.041085][info] Bundle adjustment iteration: 0 took 499 msec.
+[08:31:23.041085][info] Start bundle adjustment iteration: 1
+[08:31:23.428882][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.324228 s
+	- poses:
+	    - # refined:  14
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  10342
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  13
+	    - # constant: 0
+	    - # ignored:  22
+	- # residual blocks: 20684
+	- # successful iterations: 5
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.739985
+	- final   RMSE: 0.727119
+[08:31:23.441847][info] Remove outliers: 
+	- # outliers residual error: 13
+	- # outliers angular error: 7
+[08:31:23.442845][info] Bundle adjustment iteration: 1 took 401 msec.
+[08:31:23.442845][info] Bundle adjustment with 2 iterations took 904 msec.
+[08:31:23.448827][debug] findNextBestViews -- Scores (features): 
+[08:31:23.448827][debug] 661(673), 
+[08:31:23.448827][debug] 649(332), 
+[08:31:23.448827][debug] 633(300), 
+[08:31:23.448827][debug] 628(321), 
+[08:31:23.449828][debug] 583(454), 
+[08:31:23.449828][debug] 539(660), 
+[08:31:23.449828][debug] 533(456), 
+[08:31:23.449828][debug] 530(226), 
+[08:31:23.449828][debug] 530(185), 
+[08:31:23.449828][debug] 387(150), 
+[08:31:23.449828][debug] 385(200), 
+[08:31:23.449828][debug] 352(478), 
+[08:31:23.449828][debug] 296(120), 
+[08:31:23.449828][debug] 281(94), 
+[08:31:23.449828][debug] 238(107), 
+[08:31:23.449828][debug] 122(19), 
+[08:31:23.449828][debug] 107(8), 
+[08:31:23.449828][debug] 107(11), 
+[08:31:23.449828][debug] 69(5), 
+[08:31:23.449828][debug] 53(3), 
+[08:31:23.449828][debug] 49(3), 
+[08:31:23.449828][debug] 31(1), 
+[08:31:23.449828][debug] 31(1), 
+[08:31:23.449828][debug] 0(0), 
+[08:31:23.449828][debug] 0(0), 
+[08:31:23.449828][debug] 0(0), 
+[08:31:23.450823][debug] 0(0), 
+[08:31:23.450823][debug] 
+[08:31:23.450823][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 417818550
+	- # unstable poses : 14 / 30
+[08:31:23.450823][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 661 to 661 (threshold was 396)
+	- features: from 673 to 673 (threshold was 30)
+[08:31:23.450823][info] Update Reconstruction:
+	- resection id: 12
+	- # images in the resection group: 1
+	- # images remaining: 32
+[08:31:23.452818][info] [15/46] Robust Resection of view: 417818550
+[08:31:23.818352][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 11.2184
+	- # points used for resection: 673
+	- # points validated by robust resection: 442
+[08:31:23.819350][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:23.833345][debug] Resection of image 0 ( view id: 417818550 ) succeed.
+[08:31:23.833345][debug] Resection of 1 new images took 382 msec.
+[08:31:23.833345][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:24.154559][debug] Triangulation of the 1 newly reconstructed views took 320 msec.
+[08:31:24.154559][info] Bundle adjustment start.
+[08:31:24.154559][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:24.154559][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:24.154559][debug] Updating the distances graph with newly resected views...
+[08:31:24.156552][debug] The distances graph has been completed with 1 nodes & 14 edges.
+[08:31:24.157550][debug] It contains 15 nodes & 107 edges
+[08:31:24.157550][info] Start bundle adjustment iteration: 0
+[08:31:24.705708][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.477208 s
+	- poses:
+	    - # refined:  15
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  12527
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  14
+	    - # constant: 0
+	    - # ignored:  21
+	- # residual blocks: 25054
+	- # successful iterations: 9
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.11151
+	- final   RMSE: 0.84677
+[08:31:24.720666][info] Remove outliers: 
+	- # outliers residual error: 275
+	- # outliers angular error: 20
+[08:31:24.721663][info] Bundle adjustment iteration: 0 took 564 msec.
+[08:31:24.722662][info] Start bundle adjustment iteration: 1
+[08:31:25.524557][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.727691 s
+	- poses:
+	    - # refined:  15
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  12190
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  14
+	    - # constant: 0
+	    - # ignored:  21
+	- # residual blocks: 24380
+	- # successful iterations: 11
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.766628
+	- final   RMSE: 0.747196
+[08:31:25.537521][info] Remove outliers: 
+	- # outliers residual error: 23
+	- # outliers angular error: 3
+[08:31:25.539515][info] Bundle adjustment iteration: 1 took 817 msec.
+[08:31:25.539515][info] Bundle adjustment with 2 iterations took 1385 msec.
+[08:31:25.613868][debug] Save of file sfm_00000012 took 72 msec.
+[08:31:25.624838][debug] findNextBestViews -- Scores (features): 
+[08:31:25.624838][debug] 659(342), 
+[08:31:25.624838][debug] 651(342), 
+[08:31:25.624838][debug] 636(326), 
+[08:31:25.624838][debug] 608(501), 
+[08:31:25.624838][debug] 553(708), 
+[08:31:25.624838][debug] 543(193), 
+[08:31:25.624838][debug] 541(476), 
+[08:31:25.624838][debug] 534(233), 
+[08:31:25.624838][debug] 395(209), 
+[08:31:25.624838][debug] 391(155), 
+[08:31:25.624838][debug] 354(498), 
+[08:31:25.624838][debug] 296(122), 
+[08:31:25.624838][debug] 285(97), 
+[08:31:25.624838][debug] 240(113), 
+[08:31:25.624838][debug] 137(20), 
+[08:31:25.624838][debug] 122(12), 
+[08:31:25.624838][debug] 107(8), 
+[08:31:25.624838][debug] 69(5), 
+[08:31:25.624838][debug] 60(4), 
+[08:31:25.625835][debug] 49(3), 
+[08:31:25.625835][debug] 31(1), 
+[08:31:25.625835][debug] 31(1), 
+[08:31:25.625835][debug] 0(0), 
+[08:31:25.625835][debug] 0(0), 
+[08:31:25.625835][debug] 0(0), 
+[08:31:25.625835][debug] 0(0), 
+[08:31:25.625835][debug] 
+[08:31:25.625835][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1400837643
+	- # unstable poses : 15 / 30
+[08:31:25.625835][debug] Find next best views took: 11 msec
+	# images : 1
+	- scores: from 659 to 659 (threshold was 396)
+	- features: from 342 to 342 (threshold was 30)
+[08:31:25.625835][info] Update Reconstruction:
+	- resection id: 13
+	- # images in the resection group: 1
+	- # images remaining: 31
+[08:31:25.627830][info] [16/46] Robust Resection of view: 1400837643
+[08:31:25.823307][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 9.11903
+	- # points used for resection: 342
+	- # points validated by robust resection: 182
+[08:31:25.823307][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:25.830291][debug] Resection of image 0 ( view id: 1400837643 ) succeed.
+[08:31:25.830291][debug] Resection of 1 new images took 204 msec.
+[08:31:25.830291][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:26.028759][debug] Triangulation of the 1 newly reconstructed views took 198 msec.
+[08:31:26.028759][info] Bundle adjustment start.
+[08:31:26.028759][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:26.028759][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:26.028759][debug] Updating the distances graph with newly resected views...
+[08:31:26.031757][debug] The distances graph has been completed with 1 nodes & 15 edges.
+[08:31:26.031757][debug] It contains 16 nodes & 122 edges
+[08:31:26.031757][info] Start bundle adjustment iteration: 0
+[08:31:26.612199][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.50763 s
+	- poses:
+	    - # refined:  16
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  13154
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  15
+	    - # constant: 0
+	    - # ignored:  20
+	- # residual blocks: 26308
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.962208
+	- final   RMSE: 0.807047
+[08:31:26.631147][info] Remove outliers: 
+	- # outliers residual error: 163
+	- # outliers angular error: 1
+[08:31:26.633142][info] Bundle adjustment iteration: 0 took 600 msec.
+[08:31:26.633142][info] Start bundle adjustment iteration: 1
+W0611 08:31:27.325472 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+[08:31:27.385314][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.66215 s
+	- poses:
+	    - # refined:  16
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  12976
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  15
+	    - # constant: 0
+	    - # ignored:  20
+	- # residual blocks: 25952
+	- # successful iterations: 10
+	- # unsuccessful iterations: 1
+	- initial RMSE: 0.756484
+	- final   RMSE: 0.745263
+[08:31:27.402269][info] Remove outliers: 
+	- # outliers residual error: 15
+	- # outliers angular error: 0
+[08:31:27.404261][info] Bundle adjustment iteration: 1 took 771 msec.
+[08:31:27.404261][info] Bundle adjustment with 2 iterations took 1375 msec.
+[08:31:27.412241][debug] findNextBestViews -- Scores (features): 
+[08:31:27.412241][debug] 663(359), 
+[08:31:27.412241][debug] 646(342), 
+[08:31:27.412241][debug] 610(514), 
+[08:31:27.412241][debug] 587(222), 
+[08:31:27.412241][debug] 553(724), 
+[08:31:27.412241][debug] 541(484), 
+[08:31:27.412241][debug] 537(249), 
+[08:31:27.412241][debug] 412(220), 
+[08:31:27.412241][debug] 391(160), 
+[08:31:27.412241][debug] 355(507), 
+[08:31:27.412241][debug] 297(123), 
+[08:31:27.412241][debug] 286(99), 
+[08:31:27.413238][debug] 242(115), 
+[08:31:27.413238][debug] 140(14), 
+[08:31:27.413238][debug] 137(21), 
+[08:31:27.413238][debug] 107(8), 
+[08:31:27.413238][debug] 69(6), 
+[08:31:27.413238][debug] 62(2), 
+[08:31:27.413238][debug] 60(4), 
+[08:31:27.413238][debug] 49(3), 
+[08:31:27.413238][debug] 31(2), 
+[08:31:27.413238][debug] 0(0), 
+[08:31:27.413238][debug] 0(0), 
+[08:31:27.413238][debug] 0(0), 
+[08:31:27.413238][debug] 0(0), 
+[08:31:27.413238][debug] 
+[08:31:27.413238][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 154992048
+	- # unstable poses : 16 / 30
+[08:31:27.413238][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 663 to 663 (threshold was 396)
+	- features: from 359 to 359 (threshold was 30)
+[08:31:27.413238][info] Update Reconstruction:
+	- resection id: 14
+	- # images in the resection group: 1
+	- # images remaining: 30
+[08:31:27.416231][info] [17/46] Robust Resection of view: 154992048
+[08:31:27.611218][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 11.9077
+	- # points used for resection: 359
+	- # points validated by robust resection: 169
+[08:31:27.611218][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:27.621195][debug] Resection of image 0 ( view id: 154992048 ) succeed.
+[08:31:27.621195][debug] Resection of 1 new images took 207 msec.
+[08:31:27.621195][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:27.785101][debug] Triangulation of the 1 newly reconstructed views took 164 msec.
+[08:31:27.785101][info] Bundle adjustment start.
+[08:31:27.786098][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:27.786098][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:27.786098][debug] Updating the distances graph with newly resected views...
+[08:31:27.789153][debug] The distances graph has been completed with 1 nodes & 16 edges.
+[08:31:27.789153][debug] It contains 17 nodes & 138 edges
+[08:31:27.789153][info] Start bundle adjustment iteration: 0
+W0611 08:31:28.384605 28200 levenberg_marquardt_strategy.cc:115] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+[08:31:29.322123][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.45521 s
+	- poses:
+	    - # refined:  17
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  13622
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  16
+	    - # constant: 0
+	    - # ignored:  19
+	- # residual blocks: 27244
+	- # successful iterations: 23
+	- # unsuccessful iterations: 1
+	- initial RMSE: 0.91238
+	- final   RMSE: 0.821209
+[08:31:29.335090][info] Remove outliers: 
+	- # outliers residual error: 239
+	- # outliers angular error: 7
+[08:31:29.337083][info] Bundle adjustment iteration: 0 took 1547 msec.
+[08:31:29.337083][info] Start bundle adjustment iteration: 1
+[08:31:29.758316][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.346822 s
+	- poses:
+	    - # refined:  17
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  13355
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  16
+	    - # constant: 0
+	    - # ignored:  19
+	- # residual blocks: 26710
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.755861
+	- final   RMSE: 0.743669
+[08:31:29.770282][info] Remove outliers: 
+	- # outliers residual error: 20
+	- # outliers angular error: 1
+[08:31:29.771279][info] Bundle adjustment iteration: 1 took 434 msec.
+[08:31:29.771279][info] Bundle adjustment with 2 iterations took 1986 msec.
+[08:31:29.780254][debug] findNextBestViews -- Scores (features): 
+[08:31:29.780254][debug] 646(348), 
+[08:31:29.780254][debug] 625(526), 
+[08:31:29.780254][debug] 595(223), 
+[08:31:29.781252][debug] 555(731), 
+[08:31:29.781252][debug] 548(261), 
+[08:31:29.781252][debug] 538(488), 
+[08:31:29.781252][debug] 413(221), 
+[08:31:29.781252][debug] 399(161), 
+[08:31:29.781252][debug] 355(512), 
+[08:31:29.781252][debug] 297(123), 
+[08:31:29.781252][debug] 290(103), 
+[08:31:29.781252][debug] 243(116), 
+[08:31:29.781252][debug] 141(15), 
+[08:31:29.781252][debug] 132(13), 
+[08:31:29.781252][debug] 131(21), 
+[08:31:29.782249][debug] 69(6), 
+[08:31:29.782249][debug] 62(2), 
+[08:31:29.782249][debug] 60(4), 
+[08:31:29.782249][debug] 49(3), 
+[08:31:29.782249][debug] 31(2), 
+[08:31:29.782249][debug] 0(0), 
+[08:31:29.782249][debug] 0(0), 
+[08:31:29.782249][debug] 0(0), 
+[08:31:29.782249][debug] 0(0), 
+[08:31:29.782249][debug] 
+[08:31:29.782249][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 600689326
+	- # unstable poses : 17 / 30
+[08:31:29.782249][debug] Find next best views took: 7 msec
+	# images : 1
+	- scores: from 646 to 646 (threshold was 396)
+	- features: from 348 to 348 (threshold was 30)
+[08:31:29.782249][info] Update Reconstruction:
+	- resection id: 15
+	- # images in the resection group: 1
+	- # images remaining: 29
+[08:31:29.785242][info] [18/46] Robust Resection of view: 600689326
+[08:31:29.954788][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 13.0408
+	- # points used for resection: 348
+	- # points validated by robust resection: 198
+[08:31:29.954788][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:29.959775][debug] Resection of image 0 ( view id: 600689326 ) succeed.
+[08:31:29.959775][debug] Resection of 1 new images took 177 msec.
+[08:31:29.959775][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:30.170867][debug] Triangulation of the 1 newly reconstructed views took 210 msec.
+[08:31:30.170867][info] Bundle adjustment start.
+[08:31:30.170867][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:30.170867][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:30.170867][debug] Updating the distances graph with newly resected views...
+[08:31:30.172861][debug] The distances graph has been completed with 1 nodes & 17 edges.
+[08:31:30.172861][debug] It contains 18 nodes & 155 edges
+[08:31:30.172861][info] Start bundle adjustment iteration: 0
+[08:31:30.569345][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.343362 s
+	- poses:
+	    - # refined:  18
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  14525
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  17
+	    - # constant: 0
+	    - # ignored:  18
+	- # residual blocks: 29050
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.00671
+	- final   RMSE: 0.809417
+[08:31:30.583309][info] Remove outliers: 
+	- # outliers residual error: 215
+	- # outliers angular error: 6
+[08:31:30.585305][info] Bundle adjustment iteration: 0 took 412 msec.
+[08:31:30.585305][info] Start bundle adjustment iteration: 1
+[08:31:31.076060][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.411026 s
+	- poses:
+	    - # refined:  18
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  14288
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  17
+	    - # constant: 0
+	    - # ignored:  18
+	- # residual blocks: 28576
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.755076
+	- final   RMSE: 0.743692
+[08:31:31.094014][info] Remove outliers: 
+	- # outliers residual error: 20
+	- # outliers angular error: 0
+[08:31:31.095009][info] Bundle adjustment iteration: 1 took 509 msec.
+[08:31:31.095009][info] Bundle adjustment with 2 iterations took 924 msec.
+[08:31:31.222667][debug] Save of file sfm_00000015 took 124 msec.
+[08:31:31.226657][debug] findNextBestViews -- Scores (features): 
+[08:31:31.226657][debug] 629(542), 
+[08:31:31.226657][debug] 626(239), 
+[08:31:31.226657][debug] 586(286), 
+[08:31:31.226657][debug] 551(745), 
+[08:31:31.226657][debug] 539(496), 
+[08:31:31.226657][debug] 437(236), 
+[08:31:31.226657][debug] 399(161), 
+[08:31:31.227655][debug] 355(516), 
+[08:31:31.227655][debug] 297(124), 
+[08:31:31.227655][debug] 293(106), 
+[08:31:31.227655][debug] 248(120), 
+[08:31:31.227655][debug] 144(16), 
+[08:31:31.227655][debug] 132(13), 
+[08:31:31.227655][debug] 131(22), 
+[08:31:31.227655][debug] 69(6), 
+[08:31:31.227655][debug] 62(2), 
+[08:31:31.227655][debug] 60(4), 
+[08:31:31.227655][debug] 49(3), 
+[08:31:31.227655][debug] 31(2), 
+[08:31:31.227655][debug] 0(0), 
+[08:31:31.227655][debug] 0(0), 
+[08:31:31.227655][debug] 0(0), 
+[08:31:31.227655][debug] 0(0), 
+[08:31:31.227655][debug] 
+[08:31:31.227655][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 772284598
+	- # unstable poses : 18 / 30
+[08:31:31.227655][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 629 to 629 (threshold was 396)
+	- features: from 542 to 542 (threshold was 30)
+[08:31:31.227655][info] Update Reconstruction:
+	- resection id: 16
+	- # images in the resection group: 1
+	- # images remaining: 28
+[08:31:31.230646][info] [19/46] Robust Resection of view: 772284598
+[08:31:31.500757][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 11.3696
+	- # points used for resection: 542
+	- # points validated by robust resection: 266
+[08:31:31.500757][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:31.510730][debug] Resection of image 0 ( view id: 772284598 ) succeed.
+[08:31:31.510730][debug] Resection of 1 new images took 283 msec.
+[08:31:31.510730][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:31.810846][debug] Triangulation of the 1 newly reconstructed views took 299 msec.
+[08:31:31.810846][info] Bundle adjustment start.
+[08:31:31.810846][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:31.810846][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:31.810846][debug] Updating the distances graph with newly resected views...
+[08:31:31.814836][debug] The distances graph has been completed with 1 nodes & 18 edges.
+[08:31:31.814836][debug] It contains 19 nodes & 173 edges
+[08:31:31.814836][info] Start bundle adjustment iteration: 0
+[08:31:32.535549][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.631841 s
+	- poses:
+	    - # refined:  19
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  15672
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  18
+	    - # constant: 0
+	    - # ignored:  17
+	- # residual blocks: 31344
+	- # successful iterations: 9
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.06311
+	- final   RMSE: 0.840107
+[08:31:32.554495][info] Remove outliers: 
+	- # outliers residual error: 296
+	- # outliers angular error: 6
+[08:31:32.556490][info] Bundle adjustment iteration: 0 took 741 msec.
+[08:31:32.556490][info] Start bundle adjustment iteration: 1
+[08:31:33.125039][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.478046 s
+	- poses:
+	    - # refined:  19
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  15344
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  18
+	    - # constant: 0
+	    - # ignored:  17
+	- # residual blocks: 30688
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.769572
+	- final   RMSE: 0.750278
+[08:31:33.139997][info] Remove outliers: 
+	- # outliers residual error: 25
+	- # outliers angular error: 2
+[08:31:33.140995][info] Bundle adjustment iteration: 1 took 584 msec.
+[08:31:33.140995][info] Bundle adjustment with 2 iterations took 1330 msec.
+[08:31:33.149972][debug] findNextBestViews -- Scores (features): 
+[08:31:33.149972][debug] 626(243), 
+[08:31:33.149972][debug] 594(300), 
+[08:31:33.149972][debug] 554(780), 
+[08:31:33.149972][debug] 541(515), 
+[08:31:33.149972][debug] 437(241), 
+[08:31:33.149972][debug] 405(169), 
+[08:31:33.149972][debug] 356(532), 
+[08:31:33.150970][debug] 296(125), 
+[08:31:33.150970][debug] 294(107), 
+[08:31:33.150970][debug] 250(128), 
+[08:31:33.150970][debug] 144(16), 
+[08:31:33.150970][debug] 132(13), 
+[08:31:33.150970][debug] 131(22), 
+[08:31:33.150970][debug] 69(5), 
+[08:31:33.150970][debug] 62(2), 
+[08:31:33.150970][debug] 60(4), 
+[08:31:33.150970][debug] 49(3), 
+[08:31:33.150970][debug] 31(2), 
+[08:31:33.150970][debug] 0(0), 
+[08:31:33.150970][debug] 0(0), 
+[08:31:33.150970][debug] 0(0), 
+[08:31:33.150970][debug] 0(0), 
+[08:31:33.150970][debug] 
+[08:31:33.150970][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1118199604
+	- # unstable poses : 19 / 30
+[08:31:33.150970][debug] Find next best views took: 6 msec
+	# images : 1
+	- scores: from 626 to 626 (threshold was 396)
+	- features: from 243 to 243 (threshold was 30)
+[08:31:33.150970][info] Update Reconstruction:
+	- resection id: 17
+	- # images in the resection group: 1
+	- # images remaining: 27
+[08:31:33.153963][info] [20/46] Robust Resection of view: 1118199604
+[08:31:33.281622][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 7.58413
+	- # points used for resection: 243
+	- # points validated by robust resection: 130
+[08:31:33.282618][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:33.291593][debug] Resection of image 0 ( view id: 1118199604 ) succeed.
+[08:31:33.291593][debug] Resection of 1 new images took 140 msec.
+[08:31:33.291593][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:33.469144][debug] Triangulation of the 1 newly reconstructed views took 177 msec.
+[08:31:33.469144][info] Bundle adjustment start.
+[08:31:33.469144][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:33.469144][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:33.469144][debug] Updating the distances graph with newly resected views...
+[08:31:33.471136][debug] The distances graph has been completed with 1 nodes & 17 edges.
+[08:31:33.471136][debug] It contains 20 nodes & 190 edges
+[08:31:33.471136][info] Start bundle adjustment iteration: 0
+[08:31:36.353387][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 2.80746 s
+	- poses:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  16004
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  19
+	    - # constant: 0
+	    - # ignored:  16
+	- # residual blocks: 32008
+	- # successful iterations: 35
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.31988
+	- final   RMSE: 0.779706
+[08:31:36.369343][info] Remove outliers: 
+	- # outliers residual error: 117
+	- # outliers angular error: 2
+[08:31:36.371338][info] Bundle adjustment iteration: 0 took 2899 msec.
+[08:31:36.371338][info] Start bundle adjustment iteration: 1
+[08:31:37.088441][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.619945 s
+	- poses:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  15873
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  19
+	    - # constant: 0
+	    - # ignored:  16
+	- # residual blocks: 31746
+	- # successful iterations: 9
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.751221
+	- final   RMSE: 0.745838
+[08:31:37.105396][info] Remove outliers: 
+	- # outliers residual error: 15
+	- # outliers angular error: 0
+[08:31:37.107391][info] Bundle adjustment iteration: 1 took 735 msec.
+[08:31:37.107391][info] Bundle adjustment with 2 iterations took 3638 msec.
+[08:31:37.114372][debug] findNextBestViews -- Scores (features): 
+[08:31:37.114372][debug] 601(308), 
+[08:31:37.114372][debug] 554(779), 
+[08:31:37.114372][debug] 541(514), 
+[08:31:37.114372][debug] 437(243), 
+[08:31:37.114372][debug] 405(170), 
+[08:31:37.114372][debug] 356(534), 
+[08:31:37.114372][debug] 296(125), 
+[08:31:37.114372][debug] 294(108), 
+[08:31:37.114372][debug] 250(128), 
+[08:31:37.114372][debug] 144(16), 
+[08:31:37.114372][debug] 132(13), 
+[08:31:37.114372][debug] 131(22), 
+[08:31:37.114372][debug] 69(5), 
+[08:31:37.114372][debug] 62(2), 
+[08:31:37.114372][debug] 60(4), 
+[08:31:37.114372][debug] 49(3), 
+[08:31:37.114372][debug] 31(2), 
+[08:31:37.114372][debug] 0(0), 
+[08:31:37.114372][debug] 0(0), 
+[08:31:37.114372][debug] 0(0), 
+[08:31:37.114372][debug] 0(0), 
+[08:31:37.114372][debug] 
+[08:31:37.114372][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 806543768
+	- # unstable poses : 20 / 30
+[08:31:37.114372][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 601 to 601 (threshold was 396)
+	- features: from 308 to 308 (threshold was 30)
+[08:31:37.114372][info] Update Reconstruction:
+	- resection id: 18
+	- # images in the resection group: 1
+	- # images remaining: 26
+[08:31:37.117364][info] [21/46] Robust Resection of view: 806543768
+[08:31:37.275940][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 6.11953
+	- # points used for resection: 308
+	- # points validated by robust resection: 153
+[08:31:37.275940][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:37.281924][debug] Resection of image 0 ( view id: 806543768 ) succeed.
+[08:31:37.281924][debug] Resection of 1 new images took 166 msec.
+[08:31:37.281924][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:37.490471][debug] Triangulation of the 1 newly reconstructed views took 208 msec.
+[08:31:37.490471][info] Bundle adjustment start.
+[08:31:37.490471][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:37.490471][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:37.490471][debug] Updating the distances graph with newly resected views...
+[08:31:37.493466][debug] The distances graph has been completed with 1 nodes & 20 edges.
+[08:31:37.493466][debug] It contains 21 nodes & 210 edges
+[08:31:37.493466][info] Start bundle adjustment iteration: 0
+[08:31:38.502128][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.942102 s
+	- poses:
+	    - # refined:  21
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  16650
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  15
+	- # residual blocks: 33300
+	- # successful iterations: 13
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.867992
+	- final   RMSE: 0.77908
+[08:31:38.522074][info] Remove outliers: 
+	- # outliers residual error: 126
+	- # outliers angular error: 1
+[08:31:38.524070][info] Bundle adjustment iteration: 0 took 1030 msec.
+[08:31:38.524070][info] Start bundle adjustment iteration: 1
+[08:31:41.145165][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 2.5242 s
+	- poses:
+	    - # refined:  21
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  16501
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  15
+	- # residual blocks: 33002
+	- # successful iterations: 36
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.748835
+	- final   RMSE: 0.743865
+[08:31:41.166108][info] Remove outliers: 
+	- # outliers residual error: 13
+	- # outliers angular error: 0
+[08:31:41.169100][info] Bundle adjustment iteration: 1 took 2644 msec.
+[08:31:41.169100][info] Bundle adjustment with 2 iterations took 3678 msec.
+[08:31:41.254870][debug] Save of file sfm_00000018 took 81 msec.
+[08:31:41.259857][debug] findNextBestViews -- Scores (features): 
+[08:31:41.260855][debug] 574(519), 
+[08:31:41.260855][debug] 569(786), 
+[08:31:41.260855][debug] 444(251), 
+[08:31:41.260855][debug] 435(174), 
+[08:31:41.260855][debug] 356(535), 
+[08:31:41.260855][debug] 295(123), 
+[08:31:41.260855][debug] 291(108), 
+[08:31:41.260855][debug] 250(129), 
+[08:31:41.260855][debug] 202(28), 
+[08:31:41.260855][debug] 140(13), 
+[08:31:41.260855][debug] 134(14), 
+[08:31:41.260855][debug] 131(22), 
+[08:31:41.260855][debug] 99(18), 
+[08:31:41.260855][debug] 91(13), 
+[08:31:41.260855][debug] 77(12), 
+[08:31:41.260855][debug] 60(4), 
+[08:31:41.260855][debug] 39(4), 
+[08:31:41.260855][debug] 31(1), 
+[08:31:41.260855][debug] 0(0), 
+[08:31:41.260855][debug] 0(0), 
+[08:31:41.260855][debug] 
+[08:31:41.260855][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 281056771
+	- # unstable poses : 21 / 30
+[08:31:41.260855][debug] Find next best views took: 6 msec
+	# images : 1
+	- scores: from 574 to 574 (threshold was 396)
+	- features: from 519 to 519 (threshold was 30)
+[08:31:41.260855][info] Update Reconstruction:
+	- resection id: 19
+	- # images in the resection group: 1
+	- # images remaining: 25
+[08:31:41.264846][info] [22/46] Robust Resection of view: 281056771
+[08:31:41.521158][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 7.45223
+	- # points used for resection: 519
+	- # points validated by robust resection: 294
+[08:31:41.521158][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:41.532129][debug] Resection of image 0 ( view id: 281056771 ) succeed.
+[08:31:41.532129][debug] Resection of 1 new images took 270 msec.
+[08:31:41.532129][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:41.783460][debug] Triangulation of the 1 newly reconstructed views took 250 msec.
+[08:31:41.783460][info] Bundle adjustment start.
+[08:31:41.783460][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:41.783460][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:41.783460][debug] Updating the distances graph with newly resected views...
+[08:31:41.787446][debug] The distances graph has been completed with 1 nodes & 20 edges.
+[08:31:41.787446][debug] It contains 22 nodes & 230 edges
+[08:31:41.787446][info] Start bundle adjustment iteration: 0
+[08:31:42.383638][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.500429 s
+	- poses:
+	    - # refined:  22
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  17560
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  21
+	    - # constant: 0
+	    - # ignored:  14
+	- # residual blocks: 35120
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.9392
+	- final   RMSE: 0.831691
+[08:31:42.403581][info] Remove outliers: 
+	- # outliers residual error: 298
+	- # outliers angular error: 9
+[08:31:42.404578][info] Bundle adjustment iteration: 0 took 617 msec.
+[08:31:42.404578][info] Start bundle adjustment iteration: 1
+[08:31:43.109628][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.602478 s
+	- poses:
+	    - # refined:  22
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  17231
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  21
+	    - # constant: 0
+	    - # ignored:  14
+	- # residual blocks: 34462
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.76829
+	- final   RMSE: 0.75344
+[08:31:43.130579][info] Remove outliers: 
+	- # outliers residual error: 25
+	- # outliers angular error: 0
+[08:31:43.133564][info] Bundle adjustment iteration: 1 took 728 msec.
+[08:31:43.133564][info] Bundle adjustment with 2 iterations took 1350 msec.
+[08:31:43.142540][debug] findNextBestViews -- Scores (features): 
+[08:31:43.142540][debug] 574(821), 
+[08:31:43.142540][debug] 444(254), 
+[08:31:43.142540][debug] 441(179), 
+[08:31:43.142540][debug] 358(563), 
+[08:31:43.143537][debug] 311(126), 
+[08:31:43.143537][debug] 296(112), 
+[08:31:43.143537][debug] 249(134), 
+[08:31:43.143537][debug] 204(29), 
+[08:31:43.143537][debug] 137(21), 
+[08:31:43.143537][debug] 134(15), 
+[08:31:43.143537][debug] 133(12), 
+[08:31:43.143537][debug] 99(18), 
+[08:31:43.143537][debug] 95(17), 
+[08:31:43.143537][debug] 77(13), 
+[08:31:43.143537][debug] 60(4), 
+[08:31:43.143537][debug] 42(5), 
+[08:31:43.143537][debug] 31(1), 
+[08:31:43.143537][debug] 0(0), 
+[08:31:43.143537][debug] 0(0), 
+[08:31:43.143537][debug] 
+[08:31:43.143537][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1015632067
+	- # unstable poses : 22 / 30
+[08:31:43.143537][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 574 to 574 (threshold was 396)
+	- features: from 821 to 821 (threshold was 30)
+[08:31:43.143537][info] Update Reconstruction:
+	- resection id: 20
+	- # images in the resection group: 1
+	- # images remaining: 24
+[08:31:43.148525][info] [23/46] Robust Resection of view: 1015632067
+[08:31:43.558462][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 6.67272
+	- # points used for resection: 821
+	- # points validated by robust resection: 513
+[08:31:43.558462][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:43.573422][debug] Resection of image 0 ( view id: 1015632067 ) succeed.
+[08:31:43.573422][debug] Resection of 1 new images took 429 msec.
+[08:31:43.573422][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:44.055683][debug] Triangulation of the 1 newly reconstructed views took 482 msec.
+[08:31:44.055683][info] Bundle adjustment start.
+[08:31:44.055683][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:44.056680][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:44.056680][debug] Updating the distances graph with newly resected views...
+[08:31:44.059672][debug] The distances graph has been completed with 1 nodes & 22 edges.
+[08:31:44.059672][debug] It contains 23 nodes & 252 edges
+[08:31:44.059672][info] Start bundle adjustment iteration: 0
+[08:31:45.305143][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.15426 s
+	- poses:
+	    - # refined:  23
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  18824
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  22
+	    - # constant: 0
+	    - # ignored:  13
+	- # residual blocks: 37648
+	- # successful iterations: 14
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.974703
+	- final   RMSE: 0.845073
+[08:31:45.323094][info] Remove outliers: 
+	- # outliers residual error: 358
+	- # outliers angular error: 10
+[08:31:45.326088][info] Bundle adjustment iteration: 0 took 1266 msec.
+[08:31:45.326088][info] Start bundle adjustment iteration: 1
+[08:31:46.546452][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.0916 s
+	- poses:
+	    - # refined:  23
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  18425
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  22
+	    - # constant: 0
+	    - # ignored:  13
+	- # residual blocks: 36850
+	- # successful iterations: 12
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.777676
+	- final   RMSE: 0.76089
+[08:31:46.570495][info] Remove outliers: 
+	- # outliers residual error: 31
+	- # outliers angular error: 4
+[08:31:46.572490][info] Bundle adjustment iteration: 1 took 1245 msec.
+[08:31:46.572490][info] Bundle adjustment with 2 iterations took 2516 msec.
+[08:31:46.580473][debug] findNextBestViews -- Scores (features): 
+[08:31:46.580473][debug] 445(255), 
+[08:31:46.580473][debug] 445(182), 
+[08:31:46.580473][debug] 359(594), 
+[08:31:46.580473][debug] 317(131), 
+[08:31:46.580473][debug] 316(119), 
+[08:31:46.580473][debug] 250(134), 
+[08:31:46.580473][debug] 201(28), 
+[08:31:46.581466][debug] 137(23), 
+[08:31:46.581466][debug] 134(16), 
+[08:31:46.581466][debug] 133(12), 
+[08:31:46.581466][debug] 99(19), 
+[08:31:46.581466][debug] 98(6), 
+[08:31:46.581466][debug] 95(18), 
+[08:31:46.581466][debug] 77(13), 
+[08:31:46.581466][debug] 42(5), 
+[08:31:46.581466][debug] 0(0), 
+[08:31:46.581466][debug] 0(0), 
+[08:31:46.581466][debug] 0(0), 
+[08:31:46.581466][debug] 
+[08:31:46.581466][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 112144998
+	- # unstable poses : 23 / 30
+[08:31:46.581466][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 445 to 445 (threshold was 396)
+	- features: from 255 to 255 (threshold was 30)
+[08:31:46.581466][info] Update Reconstruction:
+	- resection id: 21
+	- # images in the resection group: 1
+	- # images remaining: 23
+[08:31:46.584460][info] [24/46] Robust Resection of view: 112144998
+[08:31:46.718869][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 10.3397
+	- # points used for resection: 255
+	- # points validated by robust resection: 129
+[08:31:46.718869][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:46.724853][debug] Resection of image 0 ( view id: 112144998 ) succeed.
+[08:31:46.724853][debug] Resection of 1 new images took 143 msec.
+[08:31:46.724853][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:46.855502][debug] Triangulation of the 1 newly reconstructed views took 131 msec.
+[08:31:46.855502][info] Bundle adjustment start.
+[08:31:46.855502][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:46.855502][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:46.855502][debug] Updating the distances graph with newly resected views...
+[08:31:46.860489][debug] The distances graph has been completed with 1 nodes & 19 edges.
+[08:31:46.860489][debug] It contains 24 nodes & 271 edges
+[08:31:46.860489][info] Start bundle adjustment iteration: 0
+[08:31:49.898794][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 2.92992 s
+	- poses:
+	    - # refined:  24
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  19024
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  23
+	    - # constant: 0
+	    - # ignored:  12
+	- # residual blocks: 38048
+	- # successful iterations: 35
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.12179
+	- final   RMSE: 0.803457
+[08:31:49.919740][info] Remove outliers: 
+	- # outliers residual error: 181
+	- # outliers angular error: 11
+[08:31:49.921735][info] Bundle adjustment iteration: 0 took 3061 msec.
+[08:31:49.921735][info] Start bundle adjustment iteration: 1
+[08:31:51.032234][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.00914 s
+	- poses:
+	    - # refined:  24
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  18806
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  23
+	    - # constant: 0
+	    - # ignored:  12
+	- # residual blocks: 37612
+	- # successful iterations: 14
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.765982
+	- final   RMSE: 0.759696
+[08:31:51.047203][info] Remove outliers: 
+	- # outliers residual error: 13
+	- # outliers angular error: 1
+[08:31:51.050186][info] Bundle adjustment iteration: 1 took 1128 msec.
+[08:31:51.050186][info] Bundle adjustment with 2 iterations took 4194 msec.
+[08:31:51.144932][debug] Save of file sfm_00000021 took 89 msec.
+[08:31:51.148922][debug] findNextBestViews -- Scores (features): 
+[08:31:51.148922][debug] 444(188), 
+[08:31:51.148922][debug] 362(595), 
+[08:31:51.148922][debug] 317(131), 
+[08:31:51.148922][debug] 316(118), 
+[08:31:51.148922][debug] 249(136), 
+[08:31:51.148922][debug] 201(28), 
+[08:31:51.148922][debug] 137(22), 
+[08:31:51.148922][debug] 134(16), 
+[08:31:51.148922][debug] 133(12), 
+[08:31:51.149922][debug] 99(18), 
+[08:31:51.149922][debug] 98(6), 
+[08:31:51.149922][debug] 95(18), 
+[08:31:51.149922][debug] 77(12), 
+[08:31:51.149922][debug] 42(5), 
+[08:31:51.149922][debug] 0(0), 
+[08:31:51.149922][debug] 0(0), 
+[08:31:51.149922][debug] 0(0), 
+[08:31:51.149922][debug] 
+[08:31:51.149922][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 429875631
+	- # unstable poses : 24 / 30
+[08:31:51.149922][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 444 to 444 (threshold was 396)
+	- features: from 188 to 188 (threshold was 30)
+[08:31:51.149922][info] Update Reconstruction:
+	- resection id: 22
+	- # images in the resection group: 1
+	- # images remaining: 22
+[08:31:51.152911][info] [25/46] Robust Resection of view: 429875631
+[08:31:51.257632][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 13.4534
+	- # points used for resection: 188
+	- # points validated by robust resection: 70
+[08:31:51.257632][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:51.261622][debug] Resection of image 0 ( view id: 429875631 ) succeed.
+[08:31:51.261622][debug] Resection of 1 new images took 111 msec.
+[08:31:51.261622][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:51.424882][debug] Triangulation of the 1 newly reconstructed views took 162 msec.
+[08:31:51.424882][info] Bundle adjustment start.
+[08:31:51.424882][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:51.424882][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:51.424882][debug] Updating the distances graph with newly resected views...
+[08:31:51.426877][debug] The distances graph has been completed with 1 nodes & 10 edges.
+[08:31:51.427876][debug] It contains 25 nodes & 281 edges
+[08:31:51.427876][info] Start bundle adjustment iteration: 0
+[08:31:52.229272][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.730966 s
+	- poses:
+	    - # refined:  25
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  19059
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  24
+	    - # constant: 0
+	    - # ignored:  11
+	- # residual blocks: 38118
+	- # successful iterations: 10
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.816011
+	- final   RMSE: 0.782236
+[08:31:52.250213][info] Remove outliers: 
+	- # outliers residual error: 98
+	- # outliers angular error: 19
+[08:31:52.252207][info] Bundle adjustment iteration: 0 took 824 msec.
+[08:31:52.252207][info] Start bundle adjustment iteration: 1
+[08:31:53.056570][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.68998 s
+	- poses:
+	    - # refined:  25
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  18911
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  24
+	    - # constant: 0
+	    - # ignored:  11
+	- # residual blocks: 37822
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.76214
+	- final   RMSE: 0.757158
+[08:31:53.075520][info] Remove outliers: 
+	- # outliers residual error: 6
+	- # outliers angular error: 0
+[08:31:53.077514][info] Bundle adjustment iteration: 1 took 825 msec.
+[08:31:53.077514][info] Bundle adjustment with 2 iterations took 1653 msec.
+[08:31:53.087487][debug] findNextBestViews -- Scores (features): 
+[08:31:53.087487][debug] 363(597), 
+[08:31:53.087487][debug] 315(116), 
+[08:31:53.087487][debug] 314(131), 
+[08:31:53.087487][debug] 250(138), 
+[08:31:53.087487][debug] 201(27), 
+[08:31:53.087487][debug] 137(22), 
+[08:31:53.087487][debug] 133(12), 
+[08:31:53.087487][debug] 132(15), 
+[08:31:53.087487][debug] 99(16), 
+[08:31:53.087487][debug] 95(17), 
+[08:31:53.087487][debug] 91(5), 
+[08:31:53.087487][debug] 89(12), 
+[08:31:53.087487][debug] 42(5), 
+[08:31:53.087487][debug] 0(0), 
+[08:31:53.087487][debug] 0(0), 
+[08:31:53.087487][debug] 0(0), 
+[08:31:53.087487][debug] 
+[08:31:53.087487][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 873949303
+	- # unstable poses : 25 / 30
+[08:31:53.087487][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 363 to 363 (threshold was 396)
+	- features: from 597 to 597 (threshold was 30)
+[08:31:53.087487][info] Update Reconstruction:
+	- resection id: 23
+	- # images in the resection group: 1
+	- # images remaining: 21
+[08:31:53.091477][info] [26/46] Robust Resection of view: 873949303
+[08:31:53.386375][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 8.44151
+	- # points used for resection: 597
+	- # points validated by robust resection: 388
+[08:31:53.386375][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:53.398344][debug] Resection of image 0 ( view id: 873949303 ) succeed.
+[08:31:53.399342][debug] Resection of 1 new images took 310 msec.
+[08:31:53.399342][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:53.805256][debug] Triangulation of the 1 newly reconstructed views took 405 msec.
+[08:31:53.805256][info] Bundle adjustment start.
+[08:31:53.805256][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:53.805256][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:53.805256][debug] Updating the distances graph with newly resected views...
+[08:31:53.809244][debug] The distances graph has been completed with 1 nodes & 22 edges.
+[08:31:53.809244][debug] It contains 26 nodes & 303 edges
+[08:31:53.809244][info] Start bundle adjustment iteration: 0
+[08:31:55.258226][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.33715 s
+	- poses:
+	    - # refined:  26
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  20503
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  25
+	    - # constant: 0
+	    - # ignored:  10
+	- # residual blocks: 41006
+	- # successful iterations: 13
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.21837
+	- final   RMSE: 0.825104
+[08:31:55.279172][info] Remove outliers: 
+	- # outliers residual error: 336
+	- # outliers angular error: 238
+[08:31:55.282169][info] Bundle adjustment iteration: 0 took 1472 msec.
+[08:31:55.282169][info] Start bundle adjustment iteration: 1
+[08:31:56.255844][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.837659 s
+	- poses:
+	    - # refined:  26
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  19678
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  25
+	    - # constant: 0
+	    - # ignored:  10
+	- # residual blocks: 39356
+	- # successful iterations: 9
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.769333
+	- final   RMSE: 0.754825
+[08:31:56.279779][info] Remove outliers: 
+	- # outliers residual error: 27
+	- # outliers angular error: 0
+[08:31:56.282773][info] Bundle adjustment iteration: 1 took 1000 msec.
+[08:31:56.282773][info] Bundle adjustment with 2 iterations took 2478 msec.
+[08:31:56.291746][debug] findNextBestViews -- Scores (features): 
+[08:31:56.291746][debug] 320(137), 
+[08:31:56.291746][debug] 319(117), 
+[08:31:56.291746][debug] 250(137), 
+[08:31:56.291746][debug] 201(27), 
+[08:31:56.291746][debug] 163(16), 
+[08:31:56.291746][debug] 140(23), 
+[08:31:56.291746][debug] 136(13), 
+[08:31:56.291746][debug] 99(16), 
+[08:31:56.291746][debug] 95(17), 
+[08:31:56.291746][debug] 91(5), 
+[08:31:56.291746][debug] 89(12), 
+[08:31:56.291746][debug] 42(5), 
+[08:31:56.292744][debug] 0(0), 
+[08:31:56.292744][debug] 0(0), 
+[08:31:56.292744][debug] 0(0), 
+[08:31:56.292744][debug] 
+[08:31:56.292744][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1191705073
+	- # unstable poses : 26 / 30
+[08:31:56.292744][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 320 to 320 (threshold was 396)
+	- features: from 137 to 137 (threshold was 30)
+[08:31:56.292744][info] Update Reconstruction:
+	- resection id: 24
+	- # images in the resection group: 1
+	- # images remaining: 20
+[08:31:56.295737][info] [27/46] Robust Resection of view: 1191705073
+[08:31:56.363554][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 9.07404
+	- # points used for resection: 137
+	- # points validated by robust resection: 83
+[08:31:56.364552][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:56.372530][debug] Resection of image 0 ( view id: 1191705073 ) succeed.
+[08:31:56.372530][debug] Resection of 1 new images took 80 msec.
+[08:31:56.372530][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:56.470268][debug] Triangulation of the 1 newly reconstructed views took 97 msec.
+[08:31:56.470268][info] Bundle adjustment start.
+[08:31:56.470268][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:56.471266][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:56.471266][debug] Updating the distances graph with newly resected views...
+[08:31:56.474257][debug] The distances graph has been completed with 1 nodes & 10 edges.
+[08:31:56.474257][debug] It contains 27 nodes & 313 edges
+[08:31:56.475254][info] Start bundle adjustment iteration: 0
+[08:31:58.240552][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.65732 s
+	- poses:
+	    - # refined:  27
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  19882
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  26
+	    - # constant: 0
+	    - # ignored:  9
+	- # residual blocks: 39764
+	- # successful iterations: 16
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.790788
+	- final   RMSE: 0.767998
+[08:31:58.263491][info] Remove outliers: 
+	- # outliers residual error: 80
+	- # outliers angular error: 0
+[08:31:58.266483][info] Bundle adjustment iteration: 0 took 1792 msec.
+[08:31:58.266483][info] Start bundle adjustment iteration: 1
+[08:31:59.310365][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.917372 s
+	- poses:
+	    - # refined:  27
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  19798
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  26
+	    - # constant: 0
+	    - # ignored:  9
+	- # residual blocks: 39596
+	- # successful iterations: 8
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.752348
+	- final   RMSE: 0.750202
+[08:31:59.334301][info] Remove outliers: 
+	- # outliers residual error: 7
+	- # outliers angular error: 0
+[08:31:59.336295][info] Bundle adjustment iteration: 1 took 1069 msec.
+[08:31:59.336295][info] Bundle adjustment with 2 iterations took 2865 msec.
+[08:31:59.432041][debug] Save of file sfm_00000024 took 91 msec.
+[08:31:59.437026][debug] findNextBestViews -- Scores (features): 
+[08:31:59.437026][debug] 319(117), 
+[08:31:59.437026][debug] 250(136), 
+[08:31:59.437026][debug] 201(27), 
+[08:31:59.437026][debug] 163(16), 
+[08:31:59.437026][debug] 140(23), 
+[08:31:59.437026][debug] 136(13), 
+[08:31:59.438022][debug] 99(16), 
+[08:31:59.438022][debug] 95(17), 
+[08:31:59.438022][debug] 89(12), 
+[08:31:59.438022][debug] 70(6), 
+[08:31:59.438022][debug] 42(5), 
+[08:31:59.438022][debug] 0(0), 
+[08:31:59.438022][debug] 0(0), 
+[08:31:59.438022][debug] 0(0), 
+[08:31:59.438022][debug] 
+[08:31:59.438022][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 444557352
+	- # unstable poses : 27 / 30
+[08:31:59.438022][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 319 to 319 (threshold was 396)
+	- features: from 117 to 117 (threshold was 30)
+[08:31:59.438022][info] Update Reconstruction:
+	- resection id: 25
+	- # images in the resection group: 1
+	- # images remaining: 19
+[08:31:59.441016][info] [28/46] Robust Resection of view: 444557352
+[08:31:59.518807][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 7.03862
+	- # points used for resection: 117
+	- # points validated by robust resection: 71
+[08:31:59.518807][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:59.525788][debug] Resection of image 0 ( view id: 444557352 ) succeed.
+[08:31:59.525788][debug] Resection of 1 new images took 87 msec.
+[08:31:59.525788][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:31:59.635496][debug] Triangulation of the 1 newly reconstructed views took 109 msec.
+[08:31:59.635496][info] Bundle adjustment start.
+[08:31:59.635496][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:59.635496][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:31:59.635496][debug] Updating the distances graph with newly resected views...
+[08:31:59.639484][debug] The distances graph has been completed with 1 nodes & 10 edges.
+[08:31:59.639484][debug] It contains 28 nodes & 323 edges
+[08:31:59.639484][info] Start bundle adjustment iteration: 0
+[08:32:00.290971][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.531936 s
+	- poses:
+	    - # refined:  28
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  20055
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  27
+	    - # constant: 0
+	    - # ignored:  8
+	- # residual blocks: 40110
+	- # successful iterations: 5
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.796622
+	- final   RMSE: 0.77649
+[08:32:00.316912][info] Remove outliers: 
+	- # outliers residual error: 117
+	- # outliers angular error: 1
+[08:32:00.319905][info] Bundle adjustment iteration: 0 took 679 msec.
+[08:32:00.319905][info] Start bundle adjustment iteration: 1
+[08:32:01.169666][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.714048 s
+	- poses:
+	    - # refined:  28
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  19933
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  27
+	    - # constant: 0
+	    - # ignored:  8
+	- # residual blocks: 39866
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.753665
+	- final   RMSE: 0.749671
+[08:32:01.187617][info] Remove outliers: 
+	- # outliers residual error: 11
+	- # outliers angular error: 0
+[08:32:01.191606][info] Bundle adjustment iteration: 1 took 871 msec.
+[08:32:01.191606][info] Bundle adjustment with 2 iterations took 1555 msec.
+[08:32:01.199586][debug] findNextBestViews -- Scores (features): 
+[08:32:01.199586][debug] 250(137), 
+[08:32:01.200583][debug] 201(27), 
+[08:32:01.200583][debug] 163(16), 
+[08:32:01.200583][debug] 140(23), 
+[08:32:01.200583][debug] 136(13), 
+[08:32:01.200583][debug] 99(16), 
+[08:32:01.200583][debug] 95(17), 
+[08:32:01.200583][debug] 89(12), 
+[08:32:01.200583][debug] 70(6), 
+[08:32:01.200583][debug] 42(5), 
+[08:32:01.200583][debug] 0(0), 
+[08:32:01.200583][debug] 0(0), 
+[08:32:01.200583][debug] 0(0), 
+[08:32:01.200583][debug] 
+[08:32:01.200583][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 261382707
+	- # unstable poses : 28 / 30
+[08:32:01.200583][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 250 to 250 (threshold was 396)
+	- features: from 137 to 137 (threshold was 30)
+[08:32:01.200583][info] Update Reconstruction:
+	- resection id: 26
+	- # images in the resection group: 1
+	- # images remaining: 18
+[08:32:01.204571][info] [29/46] Robust Resection of view: 261382707
+[08:32:01.291340][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 8.06411
+	- # points used for resection: 137
+	- # points validated by robust resection: 44
+[08:32:01.291340][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:32:01.299323][debug] Resection of image 0 ( view id: 261382707 ) succeed.
+[08:32:01.300316][debug] Resection of 1 new images took 99 msec.
+[08:32:01.300316][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:32:01.356732][debug] Triangulation of the 1 newly reconstructed views took 56 msec.
+[08:32:01.356732][info] Bundle adjustment start.
+[08:32:01.356732][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:32:01.356732][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:32:01.356732][debug] Updating the distances graph with newly resected views...
+[08:32:01.360721][debug] The distances graph has been completed with 1 nodes & 10 edges.
+[08:32:01.360721][debug] It contains 29 nodes & 333 edges
+[08:32:01.360721][info] Start bundle adjustment iteration: 0
+[08:32:02.552118][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 1.07105 s
+	- poses:
+	    - # refined:  29
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  20235
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  28
+	    - # constant: 0
+	    - # ignored:  7
+	- # residual blocks: 40470
+	- # successful iterations: 9
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.831915
+	- final   RMSE: 0.76281
+[08:32:02.575055][info] Remove outliers: 
+	- # outliers residual error: 57
+	- # outliers angular error: 4
+[08:32:02.578051][info] Bundle adjustment iteration: 0 took 1217 msec.
+[08:32:02.578051][info] Start bundle adjustment iteration: 1
+[08:32:03.271471][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.570775 s
+	- poses:
+	    - # refined:  29
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  20161
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  28
+	    - # constant: 0
+	    - # ignored:  7
+	- # residual blocks: 40322
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.751104
+	- final   RMSE: 0.748637
+[08:32:03.291418][info] Remove outliers: 
+	- # outliers residual error: 3
+	- # outliers angular error: 0
+[08:32:03.293413][info] Bundle adjustment iteration: 1 took 715 msec.
+[08:32:03.293413][info] Bundle adjustment with 2 iterations took 1937 msec.
+[08:32:03.301391][debug] findNextBestViews -- Scores (features): 
+[08:32:03.302389][debug] 212(30), 
+[08:32:03.302389][debug] 163(16), 
+[08:32:03.302389][debug] 143(14), 
+[08:32:03.302389][debug] 140(24), 
+[08:32:03.302389][debug] 99(16), 
+[08:32:03.302389][debug] 95(17), 
+[08:32:03.302389][debug] 89(12), 
+[08:32:03.302389][debug] 70(6), 
+[08:32:03.302389][debug] 42(5), 
+[08:32:03.302389][debug] 0(0), 
+[08:32:03.302389][debug] 0(0), 
+[08:32:03.302389][debug] 0(0), 
+[08:32:03.302389][debug] 
+[08:32:03.302389][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1199350529
+	- # unstable poses : 29 / 30
+[08:32:03.302389][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 212 to 212 (threshold was 396)
+	- features: from 30 to 30 (threshold was 30)
+[08:32:03.302389][info] Update Reconstruction:
+	- resection id: 27
+	- # images in the resection group: 1
+	- # images remaining: 17
+[08:32:03.305380][info] [30/46] Robust Resection of view: 1199350529
+[08:32:03.329317][info] Robust Resection information:
+	- resection status: true
+	- threshold (error max): 217.438
+	- # points used for resection: 30
+	- # points validated by robust resection: 29
+[08:32:03.329317][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:32:03.347271][debug] Resection of image 0 ( view id: 1199350529 ) succeed.
+[08:32:03.347271][debug] Resection of 1 new images took 44 msec.
+[08:32:03.347271][debug] Triangulating (mode: multi-view LO-RANSAC)... 
+[08:32:03.394144][debug] Triangulation of the 1 newly reconstructed views took 46 msec.
+[08:32:03.394144][info] Bundle adjustment start.
+[08:32:03.394144][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:32:03.394144][debug] BundleAdjustment[Ceres]: DENSE_SCHUR
+[08:32:03.394144][debug] Updating the distances graph with newly resected views...
+[08:32:03.398136][debug] The distances graph has been completed with 1 nodes & 10 edges.
+[08:32:03.398136][debug] It contains 30 nodes & 343 edges
+[08:32:03.398136][info] Start bundle adjustment iteration: 0
+[08:32:06.220082][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 2.70897 s
+	- poses:
+	    - # refined:  30
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  20184
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  29
+	    - # constant: 0
+	    - # ignored:  6
+	- # residual blocks: 40368
+	- # successful iterations: 30
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.858832
+	- final   RMSE: 0.749487
+[08:32:06.234044][info] Remove outliers: 
+	- # outliers residual error: 6
+	- # outliers angular error: 0
+[08:32:06.236039][debug] eraseUnstablePoses: 1
+[08:32:06.240029][debug] The view #1199350529 has been successfully removed to the distance graph.
+[08:32:06.240029][debug] Views removed from the local BA graph: {1199350529}
+[08:32:06.240029][info] Bundle adjustment iteration: 0 took 2842 msec.
+[08:32:06.240029][info] Bundle adjustment with 1 iterations took 2846 msec.
+[08:32:06.335292][debug] Save of file sfm_00000027 took 90 msec.
+[08:32:06.340279][debug] findNextBestViews -- Scores (features): 
+[08:32:06.340279][debug] 172(26), 
+[08:32:06.340279][debug] 164(16), 
+[08:32:06.340279][debug] 150(15), 
+[08:32:06.340279][debug] 100(17), 
+[08:32:06.340279][debug] 96(18), 
+[08:32:06.340279][debug] 91(11), 
+[08:32:06.340279][debug] 70(6), 
+[08:32:06.340279][debug] 39(5), 
+[08:32:06.340279][debug] 0(0), 
+[08:32:06.340279][debug] 0(0), 
+[08:32:06.341276][debug] 0(0), 
+[08:32:06.341276][debug] 
+[08:32:06.341276][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 11775493
+	- # unstable poses : 29 / 30
+[08:32:06.341276][debug] Find next best views took: 5 msec
+	# images : 1
+	- scores: from 172 to 172 (threshold was 396)
+	- features: from 26 to 26 (threshold was 30)
+[08:32:06.341276][info] Update Reconstruction:
+	- resection id: 28
+	- # images in the resection group: 1
+	- # images remaining: 16
+[08:32:06.346263][info] [30/46] Robust Resection of view: 11775493
+[08:32:06.366209][debug] Resection status is false:
+	- resection_data.vec_inliers.size() = 10
+	- minimumSamples = 3
+[08:32:06.366209][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 16.8835
+	- # points used for resection: 26
+	- # points validated by robust resection: 10
+[08:32:06.366209][info] Resection of view 11775493 failed.
+[08:32:06.367207][debug] Resection of image 0 ( view id: 11775493 ) was not possible.
+[08:32:06.367207][debug] Resection of 1 new images took 26 msec.
+[08:32:06.371195][debug] findNextBestViews -- Scores (features): 
+[08:32:06.371195][debug] 164(16), 
+[08:32:06.371195][debug] 150(15), 
+[08:32:06.371195][debug] 100(17), 
+[08:32:06.371195][debug] 96(18), 
+[08:32:06.371195][debug] 91(11), 
+[08:32:06.371195][debug] 70(6), 
+[08:32:06.371195][debug] 39(5), 
+[08:32:06.371195][debug] 0(0), 
+[08:32:06.371195][debug] 0(0), 
+[08:32:06.371195][debug] 0(0), 
+[08:32:06.371195][debug] 
+[08:32:06.371195][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1330267110
+	- # unstable poses : 29 / 30
+[08:32:06.371195][debug] Find next best views took: 3 msec
+	# images : 1
+	- scores: from 164 to 164 (threshold was 396)
+	- features: from 16 to 16 (threshold was 30)
+[08:32:06.371195][info] Update Reconstruction:
+	- resection id: 28
+	- # images in the resection group: 1
+	- # images remaining: 15
+[08:32:06.374188][info] [30/46] Robust Resection of view: 1330267110
+[08:32:06.386155][debug] Resection status is false:
+	- resection_data.vec_inliers.size() = 7
+	- minimumSamples = 3
+[08:32:06.386155][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 25.0137
+	- # points used for resection: 16
+	- # points validated by robust resection: 7
+[08:32:06.387152][info] Resection of view 1330267110 failed.
+[08:32:06.388150][debug] Resection of image 0 ( view id: 1330267110 ) was not possible.
+[08:32:06.388150][debug] Resection of 1 new images took 16 msec.
+[08:32:06.392139][debug] findNextBestViews -- Scores (features): 
+[08:32:06.392139][debug] 150(15), 
+[08:32:06.392139][debug] 100(17), 
+[08:32:06.392139][debug] 96(18), 
+[08:32:06.392139][debug] 91(11), 
+[08:32:06.392139][debug] 70(6), 
+[08:32:06.392139][debug] 39(5), 
+[08:32:06.392139][debug] 0(0), 
+[08:32:06.392139][debug] 0(0), 
+[08:32:06.392139][debug] 0(0), 
+[08:32:06.392139][debug] 
+[08:32:06.392139][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 185799942
+	- # unstable poses : 29 / 30
+[08:32:06.392139][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 150 to 150 (threshold was 396)
+	- features: from 15 to 15 (threshold was 30)
+[08:32:06.392139][info] Update Reconstruction:
+	- resection id: 28
+	- # images in the resection group: 1
+	- # images remaining: 14
+[08:32:06.396130][info] [30/46] Robust Resection of view: 185799942
+[08:32:06.408615][debug] Resection status is false:
+	- resection_data.vec_inliers.size() = 11
+	- minimumSamples = 3
+[08:32:06.409615][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 148.035
+	- # points used for resection: 15
+	- # points validated by robust resection: 11
+[08:32:06.409615][info] Resection of view 185799942 failed.
+[08:32:06.410613][debug] Resection of image 0 ( view id: 185799942 ) was not possible.
+[08:32:06.410613][debug] Resection of 1 new images took 18 msec.
+[08:32:06.414598][debug] findNextBestViews -- Scores (features): 
+[08:32:06.414598][debug] 100(17), 
+[08:32:06.414598][debug] 96(18), 
+[08:32:06.414598][debug] 91(11), 
+[08:32:06.414598][debug] 70(6), 
+[08:32:06.414598][debug] 39(5), 
+[08:32:06.414598][debug] 0(0), 
+[08:32:06.414598][debug] 0(0), 
+[08:32:06.414598][debug] 0(0), 
+[08:32:06.414598][debug] 
+[08:32:06.414598][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1078751423
+	- # unstable poses : 29 / 30
+[08:32:06.414598][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 100 to 100 (threshold was 396)
+	- features: from 17 to 17 (threshold was 30)
+[08:32:06.414598][info] Update Reconstruction:
+	- resection id: 28
+	- # images in the resection group: 1
+	- # images remaining: 13
+[08:32:06.417589][info] [30/46] Robust Resection of view: 1078751423
+[08:32:06.431554][debug] Resection status is false:
+	- resection_data.vec_inliers.size() = 10
+	- minimumSamples = 3
+[08:32:06.431554][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 15.6033
+	- # points used for resection: 17
+	- # points validated by robust resection: 10
+[08:32:06.431554][info] Resection of view 1078751423 failed.
+[08:32:06.432550][debug] Resection of image 0 ( view id: 1078751423 ) was not possible.
+[08:32:06.432550][debug] Resection of 1 new images took 17 msec.
+[08:32:06.436539][debug] findNextBestViews -- Scores (features): 
+[08:32:06.436539][debug] 96(18), 
+[08:32:06.436539][debug] 91(11), 
+[08:32:06.436539][debug] 70(6), 
+[08:32:06.436539][debug] 39(5), 
+[08:32:06.436539][debug] 0(0), 
+[08:32:06.436539][debug] 0(0), 
+[08:32:06.436539][debug] 0(0), 
+[08:32:06.436539][debug] 
+[08:32:06.436539][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 21623444
+	- # unstable poses : 29 / 30
+[08:32:06.437536][debug] Find next best views took: 4 msec
+	# images : 1
+	- scores: from 96 to 96 (threshold was 396)
+	- features: from 18 to 18 (threshold was 30)
+[08:32:06.437536][info] Update Reconstruction:
+	- resection id: 28
+	- # images in the resection group: 1
+	- # images remaining: 12
+[08:32:06.440528][info] [30/46] Robust Resection of view: 21623444
+[08:32:06.453495][debug] Resection status is false:
+	- resection_data.vec_inliers.size() = 12
+	- minimumSamples = 3
+[08:32:06.453495][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 6.23249
+	- # points used for resection: 18
+	- # points validated by robust resection: 12
+[08:32:06.453495][info] Resection of view 21623444 failed.
+[08:32:06.454491][debug] Resection of image 0 ( view id: 21623444 ) was not possible.
+[08:32:06.454491][debug] Resection of 1 new images took 16 msec.
+[08:32:06.457483][debug] findNextBestViews -- Scores (features): 
+[08:32:06.457483][debug] 91(11), 
+[08:32:06.457483][debug] 70(6), 
+[08:32:06.457483][debug] 39(5), 
+[08:32:06.457483][debug] 0(0), 
+[08:32:06.457483][debug] 0(0), 
+[08:32:06.458481][debug] 0(0), 
+[08:32:06.458481][debug] 
+[08:32:06.458481][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 783022837
+	- # unstable poses : 29 / 30
+[08:32:06.458481][debug] Find next best views took: 3 msec
+	# images : 1
+	- scores: from 91 to 91 (threshold was 396)
+	- features: from 11 to 11 (threshold was 30)
+[08:32:06.458481][info] Update Reconstruction:
+	- resection id: 28
+	- # images in the resection group: 1
+	- # images remaining: 11
+[08:32:06.461472][info] [30/46] Robust Resection of view: 783022837
+[08:32:06.471473][debug] Resection status is false:
+	- resection_data.vec_inliers.size() = 9
+	- minimumSamples = 3
+[08:32:06.471473][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 8.54736
+	- # points used for resection: 11
+	- # points validated by robust resection: 9
+[08:32:06.471473][info] Resection of view 783022837 failed.
+[08:32:06.472471][debug] Resection of image 0 ( view id: 783022837 ) was not possible.
+[08:32:06.472471][debug] Resection of 1 new images took 14 msec.
+[08:32:06.476461][debug] findNextBestViews -- Scores (features): 
+[08:32:06.476461][debug] 70(6), 
+[08:32:06.476461][debug] 39(5), 
+[08:32:06.476461][debug] 0(0), 
+[08:32:06.476461][debug] 0(0), 
+[08:32:06.476461][debug] 0(0), 
+[08:32:06.476461][debug] 
+[08:32:06.476461][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 1090188474
+	- # unstable poses : 29 / 30
+[08:32:06.476461][debug] Find next best views took: 3 msec
+	# images : 1
+	- scores: from 70 to 70 (threshold was 396)
+	- features: from 6 to 6 (threshold was 30)
+[08:32:06.476461][info] Update Reconstruction:
+	- resection id: 28
+	- # images in the resection group: 1
+	- # images remaining: 10
+[08:32:06.480452][info] [30/46] Robust Resection of view: 1090188474
+[08:32:06.572204][debug] Resection status is false:
+	- resection_data.vec_inliers.size() = 0
+	- minimumSamples = 3
+[08:32:06.572204][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 0.0653238
+	- # points used for resection: 6
+	- # points validated by robust resection: 0
+[08:32:06.572204][info] Resection of view 1090188474 failed.
+[08:32:06.573201][debug] Resection of image 0 ( view id: 1090188474 ) was not possible.
+[08:32:06.573201][debug] Resection of 1 new images took 96 msec.
+[08:32:06.576194][debug] findNextBestViews -- Scores (features): 
+[08:32:06.576194][debug] 39(5), 
+[08:32:06.576194][debug] 0(0), 
+[08:32:06.576194][debug] 0(0), 
+[08:32:06.576194][debug] 0(0), 
+[08:32:06.576194][debug] 
+[08:32:06.576194][debug] findNextBestViews: beginning of the incremental SfM
+Only the first image of the resection group is used.
+	- image view id : 998369411
+	- # unstable poses : 29 / 30
+[08:32:06.576194][debug] Find next best views took: 3 msec
+	# images : 1
+	- scores: from 39 to 39 (threshold was 396)
+	- features: from 5 to 5 (threshold was 30)
+[08:32:06.576194][info] Update Reconstruction:
+	- resection id: 28
+	- # images in the resection group: 1
+	- # images remaining: 9
+[08:32:06.579187][info] [30/46] Robust Resection of view: 998369411
+[08:32:06.588160][debug] Resection status is false:
+	- resection_data.vec_inliers.size() = 5
+	- minimumSamples = 3
+[08:32:06.588160][info] Robust Resection information:
+	- resection status: false
+	- threshold (error max): 22.4064
+	- # points used for resection: 5
+	- # points validated by robust resection: 5
+[08:32:06.588160][info] Resection of view 998369411 failed.
+[08:32:06.589159][debug] Resection of image 0 ( view id: 998369411 ) was not possible.
+[08:32:06.589159][debug] Resection of 1 new images took 12 msec.
+[08:32:06.592150][debug] findNextBestViews -- Scores (features): 
+[08:32:06.593147][debug] 0(0), 
+[08:32:06.593147][debug] 0(0), 
+[08:32:06.593147][debug] 0(0), 
+[08:32:06.593147][debug] 
+[08:32:06.593147][debug] Failed to find next best views :
+[08:32:06.593147][debug] Not enough point in the putative images: 
+[08:32:06.593147][debug] 0, 
+[08:32:06.593147][debug] 0, 
+[08:32:06.593147][debug] 0, 
+[08:32:06.593147][debug] 
+[08:32:06.595143][info] Incremental Reconstruction start iteration 1:
+	- # number of resection groups: 28
+	- # number of poses: 29
+	- # number of landmarks: 6644
+	- # remaining images: 8
+[08:32:06.599134][debug] findNextBestViews -- Scores (features): 
+[08:32:06.599134][debug] 0(0), 
+[08:32:06.599134][debug] 0(0), 
+[08:32:06.599134][debug] 0(0), 
+[08:32:06.599134][debug] 
+[08:32:06.599134][debug] Failed to find next best views :
+[08:32:06.599134][debug] Not enough point in the putative images: 
+[08:32:06.599134][debug] 0, 
+[08:32:06.599134][debug] 0, 
+[08:32:06.599134][debug] 0, 
+[08:32:06.600129][debug] 
+[08:32:06.600129][info] Incremental Reconstruction completed with 2 iterations:
+	- # number of resection groups: 28
+	- # number of poses: 29
+	- # number of landmarks: 6644
+	- # remaining images: 8
+[08:32:06.619078][info] Structure from Motion statistics:
+	- # input images: 46
+	- # cameras calibrated: 29
+	- # poses: 29
+	- # landmarks: 6644
+	- elapsed time: 64.512
+	- residual RMSE: 1.05853
+[08:32:06.621073][info]  - # sift: 6644
+[08:32:06.647005][debug] 	- # Landmarks: 6644
+	- Residual min: 0.000199045
+	- Residual median: 1.07574
+	- Residual max: 3.98212
+	- Residual mean: 1.23075
+	- Residual first quartile: 0.560526
+	- Residual third quartile: 1.7494
+[08:32:06.647005][info] Histogram of residuals:
+
+0	|	4.5e+03
+0.5	|	4.9e+03
+1	|	4.1e+03
+1.5	|	2.9e+03
+2	|	1.8e+03
+2.5	|	1.1e+03
+3	|	6.2e+02
+3.5	|	2.5e+02
+4
+[08:32:06.648005][info] # landmarks: 6644
+[08:32:06.648005][info] # overall observations: 20165
+[08:32:06.648005][info] Landmarks observations length min: 2, mean: 3.03507, median: 2, max: 24
+[08:32:06.648005][info] Histogram of observations length:
+
+2	|	4149
+3	|	1136
+4	|	492
+5	|	299
+6	|	152
+7	|	112
+8	|	90
+9	|	51
+10	|	39
+11	|	25
+12	|	23
+13	|	20
+14	|	15
+15	|	9
+16	|	10
+17	|	7
+18	|	7
+19	|	1
+20	|	3
+21	|	0
+22	|	2
+23	|	1
+24	|	1
+25
+[08:32:06.648999][info] Landmarks per view min: 0, mean: 0, median: 0, max: 0
+[08:32:06.648999][info] Histogram of nb landmarks per view:
+
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+1
+[08:32:06.651990][debug] Exporting intrinsics history...
+
+Compute scene structure color
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[08:32:07.285322][info] Structure from motion took (s): 73.213000
+[08:32:07.286320][info] Generating HTML report...
+[08:32:07.323222][info] Export SfMData to disk: C:/Users/bouba/Workspace_ICONOLAUSANNE/reconstructions/montbenon_final_high_res/MeshroomCache/StructureFromMotion/dd55d9b799b406e9fe52af02fd03c9785568096b/sfm.abc
+[08:32:07.520236][info] Structure from Motion results:
+	- # input images: 46
+	- # cameras calibrated: 29
+	- # poses: 29
+	- # landmarks: 6644
