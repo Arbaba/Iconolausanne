@@ -1,0 +1,45 @@
+{
+    "version": "0.0.107",
+    "plot_id": "15924e1a-b1ba-11eb-a647-9822ef7eb000",
+    "output_directory": "pixplot_results/Av. de Montbenon",
+    "layouts": {
+        "umap": {
+            "layout": "pixplot_results/Av. de Montbenon\\data\\layouts\\umap-15924e1a-b1ba-11eb-a647-9822ef7eb000.json",
+            "jittered": "pixplot_results/Av. de Montbenon\\data\\layouts\\umap-jittered-15924e1a-b1ba-11eb-a647-9822ef7eb000.json"
+        },
+        "alphabetic": {
+            "layout": "pixplot_results/Av. de Montbenon\\data\\layouts\\grid-15924e1a-b1ba-11eb-a647-9822ef7eb000.json"
+        },
+        "grid": {
+            "layout": "pixplot_results/Av. de Montbenon\\data\\layouts\\rasterfairy-15924e1a-b1ba-11eb-a647-9822ef7eb000.json"
+        },
+        "pose": false,
+        "categorical": false,
+        "date": false,
+        "geographic": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.07142857142857142,
+        "max": 0.0857142857142857,
+        "scatter": 0.014285714285714285,
+        "initial": 0.014285714285714285,
+        "categorical": 0.04285714285714285,
+        "geographic": 0.0017857142857142857
+    },
+    "imagelist": "pixplot_results/Av. de Montbenon\\data\\imagelists\\imagelist-15924e1a-b1ba-11eb-a647-9822ef7eb000.json",
+    "atlas_dir": "pixplot_results/Av. de Montbenon\\data\\atlases\\15924e1a-b1ba-11eb-a647-9822ef7eb000",
+    "metadata": false,
+    "default_hotspots": "pixplot_results/Av. de Montbenon\\data\\hotspots\\hotspot-15924e1a-b1ba-11eb-a647-9822ef7eb000.json",
+    "custom_hotspots": "pixplot_results/Av. de Montbenon\\data\\hotspots\\user_hotspots.json",
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "images_cropped": false,
+    "creation_date": "10-May-2021-20:04:25"
+}

@@ -1,0 +1,45 @@
+{
+    "version": "0.0.107",
+    "plot_id": "dc4b1478-ad0b-11eb-88e4-9822ef7eb000",
+    "output_directory": "pixplot_results/Pl. de la Riponne",
+    "layouts": {
+        "umap": {
+            "layout": "pixplot_results/Pl. de la Riponne\\data\\layouts\\umap-dc4b1478-ad0b-11eb-88e4-9822ef7eb000.json",
+            "jittered": "pixplot_results/Pl. de la Riponne\\data\\layouts\\umap-jittered-dc4b1478-ad0b-11eb-88e4-9822ef7eb000.json"
+        },
+        "alphabetic": {
+            "layout": "pixplot_results/Pl. de la Riponne\\data\\layouts\\grid-dc4b1478-ad0b-11eb-88e4-9822ef7eb000.json"
+        },
+        "grid": {
+            "layout": "pixplot_results/Pl. de la Riponne\\data\\layouts\\rasterfairy-dc4b1478-ad0b-11eb-88e4-9822ef7eb000.json"
+        },
+        "pose": false,
+        "categorical": false,
+        "date": false,
+        "geographic": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.043478260869565216,
+        "max": 0.05217391304347826,
+        "scatter": 0.008695652173913044,
+        "initial": 0.008695652173913044,
+        "categorical": 0.02608695652173913,
+        "geographic": 0.0010869565217391304
+    },
+    "imagelist": "pixplot_results/Pl. de la Riponne\\data\\imagelists\\imagelist-dc4b1478-ad0b-11eb-88e4-9822ef7eb000.json",
+    "atlas_dir": "pixplot_results/Pl. de la Riponne\\data\\atlases\\dc4b1478-ad0b-11eb-88e4-9822ef7eb000",
+    "metadata": false,
+    "default_hotspots": "pixplot_results/Pl. de la Riponne\\data\\hotspots\\hotspot-dc4b1478-ad0b-11eb-88e4-9822ef7eb000.json",
+    "custom_hotspots": "pixplot_results/Pl. de la Riponne\\data\\hotspots\\user_hotspots.json",
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "images_cropped": false,
+    "creation_date": "04-May-2021-21:11:32"
+}

@@ -1,0 +1,45 @@
+{
+    "version": "0.0.107",
+    "plot_id": "7723a514-c448-11eb-8c26-f4c1ad97b32e",
+    "output_directory": "pixplot_results/Pl. Saint-Francois",
+    "layouts": {
+        "umap": {
+            "layout": "pixplot_results/Pl. Saint-Francois\\data\\layouts\\umap-7723a514-c448-11eb-8c26-f4c1ad97b32e.json",
+            "jittered": "pixplot_results/Pl. Saint-Francois\\data\\layouts\\umap-jittered-7723a514-c448-11eb-8c26-f4c1ad97b32e.json"
+        },
+        "alphabetic": {
+            "layout": "pixplot_results/Pl. Saint-Francois\\data\\layouts\\grid-7723a514-c448-11eb-8c26-f4c1ad97b32e.json"
+        },
+        "grid": {
+            "layout": "pixplot_results/Pl. Saint-Francois\\data\\layouts\\rasterfairy-7723a514-c448-11eb-8c26-f4c1ad97b32e.json"
+        },
+        "pose": false,
+        "categorical": false,
+        "date": false,
+        "geographic": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.034482758620689655,
+        "max": 0.041379310344827586,
+        "scatter": 0.006896551724137931,
+        "initial": 0.006896551724137931,
+        "categorical": 0.020689655172413793,
+        "geographic": 0.0008620689655172414
+    },
+    "imagelist": "pixplot_results/Pl. Saint-Francois\\data\\imagelists\\imagelist-7723a514-c448-11eb-8c26-f4c1ad97b32e.json",
+    "atlas_dir": "pixplot_results/Pl. Saint-Francois\\data\\atlases\\7723a514-c448-11eb-8c26-f4c1ad97b32e",
+    "metadata": false,
+    "default_hotspots": "pixplot_results/Pl. Saint-Francois\\data\\hotspots\\hotspot-7723a514-c448-11eb-8c26-f4c1ad97b32e.json",
+    "custom_hotspots": "pixplot_results/Pl. Saint-Francois\\data\\hotspots\\user_hotspots.json",
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "images_cropped": false,
+    "creation_date": "03-June-2021-10:50:18"
+}
