@@ -38,7 +38,7 @@ Please install the desktop version of [Google Earth](https://www.google.com/eart
   
 
 ## Research summary
-Our approach to infer the position and orientation images is composed of three main parts:
+Our approach to infer the position and orientation images is the following:
 
  1. Identification of image clusters using Pixplot.
 
@@ -55,7 +55,7 @@ Our approach to infer the position and orientation images is composed of three m
 Results obtain by applying the pipeline on images from the Tribunal de Montbenon.
 
 
-![Tribunal de Montbenon](docs/3D_montbenon.JPG)
+![Tribunal de Montbenon](./docs/3D_montbenon.JPG)
 
 Images used in this project are coming from the [Musée Historique de Lausanne](https://www.lausanne.ch/vie-pratique/culture/musees/mhl.html).
 
